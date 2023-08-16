@@ -1,0 +1,406 @@
+Date,From Time,To Time,Section,Subject Code - Subject Name,Location
+6/5/2023,08:00,10:00,3A3-1,19CH404 - Chemical Process Industries,RB 1F LH 04
+6/5/2023,08:00,10:00,3N3-1,19BM411 - Medical Imaging Systems,EEE 3F LH 02
+6/5/2023,08:00,10:00,3S3-1,19MD601 - Biomedical Sensors and Measurements,ADMIN 4F LH 01
+6/5/2023,08:00,10:00,3Z1-1,19EN102 - Technical English,RB 2F LH 02
+6/5/2023,08:00,10:00,4F4-1,19EC401 - Electronic Circuits I,ECE 2F LH 01
+6/5/2023,08:00,10:00,4G2-1,19EC401 - Electronic Circuits I,ECE 4F LH 01
+6/5/2023,08:00,10:00,4G2-1,19CY205 - Principles of Chemistry in Engineering,RB 3F LH 16
+6/5/2023,08:00,10:00,4G2-2,19EC401 - Electronic Circuits I,ECE 3F LH 01
+6/5/2023,08:00,10:00,4G2-2,19CY205 - Principles of Chemistry in Engineering,RB 3F LH 15
+6/5/2023,08:00,10:00,4H1-1,19MA219 - Transforms and its Applications,RB 3F LH 04
+6/5/2023,08:00,10:00,4H1-1,19AG405 - Tractors and Automotive Engines,RB 3F LH 12
+6/5/2023,08:00,10:00,4I5-1,19CS411 - Virtualization and Cloud Computing,CSE 2F LH 01
+6/5/2023,08:00,10:00,4P1-1,19ME507 - Product Design and Development,RB 2F LH 08
+6/5/2023,08:00,10:00,4P1-1,19ME533 - 3D Printing Processes,RB 2F LH 06
+6/5/2023,08:00,10:00,4V2-1,19CS406 - Computer Networks,CSE 4F OW LH 03
+6/5/2023,08:00,10:00,5D1-1,19EC302 - Electronic Devices,CSE 3F OW LH 05
+6/5/2023,08:00,10:00,5D1-2,19EC302 - Electronic Devices,ECE 1F LH 01
+6/5/2023,08:00,10:00,5G3-1,19EC306 - Analog and Digital Communication,CSE 1F LH 01
+6/5/2023,08:00,10:00,5H4-1,19ME402 - Manufacturing Technology I,RB 3F LH 19
+6/5/2023,08:00,10:00,5Q1-1,19EC404 - Electronic Circuits II,RB GF LH 01
+6/5/2023,08:00,10:00,5Z1-1,19EC408 - Microprocessor and Microcontroller,EEE 3F LH 01
+6/5/2023,12:00,2:00,3U1-1,19EN102 - Technical English,RB GF LH 01
+6/5/2023,1:00,3:00,3E2-1,19EC402 - Signals and Systems,ECE 1F LH 01
+6/5/2023,1:00,3:00,3J3-1,19BM412 - Anatomy and Human Physiology,CSE 4F OW LH 04
+6/5/2023,1:00,3:00,3Q2-1,19EC516 - HDL Programming,ECE 1F LH 02
+6/5/2023,1:00,3:00,3R1-1,19EN102 - Technical English,RB 3F LH 08
+6/5/2023,1:00,3:00,3R1-2,19EN102 - Technical English,RB 1F LH 05
+6/5/2023,1:00,3:00,3Y2-1,19EC501 - Multimedia Compression Techniques,ECE 2F LH 02
+6/5/2023,1:00,3:00,4B3-1,19CS406 - Computer Networks,CSE 3F LH 02
+6/5/2023,1:00,3:00,4C5-1,19CS408 - Software Engineering,CSE 3F LH 01
+6/5/2023,1:00,3:00,4F2-1,19PH211 - Materials Science,RB 3F LH 17
+6/5/2023,1:00,3:00,4F2-1,19CY205 - Principles of Chemistry in Engineering,RB 3F LH 12
+6/5/2023,1:00,3:00,4G1-1,19AG418 - Farm Machinery and Equipment II,RB 3F LH 16
+6/5/2023,1:00,3:00,4Y2-1,19ME521 - Computer Integrated Manufacturing Systems,RB 3F LH 05
+6/5/2023,1:00,3:00,4Y2-2,19CS405 - Operating System,CSE 1F LH 01
+6/5/2023,1:00,3:00,5F2-1,19EC409 - Discrete Time Signal Processing,ECE 2F LH 01
+6/5/2023,1:00,3:00,5L4-1,19ME407 - Design of Machine Elements,RB 3F LH 02
+6/5/2023,1:00,3:00,5O1-2,19EC404 - Electronic Circuits II,RB 1F LH 03
+6/5/2023,1:00,3:00,5Q3-1,19PH212 - Basics of Solid State Devices,RB 1F PHYSICS LAB 3
+6/5/2023,1:00,3:00,5V1-1,19EC405 - Linear Integrated Circuits,ECE 3F LH 01
+6/5/2023,1:00,3:00,6G1-1,19ME406 - Heat and Mass Transfer,RB 2F LH 05
+6/6/2023,08:00,10:00,3B3-1,19CH414 - Safety in Chemical Industries,RB 2F LH 05
+6/6/2023,08:00,10:00,3C1-1,19CS307 - Web Designing and Internet Applications,CSE GF BLOCKCHAIN LAB
+6/6/2023,08:00,10:00,3C1-1,19EI403 - Principles of Signals and Systems,CSE 3F LH 01
+6/6/2023,08:00,10:00,3I3-1,19PH208 - Medical Physics,RB 2F LH 04
+6/6/2023,08:00,10:00,3Y1-2,19EN102 - Technical English,RB 2F LH 07
+6/6/2023,08:00,10:00,4B2-1,19MA222 - Probability and Queueing Models,RB 1F LH 05
+6/6/2023,08:00,10:00,4B2-2,19MA222 - Probability and Queueing Models,CSE 1F LH 02
+6/6/2023,08:00,10:00,4D2-1,19CY205 - Principles of Chemistry in Engineering,RB 3F LH 20
+6/6/2023,08:00,10:00,4D2-2,19CY205 - Principles of Chemistry in Engineering,RB 3F LH 19
+6/6/2023,08:00,10:00,4H1-1,19ME302 - Engineering Drawing,RB 1F LH 06
+6/6/2023,08:00,10:00,4H1-1,19ME505 - Computer Aided Design,RB 3F LH 16
+6/6/2023,08:00,10:00,4N4-1,19CY203 - Chemistry for Civil Engineering,RB 3F LH 18
+6/6/2023,08:00,10:00,4U4-1,19ME527 - Hydraulics and Pneumatics,RB 1F LH 03
+6/6/2023,08:00,10:00,4Y4-1,19MA212 - Algebra and Number Theory,RB 3F LH 08
+6/6/2023,08:00,10:00,4Y4-2,19MA212 - Algebra and Number Theory,RB 1F LH 04
+6/6/2023,08:00,10:00,5N4-1,19ME409 - Dynamics of Machines,RB 1F LH 01
+6/6/2023,08:00,10:00,5R1-2,19EC405 - Linear Integrated Circuits,ECE 4F LH 02
+6/6/2023,08:00,10:00,5T2-2,19EC415 - Optical Communication and Networks,ECE 2F LH 01
+6/6/2023,08:00,10:00,5U4-1,19EI402 - Digital Logic Circuits,EEE 3F OW LH 01
+6/6/2023,08:00,10:00,6F1-1,19ME304 - Strength of Materials for Mechanical Engineers,RB 1F LH 02
+6/6/2023,09:00,10:00,4B2-1,19MA219 - Transforms and its Applications,RB 2F LH 02
+6/6/2023,1:00,3:00,3I1-1,19EC606 - Drones for Agriculture,CSE 2F LH 02
+6/6/2023,1:00,3:00,3I4-1,19MD504 - Medical Imaging Techniques,CSE 3F LH 02
+6/6/2023,1:00,3:00,3J2-1,19EC407 - Transmission Lines,ECE 4F LH 02
+6/6/2023,1:00,3:00,3V1-1,19EN102 - Technical English,RB 2F LH 06
+6/6/2023,1:00,3:00,3X2-1,19EC508 - Ad hoc and Wireless Sensor Networks,ECE 3F LH 02
+6/6/2023,1:00,3:00,4D5-1,19CS409 - Compiler Design,CSE 3F LH 01
+6/6/2023,1:00,3:00,4G1-1,19AG404 - Irrigation and Drainage Engineering,RB 3F LH 01
+6/6/2023,1:00,3:00,4G1-1,19MA204 - Complex Variables and Ordinary Differential Equations,RB 1F LH 04
+6/6/2023,1:00,3:00,4G1-2,19EC414 - Embedded Systems,CSE 3F OW LH 01
+6/6/2023,1:00,3:00,4G1-2,19MA204 - Complex Variables and Ordinary Differential Equations,RB 2F LH 02
+6/6/2023,1:00,3:00,4H2-1,19CY205 - Principles of Chemistry in Engineering,RB 2F LH 03
+6/6/2023,1:00,3:00,4H2-2,19CY205 - Principles of Chemistry in Engineering,RB 1F LH 06
+6/6/2023,1:00,3:00,4J2-1,19CY205 - Principles of Chemistry in Engineering,RB 2F CHEMISTRY LAB 2
+6/6/2023,1:00,3:00,4J2-2,19CY205 - Principles of Chemistry in Engineering,RB 2F LH 10
+6/6/2023,1:00,3:00,4L2-1,19MA202 - Calculus and Laplace Transforms,RB 1F LH 05
+6/6/2023,1:00,3:00,4L2-1,19MA217 - Random Processes and Statistics,RB 3F LH 08
+6/6/2023,1:00,3:00,4L2-2,19MA217 - Random Processes and Statistics,RB 3F LH 05
+6/6/2023,1:00,3:00,4R3-1,19PH210 - Solid State Physics,RB 3F LH 18
+6/6/2023,1:00,3:00,5M3-1,19BM408 - Biomedical Signal Processing,CSE 3F OW LH 02
+6/6/2023,1:00,3:00,5O4-1,19ME410 - Design of Transmission Systems,RB 3F LH 02
+6/6/2023,1:00,3:00,5P3-1,19CY206 - Principles of Electrochemistry,RB 2F LH 07
+6/6/2023,1:00,3:00,5V2-2,19EC415 - Optical Communication and Networks,ECE 4F LH 01
+6/6/2023,1:00,3:00,5Y1-1,19EC406 - Digital Communication,ECE 3F LH 01
+6/6/2023,1:00,3:00,5Z4-1,19BM413 - Virtual Instrumentation for Clinical Applications,CSE 3F OW LH 03
+6/7/2023,08:00,10:00,3C4-1,19EI415 - Industrial Data Networks,EEE 3F LH 01
+6/7/2023,08:00,10:00,3E1-1,19AG411 - Sprinkler and Micro Irrigation Systems,RB 1F LH 09
+6/7/2023,08:00,10:00,3E1-1,19EN102 - Technical English,RB 3F LH 03
+6/7/2023,08:00,10:00,3E1-2,19EN102 - Technical English,RB 3F LH 02
+6/7/2023,08:00,10:00,3H4-1,19MD502 - Nano Technology and Applications,CSE 3F LH 02
+6/7/2023,08:00,10:00,3J1-1,19EC603 - Fuzzy Logic Systems and ANN,ECE 1F LH 01
+6/7/2023,08:00,10:00,3J1-1,19ME308 - Power Plant Technology,RB 3F LH 16
+6/7/2023,08:00,10:00,4A1-1,19MA214 - Series and Transforms,RB 3F LH 10
+6/7/2023,08:00,10:00,4C1-1,19MA201 - Calculus and Matrix Algebra,RB 2F LH 02
+6/7/2023,08:00,10:00,4C2-1,19MA222 - Probability and Queueing Models,ADMIN 4F LH 01
+6/7/2023,08:00,10:00,4L1-1,19AG421 - Dairy and Food Engineering,RB 2F LH 04
+6/7/2023,08:00,10:00,4Q4-1,19MA218 - Probability and Queueing Theory,RB 2F LH 08
+6/7/2023,08:00,10:00,4Q4-1,19PH202 - Fundamentals of Engineering Physics,RB 1F LH 02
+6/7/2023,08:00,10:00,4S4-1,19CY208 - Basic Engineering Chemistry,RB 2F CHEMISTRY LAB 2
+6/7/2023,08:00,10:00,4T3-1,19MA204 - Complex Variables and Ordinary Differential Equations,RB 3F LH 01
+6/7/2023,08:00,10:00,4T3-2,19MA204 - Complex Variables and Ordinary Differential Equations,RB 3F LH 05
+6/7/2023,08:00,10:00,4T4-1,19ME303 - Engineering Mechanics for Mechanical Engineers,RB 3F LH 12
+6/7/2023,08:00,10:00,5A2-1,19EC408 - Microprocessor and Microcontroller,CSE 2F OW IITB REMOTE CENTRE
+6/7/2023,08:00,10:00,5A2-2,19EC408 - Microprocessor and Microcontroller,ECE 2F LH 02
+6/7/2023,08:00,10:00,5C2-1,19EC408 - Microprocessor and Microcontroller,ECE 4F LH 01
+6/7/2023,08:00,10:00,5E1-1,19EC302 - Electronic Devices,ECE 3F LH 01
+6/7/2023,08:00,10:00,5G1-1,19EC303 - Digital Principles and System Design,ECE 2F LH 01
+6/7/2023,08:00,10:00,5H3-1,19BM401 - Biochemistry,CSE 4F OW LH 05
+6/7/2023,08:00,10:00,5J1-1,19EC403 - Communication Theory,ECE 3F LH 02
+6/7/2023,08:00,10:00,5K2-1,19EC410 - VLSI Design,ECE 4F LH 02
+6/7/2023,08:00,10:00,5M4-1,19ME408 - Metrology and Measurements,RB 3F LH 15
+6/7/2023,08:00,10:00,5S4-1,19EI401 - Electrical Measurements,EEE 3F LH 02
+6/7/2023,1:00,3:00,3K2-1,19EC407 - Transmission Lines,RB 1F LH 06
+6/7/2023,1:00,3:00,3R3-1,19BM506 - Medical Nanotechnology,CSE 3F LH 01
+6/7/2023,1:00,3:00,3T3-1,19PH207 - Materials for Electronics,RB 3F LH 17
+6/7/2023,1:00,3:00,3W1-1,19EN102 - Technical English,RB 3F LH 12
+6/7/2023,1:00,3:00,4C4-1,19ME302 - Engineering Drawing,RB 3F LH 08
+6/7/2023,1:00,3:00,4C4-2,19ME302 - Engineering Drawing,RB 3F LH 16
+6/7/2023,1:00,3:00,4I2-1,19MA212 - Algebra and Number Theory,RB 2F LH 04
+6/7/2023,1:00,3:00,4I2-2,19CY205 - Principles of Chemistry in Engineering,RB 3F LH 02
+6/7/2023,1:00,3:00,4Q2-1,19EC401 - Electronic Circuits I,RB 2F LH 01
+6/7/2023,1:00,3:00,5A1-1,19EC301 - Electric Circuit Analysis,ECE 3F OW EMBEDDED LAB
+6/7/2023,1:00,3:00,5H1-1,19EC303 - Digital Principles and System Design,ECE 4F LH 01
+6/7/2023,1:00,3:00,5H1-2,19EC303 - Digital Principles and System Design,ECE 1F OW MEMS LAB DESIGN CENTER
+6/7/2023,1:00,3:00,5R4-1,19EI301 - Analog Circuits and Systems,ADMIN 3F OW LH 03
+6/7/2023,1:00,3:00,5S1-2,19EC405 - Linear Integrated Circuits,ECE 2F LH 01
+6/7/2023,1:00,3:00,5S2-1,19EC412 - Communication Networks,ECE 1F LH 02
+6/8/2023,08:00,10:00,3H1-1,19EC605 - Electronic System Design,ECE 1F LH 02
+6/8/2023,08:00,10:00,3K3-1,19MD402 - Bio Control Systems,CSE 3F OW LH 01
+6/8/2023,08:00,10:00,3K4-1,19CS305 - Computer Architecture,CSE 2F LH 01
+6/8/2023,08:00,10:00,3M2-1,19EC413 - Wireless Communication,ECE 1F LH 01
+6/8/2023,08:00,10:00,3P4-1,19CS407 - Theory of Computation,CSE 1F LH 01
+6/8/2023,08:00,10:00,3Q1-1,19EN102 - Technical English,RB 2F LH 03
+6/8/2023,08:00,10:00,3Q1-2,19EN102 - Technical English,RB 1F LH 06
+6/8/2023,08:00,10:00,4A5-1,19CS414 - Mobile Application Development,EEE 5F OW AR VR LAB
+6/8/2023,08:00,10:00,4B1-1,19PH203 - Engineering Physics,RB 2F LH 05
+6/8/2023,08:00,10:00,4E3-1,19CS404 - Database Management System and its Applications,CSE 2F LH 02
+6/8/2023,08:00,10:00,4E3-1,19CY202 - Chemistry for Biomedical Engineering,RB 2F LH 01
+6/8/2023,08:00,10:00,5G1-2,19EC303 - Digital Principles and System Design,ECE 4F LH 01
+6/8/2023,08:00,10:00,6A1-1,19ME304 - Strength of Materials for Mechanical Engineers,RB 3F LH 10
+6/8/2023,1:00,3:00,3C2-1,19EC304 - Electromagnetic Fields,ECE 1F LH 01
+6/8/2023,1:00,3:00,3C2-2,19EC304 - Electromagnetic Fields,ECE 1F LH 02
+6/8/2023,1:00,3:00,3F1-1,19AG420 - Post Harvest Engineering of Horticultural Crops,RB 1F SB LH - 10 (Post Harvest Lab)
+6/8/2023,1:00,3:00,3M3-1,19BM410 - Bio Materials and Artificial Organs,CSE 2F LH 02
+6/8/2023,1:00,3:00,3P1-2,19PH214 - Physics for Quantum Computing,RB 3F LH 13
+6/8/2023,1:00,3:00,3Q4-1,19CS502 - Computer Graphics and Multimedia,CSE 1F LH 01
+6/8/2023,1:00,3:00,4B1-1,19ME531 - Intellectual Property Rights,RB 2F LH 07
+6/8/2023,1:00,3:00,4B4-1,19ME302 - Engineering Drawing,RB 1F EP LAB 1
+6/8/2023,1:00,3:00,4I4-1,19CY209 - Chemistry for Technologists II,RB 3F LH 02
+6/8/2023,1:00,3:00,4O1-1,19ME511 - Automobile Engineering,RB 3F LH 03
+6/8/2023,1:00,3:00,4O1-1,19ME528 - Principles of Robotics,RB 3F LH 05
+6/8/2023,1:00,3:00,4O2-1,19EC414 - Embedded Systems,CSE 4F OW LH 05
+6/8/2023,1:00,3:00,4O2-1,19ME302 - Engineering Drawing,RB 3F LH 17
+6/8/2023,1:00,3:00,4O2-2,19EC414 - Embedded Systems,ECE 3F LH 01
+6/8/2023,1:00,3:00,4O2-2,19ME302 - Engineering Drawing,RB 3F LH 12
+6/8/2023,1:00,3:00,4Q2-2,19EC401 - Electronic Circuits I,ECE 2F LH 02
+6/8/2023,1:00,3:00,4S2-1,19CY210 - Chemistry for Technologists III,RB GF CHEMISTRY LAB 1
+6/8/2023,1:00,3:00,5B2-1,19EC408 - Microprocessor and Microcontroller,RB 1F LH 04
+6/8/2023,1:00,3:00,5B2-2,19EC408 - Microprocessor and Microcontroller,ECE 2F LH 01
+6/8/2023,1:00,3:00,5K4-1,19ME405 - Thermal Engineering,RB 3F LH 04
+6/8/2023,1:00,3:00,5L2-1,19EC411 - Antennas and Microwave Engineering,ECE 4F LH 01
+6/8/2023,1:00,3:00,5N1-1,19EC404 - Electronic Circuits II,ECE 4F LH 02
+6/8/2023,1:00,3:00,5P1-1,19EC404 - Electronic Circuits II,ADMIN 4F OW LH 03
+6/8/2023,1:00,3:00,5R2-1,19EC412 - Communication Networks,ADMIN 4F LH 01
+6/8/2023,1:00,3:00,5U2-2,19EC415 - Optical Communication and Networks,CSE 2F OW IITB REMOTE CENTRE
+6/8/2023,1:00,3:00,5V4-1,19EI405 - Industrial Instrumentation I,CSE 3F LH 01
+6/8/2023,1:00,3:00,5X4-1,19MD403 - Medical Instrumentation,CSE 3F LH 02
+6/9/2023,08:00,10:00,2B1-1,19AG407 - Farm Building Construction and Cost Estimation,RB 2F LH 02
+6/9/2023,08:00,10:00,3F4-1,19MD407 - Medical Informatics,CSE 3F OW LH 01
+6/9/2023,08:00,10:00,3G1-1,19EC602 - Introduction to Micro Electro Mechanical Systems,ECE 4F LH 01
+6/9/2023,08:00,10:00,3H3-1,19EI407 - Analytical Instruments,EEE 2F LH 01
+6/9/2023,08:00,10:00,3L3-1,19BM406 - Biomechanics,CSE 2F LH 01
+6/9/2023,08:00,10:00,3L3-2,19BM406 - Biomechanics,CSE 4F OW LH 05
+6/9/2023,08:00,10:00,3L4-1,19CS305 - Computer Architecture,CSE 4F OW LH 04
+6/9/2023,08:00,10:00,3O3-1,19BM503 - Fiber Optics and Lasers in Medicine,CSE 2F LH 02
+6/9/2023,08:00,10:00,3P2-1,19EC516 - HDL Programming,ECE 1F LH 01
+6/9/2023,08:00,10:00,3S1-1,19EN102 - Technical English,RB 3F LH 04
+6/9/2023,08:00,10:00,3S1-2,19EN102 - Technical English,RB 2F LH 06
+6/9/2023,08:00,10:00,3T2-1,19EC503 - Digital Image Processing,ECE 1F LH 02
+6/9/2023,08:00,10:00,3V1-2,19EN102 - Technical English,RB 1F LH 06
+6/9/2023,08:00,10:00,4D3-1,19CS404 - Database Management System and its Applications,CSE 3F LH 02
+6/9/2023,08:00,10:00,4D3-1,19ME523 - Non Destructive Materials Evaluation,RB 3F LH 12
+6/9/2023,08:00,10:00,4D3-2,19CS404 - Database Management System and its Applications,CSE 4F OW LH 03
+6/9/2023,08:00,10:00,4E2-1,19CY205 - Principles of Chemistry in Engineering,RB 1F LH 03
+6/9/2023,08:00,10:00,4E2-1,19MA203 - Complex Variables and Differential Equations,RB GF LH 01
+6/9/2023,08:00,10:00,4E2-2,19CY205 - Principles of Chemistry in Engineering,RB 1F LH 02
+6/9/2023,08:00,10:00,4F5-1,19CS409 - Compiler Design,CSE 3F LH 01
+6/9/2023,08:00,10:00,4J4-1,19CY208 - Basic Engineering Chemistry,RB 2F LH 01
+6/9/2023,08:00,10:00,4O4-1,19MA210 - Transforms and Partial Differential Equations,RB 1F LH 01
+6/9/2023,08:00,10:00,4R4-1,19MA206 - Logic and Combinatorics,RB 2F LH 08
+6/9/2023,08:00,10:00,4R4-1,19MA207 - Numerical Methods and Partial Differential Equations,RB 1F LH 04
+6/9/2023,08:00,10:00,4W2-1,19MA211 - Statistics and Numerical Methods,RB 3F LH 01
+6/9/2023,08:00,10:00,5C1-1,19EC302 - Electronic Devices,ECE 2F LH 01
+6/9/2023,08:00,10:00,5I4-1,19ME403 - Kinematics of Machines,RB 3F LH 02
+6/9/2023,08:00,10:00,5M1-1,19EC404 - Electronic Circuits II,ECE 4F LH 02
+6/9/2023,08:00,10:00,5Q4-1,19ME413 - Power Plant Engineering,RB 2F LH 10
+6/9/2023,08:00,10:00,5S1-1,19EC405 - Linear Integrated Circuits,ECE 3F LH 02
+6/9/2023,08:00,10:00,5X1-1,19EC406 - Digital Communication,EEE 3F LH 02
+6/9/2023,08:00,10:00,5Y1-2,19EC406 - Digital Communication,ECE 3F LH 01
+6/9/2023,08:00,10:00,5Y2-1,19CH406 - Mass Transfer I,RB 2F LH 07
+6/9/2023,1:00,3:00,3A2-1,19PH201 - Basics of Engineering Physics,RB 3F LH 03
+6/9/2023,1:00,3:00,3T1-2,19EN102 - Technical English,RB 3F LH 12
+6/9/2023,1:00,3:00,3X1-2,19EN102 - Technical English,RB 2F LH 01
+6/9/2023,1:00,3:00,4A3-2,19CS406 - Computer Networks,CSE 3F LH 02
+6/9/2023,1:00,3:00,4A4-1,19ME515 - Advanced Internal Combustion Engineering,RB 3F LH 20
+6/9/2023,1:00,3:00,4A4-1,19PH215 - Physics of Solid State Materials,RB 3F LH 02
+6/9/2023,1:00,3:00,4E5-1,19CS409 - Compiler Design,CSE 3F LH 01
+6/9/2023,1:00,3:00,4Q1-1,19MA218 - Probability and Queueing Theory,RB 3F LH 08
+6/9/2023,1:00,3:00,4U3-1A,19MA204 - Complex Variables and Ordinary Differential Equations,RB 1F LH 03
+6/9/2023,1:00,3:00,4X3-1,19CS413 - Artificial Intelligence,CSE 2F LH 02
+6/9/2023,1:00,3:00,4X3-1,19MA217 - Random Processes and Statistics,RB 3F LH 13
+6/9/2023,1:00,3:00,4X3-2,19MA217 - Random Processes and Statistics,RB 3F LH 15
+6/9/2023,1:00,3:00,5E2-2,19EC409 - Discrete Time Signal Processing,ECE 2F LH 02
+6/9/2023,1:00,3:00,5F1-2,19EC303 - Digital Principles and System Design,ECE 3F LH 01
+6/9/2023,1:00,3:00,5N2-1,19EC411 - Antennas and Microwave Engineering,ECE 4F LH 02
+6/9/2023,1:00,3:00,5X2-1,19CH403 - Mechanical Operations,RB 1F LH 05
+6/12/2023,10:00,12:00,3A1-1,19EC511 - Satellite Communication,EEE 2F LH 01
+6/12/2023,10:00,12:00,3A4-1,19EI417 - Linear Control Systems,CSE 2F LH 02
+6/12/2023,10:00,12:00,3T1-1,19EN102 - Technical English,RB 3F LH 02
+6/12/2023,10:00,12:00,4F3-1,19CS413 - Artificial Intelligence,CSE 2F LH 01
+6/12/2023,10:00,12:00,4F3-1,19ME519 - Engineering Materials and Metallurgy,RB 1F LH 01
+6/12/2023,10:00,12:00,4R1-1,19EN101 - Communicative English,RB 1F LH 06
+6/12/2023,10:00,12:00,4W3-1,19MA217 - Random Processes and Statistics,RB 3F LH 08
+6/12/2023,10:00,12:00,4W3-2,19MA217 - Random Processes and Statistics,RB 3F LH 03
+6/12/2023,10:00,12:00,5G4-1,19ME401 - Engineering Thermodynamics,RB 3F LH 13
+6/12/2023,10:00,12:00,5J4-1,19ME404 - Manufacturing Technology II,RB 1F LH 02
+6/12/2023,10:00,12:00,5O3-1,19MD406 - Medical Image Processing,CSE 4F OW LH 05
+6/12/2023,10:00,12:00,5W1-1,19EC406 - Digital Communication,ECE 1F LH 02
+6/12/2023,3:00,5:00,3A1-1,19AG203 - Principles of Horticultural Crops and Plant Protection,RB 1F LH 03
+6/12/2023,3:00,5:00,3D1-1,19AG406 - Engineering Properties of Agricultural Produce,RB 1F SB LH - 10 (Post Harvest Lab)
+6/12/2023,3:00,5:00,3P3-1,19MD511 - Brain Computer Interface and its Applications,CSE 3F OW LH 02
+6/12/2023,3:00,5:00,3Q3-1,19MD404 - Pattern Recognition and Artificial Intelligence,ADMIN 4F LH 01
+6/12/2023,3:00,5:00,3Q3-1,19BM501 - Medical Assist Devices,CSE 4F OW LH 05
+6/12/2023,3:00,5:00,3Y2-1,19CH301 - Principles of Chemical Engineering,RB 3F LH 10
+6/12/2023,3:00,5:00,3Z3-1,19CS515 - Block Chain Architecture and its Use Cases,CSE 1F LH 01
+6/12/2023,3:00,5:00,3Z3-1,19EI404 - Transducer Engineering,CSE 2F OW IITB REMOTE CENTRE
+6/12/2023,3:00,5:00,4E1-1,"19AG417 - Groundwater, Wells and Pumps",RB 2F LH 05
+6/12/2023,3:00,5:00,4G5-1,19PH205 - Computational Physics,RB 2F LH 08
+6/12/2023,3:00,5:00,4K2-1,19MA219 - Transforms and its Applications,RB 3F LH 01
+6/12/2023,3:00,5:00,4K2-2,19MA219 - Transforms and its Applications,RB 2F LH 06
+6/12/2023,3:00,5:00,5I2-1,19EC410 - VLSI Design,ECE SF PG LAB
+6/12/2023,3:00,5:00,5I3-1,19BM402 - Biosensors and Transducers,CSE 3F OW LH 01
+6/12/2023,3:00,5:00,5J1-2,19EC403 - Communication Theory,ECE 4F LH 02
+6/12/2023,3:00,5:00,5J3-1,19BM404 - Pathology and Microbiology,CSE 3F OW LH 03
+6/12/2023,3:00,5:00,5T2-1,19EC415 - Optical Communication and Networks,ECE 2F LH 01
+6/12/2023,3:00,5:00,5Y4-1,19MD405 - Therapeutic Equipment,CSE 3F OW LH 04
+6/12/2023,3:00,5:00,5Y4-1,19ME407 - Design of Machine Elements,RB 3F LH 18
+6/12/2023,5:00,7:00,4EV1-1,19EN102 - Technical English,ECE 1F LH 01
+6/12/2023,5:00,7:00,5EV1-1,19EC409 - Discrete Time Signal Processing,ECE 1F LH 02
+6/13/2023,10:00,12:00,2Q1-1,19EN618 - Indian Astronomy and Mathematics,RB 3F LH 10
+6/13/2023,10:00,12:00,3E4-1,19MD401 - Basics of Measurements and Instrumentation,CSE 3F OW LH 04
+6/13/2023,10:00,12:00,3H2-1,19EC407 - Transmission Lines,ECE 3F LH 02
+6/13/2023,10:00,12:00,3H2-2,19EC407 - Transmission Lines,ECE 4F LH 01
+6/13/2023,10:00,12:00,3J4-1,19CS305 - Computer Architecture,CSE 3F LH 01
+6/13/2023,10:00,12:00,3L2-1,19EC413 - Wireless Communication,ECE 4F LH 02
+6/13/2023,10:00,12:00,3U1-2,19EN102 - Technical English,RB 2F LH 03
+6/13/2023,10:00,12:00,4A1-1,19ME531 - Intellectual Property Rights,RB 3F LH 18
+6/13/2023,10:00,12:00,4B4-2,19ME302 - Engineering Drawing,RB 1F LH 06
+6/13/2023,10:00,12:00,4C3-1,19CH410 - Transport Phenomena,RB 2F LH 04
+6/13/2023,10:00,12:00,4C3-1,19CS404 - Database Management System and its Applications,CSE 4F OW LH 03
+6/13/2023,10:00,12:00,4C3-2,19CS404 - Database Management System and its Applications,CSE 2F LH 01
+6/13/2023,10:00,12:00,4I1-1,19AG408 - Waste and By-Products Utilization,RB 1F LH 03
+6/13/2023,10:00,12:00,4I1-1,19CS411 - Virtualization and Cloud Computing,CSE 2F LH 02
+6/13/2023,10:00,12:00,4I1-2,19CS411 - Virtualization and Cloud Computing,CSE 1F LH 01
+6/13/2023,10:00,12:00,4K3-1,19CH402 - Chemical Engineering Thermodynamics,RB 2F LH 05
+6/13/2023,10:00,12:00,4K3-1,19IT406 - Grid and Cloud Computing,CSE 4F OW LH 04
+6/13/2023,10:00,12:00,4K3-1,19MA204 - Complex Variables and Ordinary Differential Equations,RB 3F LH 01
+6/13/2023,10:00,12:00,4K3-2,19MA204 - Complex Variables and Ordinary Differential Equations,RB 1F LH 04
+6/13/2023,10:00,12:00,4N1-2,19ME505 - Computer Aided Design,RB GF LH 01
+6/13/2023,10:00,12:00,4T2-1,19CS408 - Software Engineering,CSE 3F LH 02
+6/13/2023,10:00,12:00,5B1-1,19EC301 - Electric Circuit Analysis,ECE 3F OW EMBEDDED LAB
+6/13/2023,10:00,12:00,5F2-2,19EC409 - Discrete Time Signal Processing,CSE 3F OW LH 01
+6/13/2023,10:00,12:00,5I2-2,19EC410 - VLSI Design,ECE 2F LH 01
+6/13/2023,10:00,12:00,5K1-1,19EC403 - Communication Theory,ADMIN 4F OW LH 03
+6/13/2023,10:00,12:00,5Q2-2,19EC412 - Communication Networks,CSE 3F OW LH 03
+6/13/2023,10:00,12:00,5T1-2,19EC405 - Linear Integrated Circuits,ECE 1F LH 01
+6/13/2023,10:00,12:00,5T4-1,19EI401 - Electrical Measurements,EEE 3F OW LH 01
+6/13/2023,3:00,5:00,3K1-1,19EC606 - Drones for Agriculture,RB GF LH 01
+6/13/2023,3:00,5:00,3O1-1,19PH214 - Physics for Quantum Computing,RB 2F LH 05
+6/13/2023,3:00,5:00,3O1-2,19PH214 - Physics for Quantum Computing,RB 1F LH 04
+6/13/2023,3:00,5:00,4A1-1,19AG202 - Principles of Soil Science,RB 3F LH 04
+6/13/2023,3:00,5:00,4U2-1,19MA211 - Statistics and Numerical Methods,RB 2F LH 08
+6/13/2023,3:00,5:00,4W4-2,19MA206 - Logic and Combinatorics,RB 3F LH 01
+6/13/2023,3:00,5:00,5G2-1,19EC409 - Discrete Time Signal Processing,ECE 3F LH 02
+6/13/2023,3:00,5:00,5W2-1,19ME307 - Basic Mechanical Engineering,RB 3F LH 08
+6/13/2023,3:00,5:00,5Z1-2,19EC408 - Microprocessor and Microcontroller,CSE 4F OW LH 03
+6/13/2023,3:00,5:00,5Z2-1,"19CH411 - Process Instrumentation, Dynamics and Control",RB 3F LH 12
+6/13/2023,5:00,7:00,5EV1-1,19ME305 - Fluid Mechanics and Machinery,RB GF LH 01
+6/13/2023,5:00,7:00,5EV2-1,19EC406 - Digital Communication,CSE 1F LH 02
+6/14/2023,10:00,12:00,3D4-1,19EI505 - Robotics and Automation,EEE 3F LH 02
+6/14/2023,10:00,12:00,3T4-1,19CS504 - Software Project Management,CSE 2F LH 02
+6/14/2023,10:00,12:00,3U2-1,19EC503 - Digital Image Processing,ECE 1F LH 01
+6/14/2023,10:00,12:00,3U2-1,19PH213 - Nano Science for Electrical Engineers,RB 2F LH 08
+6/14/2023,10:00,12:00,3U2-2,19PH213 - Nano Science for Electrical Engineers,RB 2F LH 05
+6/14/2023,10:00,12:00,4A2-1,19MA222 - Probability and Queueing Models,RB 2F LH 01
+6/14/2023,10:00,12:00,4A2-2,19MA222 - Probability and Queueing Models,RB GF LH 01
+6/14/2023,10:00,12:00,4H1-1,19AG423 - Bio-Energy Systems: Design and Applications,RB 3F LH 13
+6/14/2023,10:00,12:00,4L2-1,19MA207 - Numerical Methods and Partial Differential Equations,RB 2F LH 02
+6/14/2023,10:00,12:00,4P3-1,19CS412 - Cryptography and Network Security,CSE 2F LH 01
+6/14/2023,10:00,12:00,4X1-1,19EN101 - Communicative English,RB 2F LH 03
+6/14/2023,10:00,12:00,4Y2-1,19CS405 - Operating System,CSE 1F LH 01
+6/14/2023,10:00,12:00,4Y3-1,19MA217 - Random Processes and Statistics,RB 1F LH 04
+6/14/2023,10:00,12:00,4Z4-1,19IT402 - Game Development Technologies,CSE 3F LH 02
+6/14/2023,10:00,12:00,5I1-1,19EC303 - Digital Principles and System Design,ECE 3F LH 02
+6/14/2023,10:00,12:00,5K3-1,19BM405 - Biomedical and Virtual Instrumentation,CSE 3F OW LH 01
+6/14/2023,10:00,12:00,5L3-1,19BM407 - Diagnostic and Interventional Equipment,CSE 3F OW LH 03
+6/14/2023,10:00,12:00,5O1-1,19EC404 - Electronic Circuits II,ECE 4F LH 01
+6/14/2023,10:00,12:00,5R1-1,19EC405 - Linear Integrated Circuits,ECE 2F LH 02
+6/14/2023,10:00,12:00,5U1-2,19EC405 - Linear Integrated Circuits,CSE 2F OW IITB REMOTE CENTRE
+6/14/2023,3:00,5:00,3B4-1,19EI414 - Computer Control of Processes,EEE 2F LH 02
+6/14/2023,3:00,5:00,3G4-1,19MD509 - Bio MEMS,CSE 2F LH 02
+6/14/2023,3:00,5:00,3O2-1,19EC511 - Satellite Communication,ECE 2F LH 02
+6/14/2023,3:00,5:00,3R2-1,19EC520 - Introduction to MEMS and NEMS,ADMIN 4F OW LH 04
+6/14/2023,3:00,5:00,3R2-2,19EC520 - Introduction to MEMS and NEMS,ECE 4F LH 01
+6/14/2023,3:00,5:00,3R4-1,19CS502 - Computer Graphics and Multimedia,CSE 1F LH 02
+6/14/2023,3:00,5:00,3Z2-1,19CH302 - Basics of Material Science and Solid Mechanics,RB 2F LH 06
+6/14/2023,3:00,5:00,4A1-1,19MD512 - Medical Wearable Systems,CSE 3F OW LH 02
+6/14/2023,3:00,5:00,4A3-1,19CS406 - Computer Networks,CSE 2F COMP CEN 2
+6/14/2023,3:00,5:00,4J1-1,19AG416 - Water Harvesting and Soil Conservation Structures,RB 2F LH 08
+6/14/2023,3:00,5:00,4O1-1,19CY205 - Principles of Chemistry in Engineering,RB 1F LH 05
+6/14/2023,3:00,5:00,4O1-2,19CY205 - Principles of Chemistry in Engineering,RB 2F CHEMISTRY LAB 2
+6/14/2023,3:00,5:00,4O3-1,19MA213 - Linear Algebra and Numerical Methods,RB 1F LH 04
+6/14/2023,3:00,5:00,4W4-1,19MA206 - Logic and Combinatorics,ADMIN 4F OW LH 03
+6/14/2023,3:00,5:00,5E2-1,19EC409 - Discrete Time Signal Processing,ECE 4F LH 02
+6/14/2023,3:00,5:00,5F4-1,19ME305 - Fluid Mechanics and Machinery,RB 2F LH 04
+6/14/2023,3:00,5:00,5M2-1,19EC411 - Antennas and Microwave Engineering,CSE 1F LH 01
+6/14/2023,3:00,5:00,5M2-2,19EC411 - Antennas and Microwave Engineering,ECE 1F LH 02
+6/14/2023,3:00,5:00,5O2-1,19EC411 - Antennas and Microwave Engineering,ECE 2F LH 01
+6/14/2023,3:00,5:00,5P2-2,19EC412 - Communication Networks,ECE 3F LH 02
+6/14/2023,3:00,5:00,5T1-1,19EC405 - Linear Integrated Circuits,ECE 3F LH 01
+6/15/2023,10:00,12:00,2A1-1,19AG304 - Theory of Machines,RB 2F LH 03
+6/15/2023,10:00,12:00,3A1-1,19ME529 - Process Planning and Cost Estimation,RB 3F LH 08
+6/15/2023,10:00,12:00,3C3-1,19CH504 - Air Pollution and Control,RB 3F LH 12
+6/15/2023,10:00,12:00,3I2-1,19EC407 - Transmission Lines,CSE 3F LH 02
+6/15/2023,10:00,12:00,3I2-2,19EC407 - Transmission Lines,RB 2F LH 04
+6/15/2023,10:00,12:00,3N2-1,19EC511 - Satellite Communication,ECE 1F LH 02
+6/15/2023,10:00,12:00,3S2-1,19EC520 - Introduction to MEMS and NEMS,CSE 4F OW LH 04
+6/15/2023,10:00,12:00,3W1-2,19EN102 - Technical English,RB 1F LH 03
+6/15/2023,10:00,12:00,4B3-1,19CS412 - Cryptography and Network Security,CSE 1F LH 01
+6/15/2023,10:00,12:00,4D1-1,19MA204 - Complex Variables and Ordinary Differential Equations,RB 1F LH 05
+6/15/2023,10:00,12:00,4E4-1,19EC401 - Electronic Circuits I,ECE 3F LH 02
+6/15/2023,10:00,12:00,4E4-2,19EC401 - Electronic Circuits I,ECE 2F LH 02
+6/15/2023,10:00,12:00,4V4-1,19EI408 - Virtual Instrumentation,EEE 3F OW II LAB
+6/15/2023,10:00,12:00,4V4-1,19ME520 - Non Traditional Machining Processes,RB 3F LH 04
+6/15/2023,10:00,12:00,4X2-1,19CS405 - Operating System,CSE 2F LH 01
+6/15/2023,10:00,12:00,4X2-2,19CS405 - Operating System,CSE 2F LH 02
+6/15/2023,10:00,12:00,4Z3-1,19PH215 - Physics of Solid State Materials,RB 2F LH 01
+6/15/2023,10:00,12:00,5C1-2,19EC302 - Electronic Devices,ECE 1F LH 01
+6/15/2023,10:00,12:00,5F1-1,19EC303 - Digital Principles and System Design,ECE 3F LH 01
+6/15/2023,10:00,12:00,5H2-2,19EC410 - VLSI Design,ADMIN 4F LH 01
+6/15/2023,10:00,12:00,5M1-2,19EC404 - Electronic Circuits II,CSE 4F OW LH 05
+6/15/2023,10:00,12:00,5V2-1,19EC415 - Optical Communication and Networks,ECE 4F LH 02
+6/15/2023,3:00,5:00,3D2-1,19EC402 - Signals and Systems,ECE 4F LH 02
+6/15/2023,3:00,5:00,3W2-1,19EC512 - Electromagnetic Interference and Compatibility,ECE 4F LH 01
+6/15/2023,3:00,5:00,3W2-1,19EI412 - Power Plant Instrumentation,EEE 3F OW LH 01
+6/15/2023,3:00,5:00,3X3-1,19EC307 - Communication Engineering,ECE 1F LH 02
+6/15/2023,3:00,5:00,4I3-1,19ME411 - Finite Element Analysis,RB 1F CAD/CAM LAB
+6/15/2023,3:00,5:00,4P3-1,19CS414 - Mobile Application Development,EEE 5F OW AR VR LAB
+6/15/2023,3:00,5:00,4V2-1,19MA205 - Differential Equations and Laplace Transforms,RB 3F LH 13
+6/15/2023,3:00,5:00,4V2-2,19CS406 - Computer Networks,CSE 3F LH 01
+6/15/2023,3:00,5:00,4V3-1,19MA213 - Linear Algebra and Numerical Methods,RB 3F LH 15
+6/15/2023,3:00,5:00,4V3-2,19MA213 - Linear Algebra and Numerical Methods,RB 2F LH 04
+6/15/2023,3:00,5:00,5F3-1,19EC308 - Devices and Circuits,ECE 2F LH 01
+6/15/2023,3:00,5:00,5R4-1,19EC305 - Basic Electronic Circuits,ECE 2F LH 02
+6/15/2023,5:00,7:00,4EV2-1,19EN102 - Technical English,ECE 1F LH 02
+6/16/2023,10:00,12:00,2R1-1,19EN604 - Design Thinking,RB 2F LH 07
+6/16/2023,10:00,12:00,2R1-1,19EN609 - Gender Sensitization,RB 3F LH 17
+6/16/2023,10:00,12:00,3B1-1,19AG302 - Strength of Materials,RB GF SOM LAB
+6/16/2023,10:00,12:00,3B2-1,19EC304 - Electromagnetic Fields,ECE 4F LH 01
+6/16/2023,10:00,12:00,3B2-2,19EC304 - Electromagnetic Fields,ECE 1F LH 01
+6/16/2023,10:00,12:00,3H1-1,19ME529 - Process Planning and Cost Estimation,RB 2F LH 10
+6/16/2023,10:00,12:00,3N1-1,19PH214 - Physics for Quantum Computing,RB 2F LH 03
+6/16/2023,10:00,12:00,3N1-2,19PH214 - Physics for Quantum Computing,RB 3F LH 01
+6/16/2023,10:00,12:00,3O4-1,19CS407 - Theory of Computation,CSE 3F LH 01
+6/16/2023,10:00,12:00,3O4-2,19CS407 - Theory of Computation,CSE 1F LH 01
+6/16/2023,10:00,12:00,4H4-1,19MA205 - Differential Equations and Laplace Transforms,RB 2F LH 06
+6/16/2023,10:00,12:00,4L4-1,19CH409 - Chemical Reaction Engineering II,RB 3F LH 05
+6/16/2023,10:00,12:00,4M1-1,19AG422 - Precision Farming Techniques for Protected Cultivation,RB 3F LH 12
+6/16/2023,10:00,12:00,4N1-1,19ME505 - Computer Aided Design,RB 1F LH 05
+6/16/2023,10:00,12:00,4Y1-1,19CS408 - Software Engineering,CSE 2F LH 02
+6/16/2023,10:00,12:00,4Y1-1,19CS413 - Artificial Intelligence,CSE 2F LH 01
+6/16/2023,10:00,12:00,4Z2-1,19CS405 - Operating System,CSE 2F OW OPEN SOURCE LAB
+6/16/2023,10:00,12:00,5J2-1,19EC410 - VLSI Design,ECE 2F LH 01
+6/16/2023,10:00,12:00,5J2-2,19EC410 - VLSI Design,ECE 4F LH 02
+6/16/2023,10:00,12:00,5L1-1,19EC403 - Communication Theory,ECE 3F LH 01
+6/16/2023,10:00,12:00,5P4-1,19ME412 - Mechatronics,RB 2F LH 05
+6/16/2023,10:00,12:00,5W4-1,19EI405 - Industrial Instrumentation I,EEE 3F OW LH 01
+6/16/2023,3:00,5:00,3S4-1,19CS517 - Mobile Computing,CSE 3F LH 02
+6/16/2023,3:00,5:00,3V2-1,19BM409 - Pattern Recognition and Neural Networks,CSE 1F LH 01
+6/16/2023,3:00,5:00,3V2-1,19EC501 - Multimedia Compression Techniques,ECE 1F LH 01
+6/16/2023,3:00,5:00,3Y3-1,19EC307 - Communication Engineering,ECE 1F LH 02
+6/16/2023,3:00,5:00,4F2-2,19CY205 - Principles of Chemistry in Engineering,RB 2F LH 10
+6/16/2023,3:00,5:00,4I2-1,19CY205 - Principles of Chemistry in Engineering,RB 2F LH 07
+6/16/2023,3:00,5:00,4O2-1,19CH412 - Process Equipment Design and Drawing,RB 3F LH 12
+6/16/2023,3:00,5:00,4S2-1,19MA211 - Statistics and Numerical Methods,CSE 2F LH 01
+6/16/2023,3:00,5:00,4S2-2,19MA211 - Statistics and Numerical Methods,RB 2F LH 04
+6/16/2023,3:00,5:00,4S3-1,19MA202 - Calculus and Laplace Transforms,RB 2F LH 06
+6/16/2023,3:00,5:00,4S3-1,19ME302 - Engineering Drawing,RB 3F LH 05
+6/16/2023,3:00,5:00,4S3-2,19ME302 - Engineering Drawing,RB 3F LH 04
+6/16/2023,3:00,5:00,4X2-1,19PH211 - Materials Science,RB 3F LH 03
+6/16/2023,3:00,5:00,4X2-2,19PH211 - Materials Science,RB 3F LH 02
+6/16/2023,3:00,5:00,5I1-2,19EC303 - Digital Principles and System Design,ECE 4F LH 01
+6/16/2023,3:00,5:00,5K1-2,19EC403 - Communication Theory,ECE 2F LH 01
+6/16/2023,3:00,5:00,5U2-1,19EC415 - Optical Communication and Networks,CSE 2F OW IITB REMOTE CENTRE
