@@ -1,0 +1,1000 @@
+﻿SNo,Day,Period Name,From Time,To Time,Location,Additional Location,Subject Code - Subject Name,Staff Code - Staff name,Additional Staff,Section,Semester,Program,Department,Degree,Remarks,Number of Enrollments
+1,Monday,M8,15:00,16:00,RB 3F LH 12, - ,19EN615C - Japanese Basic & Advanced,SECFL005 - Subashini D, - ,6H1-1,ODD-JUNIOR,25,ENGLISH,UG, - ,28
+2,Monday,M9,16:00,17:00,RB 3F LH 12, - ,19EN615C - Japanese Basic & Advanced,SECFL005 - Subashini D, - ,6H1-1,ODD-JUNIOR,25,ENGLISH,UG, - ,28
+3,Tuesday,T3,10:00,11:00,RB 2F LH 01, - ,19EN615C - Japanese Basic & Advanced,SECFL005 - Subashini D, - ,6H1-1,ODD-JUNIOR,25,ENGLISH,UG, - ,28
+4,Tuesday,T4,11:00,12:00,RB 2F LH 01, - ,19EN615C - Japanese Basic & Advanced,SECFL005 - Subashini D, - ,6H1-1,ODD-JUNIOR,25,ENGLISH,UG, - ,28
+5,Thursday,TH7,14:00,15:00,RB 3F LH 18, - ,19EN615C - Japanese Basic & Advanced,SECFL005 - Subashini D, - ,6H1-1,ODD-JUNIOR,25,ENGLISH,UG, - ,28
+6,Thursday,TH8,15:00,16:00,RB 3F LH 18, - ,19EN615C - Japanese Basic & Advanced,SECFL005 - Subashini D, - ,6H1-1,ODD-JUNIOR,25,ENGLISH,UG, - ,28
+7,Thursday,TH1,08:00,09:00,RB 3F LH 14, - ,19EN616 - Yoga and Meditation,TSADJ10 - Raghuram G, - ,2C1-1,ODD-JUNIOR,25,PED,UG, - ,30
+8,Thursday,TH2,09:00,10:00,RB 3F LH 14, - ,19EN616 - Yoga and Meditation,TSADJ10 - Raghuram G, - ,2C1-1,ODD-JUNIOR,25,PED,UG, - ,30
+9,Wednesday,W6,13:00,14:00,RB 3F LH 18, - ,19EN603 - Introduction to Design,EXLSTAFF01 - SARAVANAN L, - ,4Y3-1,ODD-JUNIOR,25,ENGLISH,UG, - ,28
+10,Wednesday,W7,14:00,15:00,RB 3F LH 18, - ,19EN603 - Introduction to Design,EXLSTAFF01 - SARAVANAN L, - ,4Y3-1,ODD-JUNIOR,25,ENGLISH,UG, - ,28
+11,Wednesday,W8,15:00,16:00,RB 3F LH 18, - ,19EN603 - Introduction to Design,EXLSTAFF01 - SARAVANAN L, - ,4Y3-1,ODD-JUNIOR,25,ENGLISH,UG, - ,28
+12,Wednesday,W9,16:00,17:00,RB 3F LH 18, - ,19EN603 - Introduction to Design,EXLSTAFF01 - SARAVANAN L, - ,4Y3-1,ODD-JUNIOR,25,ENGLISH,UG, - ,28
+13,Monday,M3,10:00,11:00,RB 1F LH 05, - ,19EN611C - French Basic & Advanced,SECFL002 - Mariana Jenifer P, - ,6J1-1,ODD-JUNIOR,25,ENGLISH,UG, - ,38
+14,Monday,M4,11:00,12:00,RB 1F LH 05, - ,19EN611C - French Basic & Advanced,SECFL002 - Mariana Jenifer P, - ,6J1-1,ODD-JUNIOR,25,ENGLISH,UG, - ,38
+15,Tuesday,T1,08:00,09:00,RB 3F LH 20, - ,19EN611C - French Basic & Advanced,SECFL002 - Mariana Jenifer P, - ,6J1-1,ODD-JUNIOR,25,ENGLISH,UG, - ,38
+16,Tuesday,T2,09:00,10:00,RB 3F LH 20, - ,19EN611C - French Basic & Advanced,SECFL002 - Mariana Jenifer P, - ,6J1-1,ODD-JUNIOR,25,ENGLISH,UG, - ,38
+17,Thursday,TH1,08:00,09:00,RB 2F LH 03, - ,19EN611C - French Basic & Advanced,SECFL002 - Mariana Jenifer P, - ,6J1-1,ODD-JUNIOR,25,ENGLISH,UG, - ,38
+18,Thursday,TH2,09:00,10:00,RB 2F LH 03, - ,19EN611C - French Basic & Advanced,SECFL002 - Mariana Jenifer P, - ,6J1-1,ODD-JUNIOR,25,ENGLISH,UG, - ,38
+19,Thursday,TH3,10:00,11:00,RB 3F LH 14, - ,19EN616 - Yoga and Meditation,TSADJ10 - Raghuram G, - ,2E1-1,ODD-JUNIOR,25,PED,UG, - ,27
+20,Thursday,TH4,11:00,12:00,RB 3F LH 14, - ,19EN616 - Yoga and Meditation,TSADJ10 - Raghuram G, - ,2E1-1,ODD-JUNIOR,25,PED,UG, - ,27
+21,Thursday,TH6,13:00,14:00,EEE 3F LH 02, - ,19AI304 - Fundamentals of C Programming,TSIT048 - Swedha .V, - ,4X3-1,ODD-JUNIOR,23,AI,UG, - ,44
+22,Thursday,TH7,14:00,15:00,EEE 3F LH 02, - ,19AI304 - Fundamentals of C Programming,TSIT048 - Swedha .V, - ,4X3-1,ODD-JUNIOR,23,AI,UG, - ,44
+23,Friday,F3,10:00,11:00,CSE 3F LH 02, - ,19AI304 - Fundamentals of C Programming,TSIT048 - Swedha .V, - ,4X3-1,ODD-JUNIOR,23,AI,UG, - ,44
+24,Friday,F4,11:00,12:00,CSE 3F LH 02, - ,19AI304 - Fundamentals of C Programming,TSIT048 - Swedha .V, - ,4X3-1,ODD-JUNIOR,23,AI,UG, - ,44
+25,Thursday,TH1,08:00,09:00,ADMIN 4F LH 02, - ,19AI304 - Fundamentals of C Programming,TSIT048 - Swedha .V, - ,4R1-1,ODD-JUNIOR,23,AI,UG, - ,21
+26,Thursday,TH2,09:00,10:00,ADMIN 4F LH 02, - ,19AI304 - Fundamentals of C Programming,TSIT048 - Swedha .V, - ,4R1-1,ODD-JUNIOR,23,AI,UG, - ,21
+27,Friday,F6,13:00,14:00,EEE 1F LH 01, - ,19AI304 - Fundamentals of C Programming,TSIT048 - Swedha .V, - ,4R1-1,ODD-JUNIOR,23,AI,UG, - ,21
+28,Friday,F7,14:00,15:00,EEE 1F LH 01, - ,19AI304 - Fundamentals of C Programming,TSIT048 - Swedha .V, - ,4R1-1,ODD-JUNIOR,23,AI,UG, - ,21
+29,Thursday,TH8,15:00,16:00,CSE 4F LH 01, - ,19AI301 - Python Programming,TSCS154 - Maha Lakshmi, - ,4W3-1,ODD-JUNIOR,22,AI,UG, - ,34
+30,Thursday,TH9,16:00,17:00,CSE 4F LH 01, - ,19AI301 - Python Programming,TSCS154 - Maha Lakshmi, - ,4W3-1,ODD-JUNIOR,22,AI,UG, - ,34
+31,Friday,F8,15:00,16:00,EEE 3F LH 01, - ,19AI301 - Python Programming,TSCS154 - Maha Lakshmi, - ,4W3-1,ODD-JUNIOR,22,AI,UG, - ,34
+32,Friday,F9,16:00,17:00,EEE 3F LH 01, - ,19AI301 - Python Programming,TSCS154 - Maha Lakshmi, - ,4W3-1,ODD-JUNIOR,22,AI,UG, - ,34
+33,Tuesday,T8,15:00,16:00,CSE 3F LH 02, - ,19CS305 - Computer Architecture,TSCS191 - Shankar  P, - ,4K3-2,ODD-JUNIOR,22,CSE,UG, - ,26
+34,Tuesday,T9,16:00,17:00,CSE 3F LH 02, - ,19CS305 - Computer Architecture,TSCS191 - Shankar  P, - ,4K3-2,ODD-JUNIOR,22,CSE,UG, - ,26
+35,Wednesday,W1,08:00,09:00,ECE 2F LH 01, - ,19CS305 - Computer Architecture,TSCS191 - Shankar  P, - ,4K3-2,ODD-JUNIOR,22,CSE,UG, - ,26
+36,Wednesday,W2,09:00,10:00,ECE 2F LH 01, - ,19CS305 - Computer Architecture,TSCS191 - Shankar  P, - ,4K3-2,ODD-JUNIOR,22,CSE,UG, - ,26
+37,Monday,M2,09:00,10:00,RB 3F LH 20, - ,19EN613C - German Basic & Advanced,SECFL001 - Varghese Y, - ,6I1-1,ODD-JUNIOR,25,ENGLISH,UG, - ,4
+38,Monday,M3,10:00,11:00,RB 3F LH 20, - ,19EN613C - German Basic & Advanced,SECFL001 - Varghese Y, - ,6I1-1,ODD-JUNIOR,25,ENGLISH,UG, - ,4
+39,Tuesday,T7,14:00,15:00,RB 3F LH 17, - ,19EN613C - German Basic & Advanced,SECFL001 - Varghese Y, - ,6I1-1,ODD-JUNIOR,25,ENGLISH,UG, - ,4
+40,Tuesday,T8,15:00,16:00,RB 3F LH 17, - ,19EN613C - German Basic & Advanced,SECFL001 - Varghese Y, - ,6I1-1,ODD-JUNIOR,25,ENGLISH,UG, - ,4
+41,Thursday,TH2,09:00,10:00,RB 3F LH 19, - ,19EN613C - German Basic & Advanced,SECFL001 - Varghese Y, - ,6I1-1,ODD-JUNIOR,25,ENGLISH,UG, - ,4
+42,Thursday,TH3,10:00,11:00,RB 3F LH 19, - ,19EN613C - German Basic & Advanced,SECFL001 - Varghese Y, - ,6I1-1,ODD-JUNIOR,25,ENGLISH,UG, - ,4
+43,Tuesday,T8,15:00,16:00,CSE 3F LH 01, - ,19CS305 - Computer Architecture,TSCS188 - Shruthi S Nair, - ,4K3-1,ODD-JUNIOR,22,CSE,UG, - ,10
+44,Wednesday,W1,08:00,09:00,RB GF LH 01, - ,19CS305 - Computer Architecture,TSCS188 - Shruthi S Nair, - ,4K3-1,ODD-JUNIOR,22,CSE,UG, - ,10
+45,Wednesday,W2,09:00,10:00,RB GF LH 01, - ,19CS305 - Computer Architecture,TSCS188 - Shruthi S Nair, - ,4K3-1,ODD-JUNIOR,22,CSE,UG, - ,10
+46,Thursday,TH3,10:00,11:00,CSE 3F OW LH 05, - ,19CS301 - Problem Solving and Python Programming,TSAI024 - Kiruthika S S, - ,4G1-1,ODD-JUNIOR,21,IT,UG, - ,23
+47,Thursday,TH4,11:00,12:00,CSE 3F OW LH 05, - ,19CS301 - Problem Solving and Python Programming,TSAI024 - Kiruthika S S, - ,4G1-1,ODD-JUNIOR,21,IT,UG, - ,23
+48,Friday,F3,10:00,11:00,CSE 4F OW LH 04, - ,19CS301 - Problem Solving and Python Programming,TSAI024 - Kiruthika S S, - ,4G1-1,ODD-JUNIOR,21,IT,UG, - ,23
+49,Friday,F4,11:00,12:00,CSE 4F OW LH 04, - ,19CS301 - Problem Solving and Python Programming,TSAI024 - Kiruthika S S, - ,4G1-1,ODD-JUNIOR,21,IT,UG, - ,23
+50,Tuesday,T1,08:00,09:00,EEE 5F OW ML LAB, - ,19CS302 - Programming in C,TSIOT004 - Jayanthi  G, - ,4U3-1A,ODD-JUNIOR,06,CSE,UG, - ,17
+51,Tuesday,T2,09:00,10:00,EEE 5F OW ML LAB, - ,19CS302 - Programming in C,TSIOT004 - Jayanthi  G, - ,4U3-1A,ODD-JUNIOR,06,CSE,UG, - ,17
+52,Thursday,TH1,08:00,09:00,CSE 4F LH 02, - ,19CS302 - Programming in C,TSIOT004 - Jayanthi  G, - ,4U3-1A,ODD-JUNIOR,06,CSE,UG, - ,17
+53,Thursday,TH2,09:00,10:00,CSE 4F LH 02, - ,19CS302 - Programming in C,TSIOT004 - Jayanthi  G, - ,4U3-1A,ODD-JUNIOR,06,CSE,UG, - ,17
+54,Monday,M1,08:00,09:00,ADMIN 4F LH 02, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE042 - Hemalatha R, - ,4V3-1,ODD-JUNIOR,23,EEE,UG, - ,33
+55,Monday,M2,09:00,10:00,ADMIN 4F LH 02, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE042 - Hemalatha R, - ,4V3-1,ODD-JUNIOR,23,EEE,UG, - ,33
+56,Friday,F3,10:00,11:00,ADMIN 4F OW LH 04, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE042 - Hemalatha R, - ,4V3-1,ODD-JUNIOR,23,EEE,UG, - ,33
+57,Friday,F4,11:00,12:00,ADMIN 4F OW LH 04, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE042 - Hemalatha R, - ,4V3-1,ODD-JUNIOR,23,EEE,UG, - ,33
+58,Wednesday,W6,13:00,14:00,ADMIN 5F OW LH 06, - ,19CS302 - Programming in C,TSIOT004 - Jayanthi  G, - ,4X2-1,ODD-JUNIOR,06,CSE,UG, - ,43
+59,Wednesday,W7,14:00,15:00,ADMIN 5F OW LH 06, - ,19CS302 - Programming in C,TSIOT004 - Jayanthi  G, - ,4X2-1,ODD-JUNIOR,06,CSE,UG, - ,43
+60,Thursday,TH6,13:00,14:00,CSE 4F OW LH 04, - ,19CS302 - Programming in C,TSIOT004 - Jayanthi  G, - ,4X2-1,ODD-JUNIOR,06,CSE,UG, - ,43
+61,Thursday,TH7,14:00,15:00,CSE 4F OW LH 04, - ,19CS302 - Programming in C,TSIOT004 - Jayanthi  G, - ,4X2-1,ODD-JUNIOR,06,CSE,UG, - ,43
+62,Tuesday,T1,08:00,09:00,RB 2F LH 06, - ,19MA202 - Calculus and Laplace Transforms,TSSH199 - Thamizharasi R, - ,4H1-1,ODD-JUNIOR,06,Maths,UG, - ,64
+63,Tuesday,T2,09:00,10:00,RB 2F LH 06, - ,19MA202 - Calculus and Laplace Transforms,TSSH199 - Thamizharasi R, - ,4H1-1,ODD-JUNIOR,06,Maths,UG, - ,64
+64,Thursday,TH6,13:00,14:00,RB 3F LH 01, - ,19MA202 - Calculus and Laplace Transforms,TSSH199 - Thamizharasi R, - ,4H1-1,ODD-JUNIOR,06,Maths,UG, - ,64
+65,Thursday,TH7,14:00,15:00,RB 3F LH 01, - ,19MA202 - Calculus and Laplace Transforms,TSSH199 - Thamizharasi R, - ,4H1-1,ODD-JUNIOR,06,Maths,UG, - ,64
+66,Monday,M8,15:00,16:00,RB 3F LH 05, - ,19MA202 - Calculus and Laplace Transforms,TSSH230 - Kuppan A, - ,4Q1-1,ODD-JUNIOR,06,Maths,UG, - ,29
+67,Monday,M9,16:00,17:00,RB 3F LH 05, - ,19MA202 - Calculus and Laplace Transforms,TSSH230 - Kuppan A, - ,4Q1-1,ODD-JUNIOR,06,Maths,UG, - ,29
+68,Friday,F8,15:00,16:00,RB 2F LH 04, - ,19MA202 - Calculus and Laplace Transforms,TSSH230 - Kuppan A, - ,4Q1-1,ODD-JUNIOR,06,Maths,UG, - ,29
+69,Friday,F9,16:00,17:00,RB 2F LH 04, - ,19MA202 - Calculus and Laplace Transforms,TSSH230 - Kuppan A, - ,4Q1-1,ODD-JUNIOR,06,Maths,UG, - ,29
+70,Wednesday,W6,13:00,14:00,RB 1F DH - 2, - ,19ME302 - Engineering Drawing,TSCE31 - Madhan Kumar M, - ,4Z1-1,ODD-JUNIOR,06,MECH,UG, - ,50
+71,Wednesday,W7,14:00,15:00,RB 1F DH - 2, - ,19ME302 - Engineering Drawing,TSCE31 - Madhan Kumar M, - ,4Z1-1,ODD-JUNIOR,06,MECH,UG, - ,50
+72,Thursday,TH1,08:00,09:00,RB 1F EP LAB 1, - ,19ME302 - Engineering Drawing,TSCE31 - Madhan Kumar M, - ,4Z1-1,ODD-JUNIOR,06,MECH,UG, - ,50
+73,Thursday,TH2,09:00,10:00,RB 1F EP LAB 1, - ,19ME302 - Engineering Drawing,TSCE31 - Madhan Kumar M, - ,4Z1-1,ODD-JUNIOR,06,MECH,UG, - ,50
+74,Tuesday,T3,10:00,11:00,RB 2F LH 04, - ,19MA222 - Probability and Queueing Models,TSSH224 - Padmavathi T, - ,4T3-1,ODD-JUNIOR,23,Maths,UG, - ,60
+75,Tuesday,T4,11:00,12:00,RB 2F LH 04, - ,19MA222 - Probability and Queueing Models,TSSH224 - Padmavathi T, - ,4T3-1,ODD-JUNIOR,23,Maths,UG, - ,60
+76,Thursday,TH6,13:00,14:00,EEE 5F LH 02, - ,19MA222 - Probability and Queueing Models,TSSH224 - Padmavathi T, - ,4T3-1,ODD-JUNIOR,23,Maths,UG, - ,60
+77,Thursday,TH7,14:00,15:00,EEE 5F LH 02, - ,19MA222 - Probability and Queueing Models,TSSH224 - Padmavathi T, - ,4T3-1,ODD-JUNIOR,23,Maths,UG, - ,60
+78,Wednesday,W3,10:00,11:00,RB 3F LH 16, - ,19MA222 - Probability and Queueing Models,TSSH223 - Sravya P R, - ,4S3-1,ODD-JUNIOR,23,Maths,UG, - ,60
+79,Wednesday,W4,11:00,12:00,RB 3F LH 16, - ,19MA222 - Probability and Queueing Models,TSSH223 - Sravya P R, - ,4S3-1,ODD-JUNIOR,23,Maths,UG, - ,60
+80,Friday,F3,10:00,11:00,CSE 2F LH 01, - ,19MA222 - Probability and Queueing Models,TSSH223 - Sravya P R, - ,4S3-1,ODD-JUNIOR,23,Maths,UG, - ,60
+81,Friday,F4,11:00,12:00,CSE 2F LH 01, - ,19MA222 - Probability and Queueing Models,TSSH223 - Sravya P R, - ,4S3-1,ODD-JUNIOR,23,Maths,UG, - ,60
+82,Thursday,TH3,10:00,11:00,RB 1F LH 05, - ,19MA222 - Probability and Queueing Models,TSSH223 - Sravya P R, - ,4R3-1,ODD-JUNIOR,23,Maths,UG, - ,60
+83,Thursday,TH4,11:00,12:00,RB 1F LH 05, - ,19MA222 - Probability and Queueing Models,TSSH223 - Sravya P R, - ,4R3-1,ODD-JUNIOR,23,Maths,UG, - ,60
+84,Friday,F8,15:00,16:00,RB 3F LH 15, - ,19MA222 - Probability and Queueing Models,TSSH223 - Sravya P R, - ,4R3-1,ODD-JUNIOR,23,Maths,UG, - ,60
+85,Friday,F9,16:00,17:00,RB 3F LH 15, - ,19MA222 - Probability and Queueing Models,TSSH223 - Sravya P R, - ,4R3-1,ODD-JUNIOR,23,Maths,UG, - ,60
+86,Monday,M7,14:00,15:00,CSE 4F OW LH 06, - ,19EC301 - Electric Circuit Analysis,TSMED33 - Dr.M.MARY ADLINE PRIYA, - ,5H1-1,ODD-JUNIOR,06,ECE,UG, - ,39
+87,Tuesday,T3,10:00,11:00,ECE 2F LH 02, - ,19EC301 - Electric Circuit Analysis,TSMED33 - Dr.M.MARY ADLINE PRIYA, - ,5H1-1,ODD-JUNIOR,06,ECE,UG, - ,39
+88,Tuesday,T4,11:00,12:00,ECE 2F LH 02, - ,19EC301 - Electric Circuit Analysis,TSMED33 - Dr.M.MARY ADLINE PRIYA, - ,5H1-1,ODD-JUNIOR,06,ECE,UG, - ,39
+89,Friday,F3,10:00,11:00,ECE 3F OW EMBEDDED LAB, - ,19EC301 - Electric Circuit Analysis,TSMED33 - Dr.M.MARY ADLINE PRIYA, - ,5H1-1,ODD-JUNIOR,06,ECE,UG, - ,39
+90,Friday,F4,11:00,12:00,ECE 3F OW EMBEDDED LAB, - ,19EC301 - Electric Circuit Analysis,TSMED33 - Dr.M.MARY ADLINE PRIYA, - ,5H1-1,ODD-JUNIOR,06,ECE,UG, - ,39
+91,Wednesday,W6,13:00,14:00,RB 3F LH 01, - ,19MA222 - Probability and Queueing Models,TSSH221 - Janaki K, - ,4Z1-1,ODD-JUNIOR,23,Maths,UG, - ,52
+92,Wednesday,W7,14:00,15:00,RB 3F LH 01, - ,19MA222 - Probability and Queueing Models,TSSH221 - Janaki K, - ,4Z1-1,ODD-JUNIOR,23,Maths,UG, - ,52
+93,Thursday,TH1,08:00,09:00,RB GF LH 01, - ,19MA222 - Probability and Queueing Models,TSSH221 - Janaki K, - ,4Z1-1,ODD-JUNIOR,23,Maths,UG, - ,52
+94,Thursday,TH2,09:00,10:00,RB GF LH 01, - ,19MA222 - Probability and Queueing Models,TSSH221 - Janaki K, - ,4Z1-1,ODD-JUNIOR,23,Maths,UG, - ,52
+95,Monday,M6,13:00,14:00,RB 3F LH 02, - ,19CY205 - Principles of Chemistry in Engineering,TSSH196 - DOLLI H, - ,4C1-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+96,Monday,M7,14:00,15:00,RB 3F LH 02, - ,19CY205 - Principles of Chemistry in Engineering,TSSH196 - DOLLI H, - ,4C1-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+97,Tuesday,T3,10:00,11:00,RB GF CHEMISTRY LAB 1, - ,19CY205 - Principles of Chemistry in Engineering,TSSH196 - DOLLI H, - ,4C1-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+98,Tuesday,T4,11:00,12:00,RB GF CHEMISTRY LAB 1, - ,19CY205 - Principles of Chemistry in Engineering,TSSH196 - DOLLI H, - ,4C1-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+99,Monday,M3,10:00,11:00,RB 1F LH 02, - ,19CY205 - Principles of Chemistry in Engineering,TSSH175 - Sasikala M, - ,4P3-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+100,Monday,M4,11:00,12:00,RB 1F LH 02, - ,19CY205 - Principles of Chemistry in Engineering,TSSH175 - Sasikala M, - ,4P3-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+101,Friday,F8,15:00,16:00,RB 1F LH 03, - ,19CY205 - Principles of Chemistry in Engineering,TSSH175 - Sasikala M, - ,4P3-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+102,Friday,F9,16:00,17:00,RB 1F LH 03, - ,19CY205 - Principles of Chemistry in Engineering,TSSH175 - Sasikala M, - ,4P3-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+103,Tuesday,T1,08:00,09:00,RB 3F LH 08, - ,19MA222 - Probability and Queueing Models,TSSH221 - Janaki K, - ,4Q3-1,ODD-JUNIOR,23,Maths,UG, - ,42
+104,Tuesday,T2,09:00,10:00,RB 3F LH 08, - ,19MA222 - Probability and Queueing Models,TSSH221 - Janaki K, - ,4Q3-1,ODD-JUNIOR,23,Maths,UG, - ,42
+105,Friday,F3,10:00,11:00,RB 3F LH 01, - ,19MA222 - Probability and Queueing Models,TSSH221 - Janaki K, - ,4Q3-1,ODD-JUNIOR,23,Maths,UG, - ,42
+106,Friday,F4,11:00,12:00,RB 3F LH 01, - ,19MA222 - Probability and Queueing Models,TSSH221 - Janaki K, - ,4Q3-1,ODD-JUNIOR,23,Maths,UG, - ,42
+107,Tuesday,T8,15:00,16:00,RB 3F LH 10, - ,19CY205 - Principles of Chemistry in Engineering,TSSH184 - Lavanya G, - ,4N3-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+108,Tuesday,T9,16:00,17:00,RB 3F LH 10, - ,19CY205 - Principles of Chemistry in Engineering,TSSH184 - Lavanya G, - ,4N3-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+109,Thursday,TH3,10:00,11:00,RB 3F LH 02, - ,19CY205 - Principles of Chemistry in Engineering,TSSH184 - Lavanya G, - ,4N3-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+110,Thursday,TH4,11:00,12:00,RB 3F LH 02, - ,19CY205 - Principles of Chemistry in Engineering,TSSH184 - Lavanya G, - ,4N3-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+111,Tuesday,T6,13:00,14:00,CSE 2F LH 02, - ,19AI304 - Fundamentals of C Programming,TSML009 - Kumaravelu R, - ,4M3-1,ODD-JUNIOR,23,AI,UG, - ,65
+112,Tuesday,T7,14:00,15:00,CSE 2F LH 02, - ,19AI304 - Fundamentals of C Programming,TSML009 - Kumaravelu R, - ,4M3-1,ODD-JUNIOR,23,AI,UG, - ,65
+113,Wednesday,W1,08:00,09:00,EEE 2F LH 02, - ,19AI304 - Fundamentals of C Programming,TSML009 - Kumaravelu R, - ,4M3-1,ODD-JUNIOR,23,AI,UG, - ,65
+114,Wednesday,W2,09:00,10:00,EEE 2F LH 02, - ,19AI304 - Fundamentals of C Programming,TSML009 - Kumaravelu R, - ,4M3-1,ODD-JUNIOR,23,AI,UG, - ,65
+115,Wednesday,W8,15:00,16:00,RB 3F LH 12, - ,19CY205 - Principles of Chemistry in Engineering,TSSH182 - Muthupandian P, - ,4O3-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+116,Wednesday,W9,16:00,17:00,RB 3F LH 12, - ,19CY205 - Principles of Chemistry in Engineering,TSSH182 - Muthupandian P, - ,4O3-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+117,Thursday,TH3,10:00,11:00,RB 2F CHEMISTRY LAB 2, - ,19CY205 - Principles of Chemistry in Engineering,TSSH182 - Muthupandian P, - ,4O3-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+118,Thursday,TH4,11:00,12:00,RB 2F CHEMISTRY LAB 2, - ,19CY205 - Principles of Chemistry in Engineering,TSSH182 - Muthupandian P, - ,4O3-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+119,Monday,M8,15:00,16:00,EEE 3F LH 01, - ,19AI303 - Engineering Mechanics and Product Development,TSME124 - Sridhar S, - ,4J3-1,ODD-JUNIOR,23,AI,UG, - ,58
+120,Monday,M9,16:00,17:00,EEE 3F LH 01, - ,19AI303 - Engineering Mechanics and Product Development,TSME124 - Sridhar S, - ,4J3-1,ODD-JUNIOR,23,AI,UG, - ,58
+121,Tuesday,T1,08:00,09:00,CSE 3F LH 02, - ,19AI303 - Engineering Mechanics and Product Development,TSME124 - Sridhar S, - ,4J3-1,ODD-JUNIOR,23,AI,UG, - ,58
+122,Tuesday,T2,09:00,10:00,CSE 3F LH 02, - ,19AI303 - Engineering Mechanics and Product Development,TSME124 - Sridhar S, - ,4J3-1,ODD-JUNIOR,23,AI,UG, - ,58
+123,Monday,M1,08:00,09:00,EEE 3F LH 01, - ,19AI303 - Engineering Mechanics and Product Development,TSME124 - Sridhar S, - ,4I3-1,ODD-JUNIOR,23,AI,UG, - ,33
+124,Monday,M2,09:00,10:00,EEE 3F LH 01, - ,19AI303 - Engineering Mechanics and Product Development,TSME124 - Sridhar S, - ,4I3-1,ODD-JUNIOR,23,AI,UG, - ,33
+125,Wednesday,W8,15:00,16:00,CSE 3F LH 01, - ,19AI303 - Engineering Mechanics and Product Development,TSME124 - Sridhar S, - ,4I3-1,ODD-JUNIOR,23,AI,UG, - ,33
+126,Wednesday,W9,16:00,17:00,CSE 3F LH 01, - ,19AI303 - Engineering Mechanics and Product Development,TSME124 - Sridhar S, - ,4I3-1,ODD-JUNIOR,23,AI,UG, - ,33
+127,Monday,M6,13:00,14:00,EEE 3F LH 01, - ,19AI302 - Engineering Design and Modelling,TSME107 - Jerome NIthin G, - ,4H3-1,ODD-JUNIOR,23,AI,UG, - ,59
+128,Monday,M7,14:00,15:00,EEE 3F LH 01, - ,19AI302 - Engineering Design and Modelling,TSME107 - Jerome NIthin G, - ,4H3-1,ODD-JUNIOR,23,AI,UG, - ,59
+129,Thursday,TH1,08:00,09:00,EEE 3F LH 01, - ,19AI302 - Engineering Design and Modelling,TSME107 - Jerome NIthin G, - ,4H3-1,ODD-JUNIOR,23,AI,UG, - ,59
+130,Thursday,TH2,09:00,10:00,EEE 3F LH 01, - ,19AI302 - Engineering Design and Modelling,TSME107 - Jerome NIthin G, - ,4H3-1,ODD-JUNIOR,23,AI,UG, - ,59
+131,Monday,M6,13:00,14:00,EEE 3F LH 02, - ,19AI303 - Engineering Mechanics and Product Development,TSME030 - Sellakumar S, - ,4L3-1,ODD-JUNIOR,23,AI,UG, - ,35
+132,Monday,M7,14:00,15:00,EEE 3F LH 02, - ,19AI303 - Engineering Mechanics and Product Development,TSME030 - Sellakumar S, - ,4L3-1,ODD-JUNIOR,23,AI,UG, - ,35
+133,Wednesday,W1,08:00,09:00,ADMIN 4F OW LH 03, - ,19AI303 - Engineering Mechanics and Product Development,TSME030 - Sellakumar S, - ,4L3-1,ODD-JUNIOR,23,AI,UG, - ,35
+134,Wednesday,W2,09:00,10:00,ADMIN 4F OW LH 03, - ,19AI303 - Engineering Mechanics and Product Development,TSME030 - Sellakumar S, - ,4L3-1,ODD-JUNIOR,23,AI,UG, - ,35
+135,Tuesday,T8,15:00,16:00,EEE 3F LH 01, - ,19AI303 - Engineering Mechanics and Product Development,TSME124 - Sridhar S, - ,4K3-1,ODD-JUNIOR,23,AI,UG, - ,50
+136,Tuesday,T9,16:00,17:00,EEE 3F LH 01, - ,19AI303 - Engineering Mechanics and Product Development,TSME124 - Sridhar S, - ,4K3-1,ODD-JUNIOR,23,AI,UG, - ,50
+137,Wednesday,W1,08:00,09:00,EEE 2F LH 01, - ,19AI303 - Engineering Mechanics and Product Development,TSME124 - Sridhar S, - ,4K3-1,ODD-JUNIOR,23,AI,UG, - ,50
+138,Wednesday,W2,09:00,10:00,EEE 2F LH 01, - ,19AI303 - Engineering Mechanics and Product Development,TSME124 - Sridhar S, - ,4K3-1,ODD-JUNIOR,23,AI,UG, - ,50
+139,Monday,M1,08:00,09:00,EEE 3F LH 02, - ,19AI302 - Engineering Design and Modelling,TSME189 - Renjith Krishnan, - ,4Q2-1,ODD-JUNIOR,23,AI,UG, - ,32
+140,Monday,M2,09:00,10:00,EEE 3F LH 02, - ,19AI302 - Engineering Design and Modelling,TSME189 - Renjith Krishnan, - ,4Q2-1,ODD-JUNIOR,23,AI,UG, - ,32
+141,Friday,F8,15:00,16:00,EEE 3F LH 02, - ,19AI302 - Engineering Design and Modelling,TSME189 - Renjith Krishnan, - ,4Q2-1,ODD-JUNIOR,23,AI,UG, - ,32
+142,Friday,F9,16:00,17:00,EEE 3F LH 02, - ,19AI302 - Engineering Design and Modelling,TSME189 - Renjith Krishnan, - ,4Q2-1,ODD-JUNIOR,23,AI,UG, - ,32
+143,Tuesday,T8,15:00,16:00,EEE 3F LH 02, - ,19AI302 - Engineering Design and Modelling,TSME187 - Rajasekar R, - ,4G3-1,ODD-JUNIOR,23,AI,UG, - ,60
+144,Tuesday,T9,16:00,17:00,EEE 3F LH 02, - ,19AI302 - Engineering Design and Modelling,TSME187 - Rajasekar R, - ,4G3-1,ODD-JUNIOR,23,AI,UG, - ,60
+145,Thursday,TH8,15:00,16:00,CSE 3F LH 01, - ,19AI302 - Engineering Design and Modelling,TSME187 - Rajasekar R, - ,4G3-1,ODD-JUNIOR,23,AI,UG, - ,60
+146,Thursday,TH9,16:00,17:00,CSE 3F LH 01, - ,19AI302 - Engineering Design and Modelling,TSME187 - Rajasekar R, - ,4G3-1,ODD-JUNIOR,23,AI,UG, - ,60
+147,Monday,M1,08:00,09:00,CSE 3F LH 01, - ,19AI302 - Engineering Design and Modelling,TSME083 - Prakash R, - ,4U1-2,ODD-JUNIOR,23,AI,UG, - ,48
+148,Monday,M2,09:00,10:00,CSE 3F LH 01, - ,19AI302 - Engineering Design and Modelling,TSME083 - Prakash R, - ,4U1-2,ODD-JUNIOR,23,AI,UG, - ,48
+149,Wednesday,W3,10:00,11:00,CSE 3F LH 02, - ,19AI302 - Engineering Design and Modelling,TSME083 - Prakash R, - ,4U1-2,ODD-JUNIOR,23,AI,UG, - ,48
+150,Wednesday,W4,11:00,12:00,CSE 3F LH 02, - ,19AI302 - Engineering Design and Modelling,TSME083 - Prakash R, - ,4U1-2,ODD-JUNIOR,23,AI,UG, - ,48
+151,Monday,M1,08:00,09:00,CSE 3F LH 02, - ,19AI302 - Engineering Design and Modelling,TSME134 - SELVAM R, - ,4D1-1,ODD-JUNIOR,23,AI,UG, - ,57
+152,Monday,M2,09:00,10:00,CSE 3F LH 02, - ,19AI302 - Engineering Design and Modelling,TSME134 - SELVAM R, - ,4D1-1,ODD-JUNIOR,23,AI,UG, - ,57
+153,Thursday,TH3,10:00,11:00,CSE 3F LH 02, - ,19AI302 - Engineering Design and Modelling,TSME134 - SELVAM R, - ,4D1-1,ODD-JUNIOR,23,AI,UG, - ,57
+154,Thursday,TH4,11:00,12:00,CSE 3F LH 02, - ,19AI302 - Engineering Design and Modelling,TSME134 - SELVAM R, - ,4D1-1,ODD-JUNIOR,23,AI,UG, - ,57
+155,Monday,M1,08:00,09:00,EEE 5F LH 02, - ,19AI301C - Python and Linear Algebra,TSCS186 - Bhuvaneswari  G, - ,8D1-1,ODD-JUNIOR,23,AI,UG, - ,81
+156,Monday,M2,09:00,10:00,EEE 5F LH 02, - ,19AI301C - Python and Linear Algebra,TSCS186 - Bhuvaneswari  G, - ,8D1-1,ODD-JUNIOR,23,AI,UG, - ,81
+157,Tuesday,T6,13:00,14:00,CSE 3F LH 02, - ,19AI301C - Python and Linear Algebra,TSCS186 - Bhuvaneswari  G, - ,8D1-1,ODD-JUNIOR,23,AI,UG, - ,81
+158,Tuesday,T7,14:00,15:00,CSE 3F LH 02, - ,19AI301C - Python and Linear Algebra,TSCS186 - Bhuvaneswari  G, - ,8D1-1,ODD-JUNIOR,23,AI,UG, - ,81
+159,Wednesday,W6,13:00,14:00,CSE 3F LH 02, - ,19AI301C - Python and Linear Algebra,TSCS186 - Bhuvaneswari  G, - ,8D1-1,ODD-JUNIOR,23,AI,UG, - ,81
+160,Wednesday,W7,14:00,15:00,CSE 3F LH 02, - ,19AI301C - Python and Linear Algebra,TSCS186 - Bhuvaneswari  G, - ,8D1-1,ODD-JUNIOR,23,AI,UG, - ,81
+161,Friday,F6,13:00,14:00,CSE 3F LH 02, - ,19AI301C - Python and Linear Algebra,TSCS186 - Bhuvaneswari  G, - ,8D1-1,ODD-JUNIOR,23,AI,UG, - ,81
+162,Friday,F7,14:00,15:00,CSE 3F LH 02, - ,19AI301C - Python and Linear Algebra,TSCS186 - Bhuvaneswari  G, - ,8D1-1,ODD-JUNIOR,23,AI,UG, - ,81
+163,Wednesday,W8,15:00,16:00,RB 1F LH 05, - ,19EN101 - Communicative English,TSSH232 - MATHANAVALLI S, - ,4F3-1,ODD-JUNIOR,23,ENGLISH,UG, - ,55
+164,Wednesday,W9,16:00,17:00,RB 1F LH 05, - ,19EN101 - Communicative English,TSSH232 - MATHANAVALLI S, - ,4F3-1,ODD-JUNIOR,23,ENGLISH,UG, - ,55
+165,Friday,F3,10:00,11:00,RB 2F LH 02, - ,19EN101 - Communicative English,TSSH232 - MATHANAVALLI S, - ,4F3-1,ODD-JUNIOR,23,ENGLISH,UG, - ,55
+166,Friday,F4,11:00,12:00,RB 2F LH 02, - ,19EN101 - Communicative English,TSSH232 - MATHANAVALLI S, - ,4F3-1,ODD-JUNIOR,23,ENGLISH,UG, - ,55
+167,Wednesday,W8,15:00,16:00,RB 2F LH 01, - ,19EN101 - Communicative English,TSSH231 - IMMANUEL G, - ,4F3-2,ODD-JUNIOR,23,ENGLISH,UG, - ,55
+168,Wednesday,W9,16:00,17:00,RB 2F LH 01, - ,19EN101 - Communicative English,TSSH231 - IMMANUEL G, - ,4F3-2,ODD-JUNIOR,23,ENGLISH,UG, - ,55
+169,Friday,F3,10:00,11:00,RB 3F LH 12, - ,19EN101 - Communicative English,TSSH231 - IMMANUEL G, - ,4F3-2,ODD-JUNIOR,23,ENGLISH,UG, - ,55
+170,Friday,F4,11:00,12:00,RB 3F LH 12, - ,19EN101 - Communicative English,TSSH231 - IMMANUEL G, - ,4F3-2,ODD-JUNIOR,23,ENGLISH,UG, - ,55
+171,Wednesday,W3,10:00,11:00,RB 3F LH 03, - ,19EN101 - Communicative English,TSSH232 - MATHANAVALLI S, - ,4E3-2,ODD-JUNIOR,23,ENGLISH,UG, - ,57
+172,Wednesday,W4,11:00,12:00,RB 3F LH 03, - ,19EN101 - Communicative English,TSSH232 - MATHANAVALLI S, - ,4E3-2,ODD-JUNIOR,23,ENGLISH,UG, - ,57
+173,Friday,F6,13:00,14:00,RB 2F LH 02, - ,19EN101 - Communicative English,TSSH232 - MATHANAVALLI S, - ,4E3-2,ODD-JUNIOR,23,ENGLISH,UG, - ,57
+174,Friday,F7,14:00,15:00,RB 2F LH 02, - ,19EN101 - Communicative English,TSSH232 - MATHANAVALLI S, - ,4E3-2,ODD-JUNIOR,23,ENGLISH,UG, - ,57
+175,Wednesday,W3,10:00,11:00,RB 3F LH 05, - ,19EN101 - Communicative English,TSSH219 - KIRAN KUMAR J, - ,4E3-1,ODD-JUNIOR,23,ENGLISH,UG, - ,54
+176,Wednesday,W4,11:00,12:00,RB 3F LH 05, - ,19EN101 - Communicative English,TSSH219 - KIRAN KUMAR J, - ,4E3-1,ODD-JUNIOR,23,ENGLISH,UG, - ,54
+177,Friday,F6,13:00,14:00,RB 1F LH 05, - ,19EN101 - Communicative English,TSSH219 - KIRAN KUMAR J, - ,4E3-1,ODD-JUNIOR,23,ENGLISH,UG, - ,54
+178,Friday,F7,14:00,15:00,RB 1F LH 05, - ,19EN101 - Communicative English,TSSH219 - KIRAN KUMAR J, - ,4E3-1,ODD-JUNIOR,23,ENGLISH,UG, - ,54
+179,Monday,M1,08:00,09:00,CSE 4F OW LH 04, - ,19EY701 - Soft Skills,NEW_TRG3 - NEW_TRG3 ., - ,2M1-1,ODD-JUNIOR,25,TRAINING,UG, - ,49
+180,Monday,M2,09:00,10:00,CSE 4F OW LH 04, - ,19EY701 - Soft Skills,NEW_TRG3 - NEW_TRG3 ., - ,2M1-1,ODD-JUNIOR,25,TRAINING,UG, - ,49
+181,Wednesday,W8,15:00,16:00,EEE 4F LH 02, - ,19EY701 - Soft Skills,NEW_TRG3 - NEW_TRG3 ., - ,2B1-5,ODD-JUNIOR,25,TRAINING,UG, - ,49
+182,Wednesday,W9,16:00,17:00,EEE 4F LH 02, - ,19EY701 - Soft Skills,NEW_TRG3 - NEW_TRG3 ., - ,2B1-5,ODD-JUNIOR,25,TRAINING,UG, - ,49
+183,Friday,F3,10:00,11:00,RB 3F LH 05, - ,19EY701 - Soft Skills,NEW_TRG3 - NEW_TRG3 ., - ,2L1-1,ODD-JUNIOR,25,TRAINING,UG, - ,48
+184,Friday,F4,11:00,12:00,RB 3F LH 05, - ,19EY701 - Soft Skills,NEW_TRG3 - NEW_TRG3 ., - ,2L1-1,ODD-JUNIOR,25,TRAINING,UG, - ,48
+185,Wednesday,W1,08:00,09:00,RB 2F LH 04, - ,19EY701 - Soft Skills,NEW_TRG3 - NEW_TRG3 ., - ,2F1-4,ODD-JUNIOR,25,TRAINING,UG, - ,47
+186,Wednesday,W2,09:00,10:00,RB 2F LH 04, - ,19EY701 - Soft Skills,NEW_TRG3 - NEW_TRG3 ., - ,2F1-4,ODD-JUNIOR,25,TRAINING,UG, - ,47
+187,Wednesday,W1,08:00,09:00,RB 2F LH 08, - ,19EY701 - Soft Skills,NEW_TRG1 - NEW_TRG1 NEW_TRG1, - ,2F1-3,ODD-JUNIOR,25,TRAINING,UG, - ,47
+188,Wednesday,W2,09:00,10:00,RB 2F LH 08, - ,19EY701 - Soft Skills,NEW_TRG1 - NEW_TRG1 NEW_TRG1, - ,2F1-3,ODD-JUNIOR,25,TRAINING,UG, - ,47
+189,Tuesday,T3,10:00,11:00,RB 1F LH 05, - ,19MA201 - Calculus and Matrix Algebra,TSSH233 - VINODHINI N, - ,4C3-1,ODD-JUNIOR,25,Maths,UG, - ,20
+190,Tuesday,T4,11:00,12:00,RB 1F LH 05, - ,19MA201 - Calculus and Matrix Algebra,TSSH233 - VINODHINI N, - ,4C3-1,ODD-JUNIOR,25,Maths,UG, - ,20
+191,Thursday,TH1,08:00,09:00,RB 1F LH 04, - ,19MA201 - Calculus and Matrix Algebra,TSSH233 - VINODHINI N, - ,4C3-1,ODD-JUNIOR,25,Maths,UG, - ,20
+192,Thursday,TH2,09:00,10:00,RB 1F LH 04, - ,19MA201 - Calculus and Matrix Algebra,TSSH233 - VINODHINI N, - ,4C3-1,ODD-JUNIOR,25,Maths,UG, - ,20
+193,Tuesday,T3,10:00,11:00,EEE 4F LH 02, - ,19MA201 - Calculus and Matrix Algebra,TSSH230 - Kuppan A, - ,4C3-2,ODD-JUNIOR,25,Maths,UG, - ,41
+194,Tuesday,T4,11:00,12:00,EEE 4F LH 02, - ,19MA201 - Calculus and Matrix Algebra,TSSH230 - Kuppan A, - ,4C3-2,ODD-JUNIOR,25,Maths,UG, - ,41
+195,Thursday,TH1,08:00,09:00,RB 3F LH 12, - ,19MA201 - Calculus and Matrix Algebra,TSSH230 - Kuppan A, - ,4C3-2,ODD-JUNIOR,25,Maths,UG, - ,41
+196,Thursday,TH2,09:00,10:00,RB 3F LH 12, - ,19MA201 - Calculus and Matrix Algebra,TSSH230 - Kuppan A, - ,4C3-2,ODD-JUNIOR,25,Maths,UG, - ,41
+197,Wednesday,W7,14:00,15:00,CSE 2F LH 02, - ,19CS305 - Computer Architecture,TSCS187 - Sathya U, - ,3L1-2,ODD-JUNIOR,22,CSE,UG, - ,19
+198,Thursday,TH8,15:00,16:00,CSE 4F OW LH 04, - ,19CS305 - Computer Architecture,TSCS187 - Sathya U, - ,3L1-2,ODD-JUNIOR,22,CSE,UG, - ,19
+199,Thursday,TH9,16:00,17:00,CSE 4F OW LH 04, - ,19CS305 - Computer Architecture,TSCS187 - Sathya U, - ,3L1-2,ODD-JUNIOR,22,CSE,UG, - ,19
+200,Wednesday,W8,15:00,16:00,RB 2F LH 04, - ,19MA201 - Calculus and Matrix Algebra,TSSH233 - VINODHINI N, - ,4D3-1,ODD-JUNIOR,25,Maths,UG, - ,45
+201,Wednesday,W9,16:00,17:00,RB 2F LH 04, - ,19MA201 - Calculus and Matrix Algebra,TSSH233 - VINODHINI N, - ,4D3-1,ODD-JUNIOR,25,Maths,UG, - ,45
+202,Friday,F8,15:00,16:00,RB 3F LH 08, - ,19MA201 - Calculus and Matrix Algebra,TSSH233 - VINODHINI N, - ,4D3-1,ODD-JUNIOR,25,Maths,UG, - ,45
+203,Friday,F9,16:00,17:00,RB 3F LH 08, - ,19MA201 - Calculus and Matrix Algebra,TSSH233 - VINODHINI N, - ,4D3-1,ODD-JUNIOR,25,Maths,UG, - ,45
+204,Wednesday,W3,10:00,11:00,ADMIN 4F OW LH 04, - ,19CS305 - Computer Architecture,TSCY003 - Hemadharsana S, - ,3K1-2,ODD-JUNIOR,22,CSE,UG, - ,12
+205,Wednesday,W4,11:00,12:00,ADMIN 4F OW LH 04, - ,19CS305 - Computer Architecture,TSCY003 - Hemadharsana S, - ,3K1-2,ODD-JUNIOR,22,CSE,UG, - ,12
+206,Friday,F3,10:00,11:00,EEE 4F OW LH 01, - ,19CS305 - Computer Architecture,TSCY003 - Hemadharsana S, - ,3K1-2,ODD-JUNIOR,22,CSE,UG, - ,12
+207,Wednesday,W3,10:00,11:00,CSE 4F OW LH 04, - ,19CS305 - Computer Architecture,TSIT023 - Vidhya S, - ,3K1-1,ODD-JUNIOR,22,CSE,UG, - ,34
+208,Wednesday,W4,11:00,12:00,CSE 4F OW LH 04, - ,19CS305 - Computer Architecture,TSIT023 - Vidhya S, - ,3K1-1,ODD-JUNIOR,22,CSE,UG, - ,34
+209,Friday,F3,10:00,11:00,ECE 1F LH 01, - ,19CS305 - Computer Architecture,TSIT023 - Vidhya S, - ,3K1-1,ODD-JUNIOR,22,CSE,UG, - ,34
+210,Tuesday,T1,08:00,09:00,CSE 3F LH 01, - ,19AI301 - Python Programming,TSCS039 - Nagappan G, - ,4C2-1,ODD-JUNIOR,22,AI,UG, - ,60
+211,Tuesday,T2,09:00,10:00,CSE 3F LH 01, - ,19AI301 - Python Programming,TSCS039 - Nagappan G, - ,4C2-1,ODD-JUNIOR,22,AI,UG, - ,60
+212,Wednesday,W8,15:00,16:00,CSE 3F LH 02, - ,19AI301 - Python Programming,TSCS039 - Nagappan G, - ,4C2-1,ODD-JUNIOR,22,AI,UG, - ,60
+213,Wednesday,W9,16:00,17:00,CSE 3F LH 02, - ,19AI301 - Python Programming,TSCS039 - Nagappan G, - ,4C2-1,ODD-JUNIOR,22,AI,UG, - ,60
+214,Wednesday,W7,14:00,15:00,CSE 3F OW LH 03, - ,19CS305 - Computer Architecture,TSIT023 - Vidhya S, - ,3L1-1,ODD-JUNIOR,22,CSE,UG, - ,16
+215,Thursday,TH8,15:00,16:00,CSE 4F LH 02, - ,19CS305 - Computer Architecture,TSIT023 - Vidhya S, - ,3L1-1,ODD-JUNIOR,22,CSE,UG, - ,16
+216,Thursday,TH9,16:00,17:00,CSE 4F LH 02, - ,19CS305 - Computer Architecture,TSIT023 - Vidhya S, - ,3L1-1,ODD-JUNIOR,22,CSE,UG, - ,16
+217,Monday,M3,10:00,11:00,EEE 3F LH 02, - ,19AI301 - Python Programming,TSCS110 - Sasikala K, - ,4M1-1,ODD-JUNIOR,22,AI,UG, - ,48
+218,Monday,M4,11:00,12:00,EEE 3F LH 02, - ,19AI301 - Python Programming,TSCS110 - Sasikala K, - ,4M1-1,ODD-JUNIOR,22,AI,UG, - ,48
+219,Thursday,TH6,13:00,14:00,CSE 3F LH 01, - ,19AI301 - Python Programming,TSCS110 - Sasikala K, - ,4M1-1,ODD-JUNIOR,22,AI,UG, - ,48
+220,Thursday,TH7,14:00,15:00,CSE 3F LH 01, - ,19AI301 - Python Programming,TSCS110 - Sasikala K, - ,4M1-1,ODD-JUNIOR,22,AI,UG, - ,48
+221,Wednesday,W3,10:00,11:00,CSE 2F LH 01, - ,19AI301 - Python Programming,TSCS128 - PREMNATH K, - ,4B3-1,ODD-JUNIOR,22,AI,UG, - ,22
+222,Wednesday,W4,11:00,12:00,CSE 2F LH 01, - ,19AI301 - Python Programming,TSCS128 - PREMNATH K, - ,4B3-1,ODD-JUNIOR,22,AI,UG, - ,22
+223,Thursday,TH6,13:00,14:00,CSE 3F LH 02, - ,19AI301 - Python Programming,TSCS128 - PREMNATH K, - ,4B3-1,ODD-JUNIOR,22,AI,UG, - ,22
+224,Thursday,TH7,14:00,15:00,CSE 3F LH 02, - ,19AI301 - Python Programming,TSCS128 - PREMNATH K, - ,4B3-1,ODD-JUNIOR,22,AI,UG, - ,22
+225,Thursday,TH3,10:00,11:00,CSE 4F OW LH 04, - ,19AI301 - Python Programming,TSCS154 - Maha Lakshmi, - ,4A3-2,ODD-JUNIOR,22,AI,UG, - ,25
+226,Thursday,TH4,11:00,12:00,CSE 4F OW LH 04, - ,19AI301 - Python Programming,TSCS154 - Maha Lakshmi, - ,4A3-2,ODD-JUNIOR,22,AI,UG, - ,25
+227,Friday,F1,08:00,09:00,CSE 2F LH 02, - ,19AI301 - Python Programming,TSCS154 - Maha Lakshmi, - ,4A3-2,ODD-JUNIOR,22,AI,UG, - ,25
+228,Friday,F2,09:00,10:00,CSE 2F LH 02, - ,19AI301 - Python Programming,TSCS154 - Maha Lakshmi, - ,4A3-2,ODD-JUNIOR,22,AI,UG, - ,25
+229,Thursday,TH3,10:00,11:00,EEE 4F LH 02, - ,19AI301 - Python Programming,TSCS110 - Sasikala K, - ,4A3-1,ODD-JUNIOR,22,AI,UG, - ,12
+230,Thursday,TH4,11:00,12:00,EEE 4F LH 02, - ,19AI301 - Python Programming,TSCS110 - Sasikala K, - ,4A3-1,ODD-JUNIOR,22,AI,UG, - ,12
+231,Friday,F1,08:00,09:00,CSE 4F OW LH 04, - ,19AI301 - Python Programming,TSCS110 - Sasikala K, - ,4A3-1,ODD-JUNIOR,22,AI,UG, - ,12
+232,Friday,F2,09:00,10:00,CSE 4F OW LH 04, - ,19AI301 - Python Programming,TSCS110 - Sasikala K, - ,4A3-1,ODD-JUNIOR,22,AI,UG, - ,12
+233,Wednesday,W3,10:00,11:00,CSE 4F LH 02, - ,19AI301 - Python Programming,TSIT056 - BALAJI R, - ,4B3-2,ODD-JUNIOR,22,AI,UG, - ,10
+234,Wednesday,W4,11:00,12:00,CSE 4F LH 02, - ,19AI301 - Python Programming,TSIT056 - BALAJI R, - ,4B3-2,ODD-JUNIOR,22,AI,UG, - ,10
+235,Thursday,TH6,13:00,14:00,CSE 2F LH 01, - ,19AI301 - Python Programming,TSIT056 - BALAJI R, - ,4B3-2,ODD-JUNIOR,22,AI,UG, - ,10
+236,Thursday,TH7,14:00,15:00,CSE 2F LH 01, - ,19AI301 - Python Programming,TSIT056 - BALAJI R, - ,4B3-2,ODD-JUNIOR,22,AI,UG, - ,10
+237,Wednesday,W6,13:00,14:00,CSE 3F OW LH 04, - ,19EI404 - Transducer Engineering,TSEI008 - Kalaiarasi A.R, - ,3J1-1,ODD-JUNIOR,07,EIE,UG, - ,30
+238,Wednesday,W7,14:00,15:00,CSE 3F OW LH 04, - ,19EI404 - Transducer Engineering,TSEI008 - Kalaiarasi A.R, - ,3J1-1,ODD-JUNIOR,07,EIE,UG, - ,30
+239,Thursday,TH1,08:00,09:00,CSE 4F OW LH 06, - ,19EI404 - Transducer Engineering,TSEI008 - Kalaiarasi A.R, - ,3J1-1,ODD-JUNIOR,07,EIE,UG, - ,30
+240,Monday,M7,14:00,15:00,CSE 4F OW LH 04, - ,19EI402 - Digital Logic Circuits,TSEI028 - Anusha Rani V, - ,5G1-1,ODD-JUNIOR,07,EIE,UG, - ,-
+241,Tuesday,T3,10:00,11:00,CSE 4F OW LH 06, - ,19EI402 - Digital Logic Circuits,TSEI028 - Anusha Rani V, - ,5G1-1,ODD-JUNIOR,07,EIE,UG, - ,-
+242,Tuesday,T4,11:00,12:00,CSE 4F OW LH 06, - ,19EI402 - Digital Logic Circuits,TSEI028 - Anusha Rani V, - ,5G1-1,ODD-JUNIOR,07,EIE,UG, - ,-
+243,Wednesday,W8,15:00,16:00,EEE 1F LH 01, - ,19EI402 - Digital Logic Circuits,TSEI028 - Anusha Rani V, - ,5G1-1,ODD-JUNIOR,07,EIE,UG, - ,-
+244,Wednesday,W9,16:00,17:00,EEE 1F LH 01, - ,19EI402 - Digital Logic Circuits,TSEI028 - Anusha Rani V, - ,5G1-1,ODD-JUNIOR,07,EIE,UG, - ,-
+245,Monday,M3,10:00,11:00,RB 3F LH 18, - ,19CY207 - Applied Chemistry,TSSH182 - Muthupandian P, - ,4Z2-1,ODD-JUNIOR,07,CHEMISTRY,UG, - ,29
+246,Monday,M4,11:00,12:00,RB 3F LH 18, - ,19CY207 - Applied Chemistry,TSSH182 - Muthupandian P, - ,4Z2-1,ODD-JUNIOR,07,CHEMISTRY,UG, - ,29
+247,Friday,F1,08:00,09:00,RB 3F LH 10, - ,19CY207 - Applied Chemistry,TSSH182 - Muthupandian P, - ,4Z2-1,ODD-JUNIOR,07,CHEMISTRY,UG, - ,29
+248,Friday,F2,09:00,10:00,RB 3F LH 10, - ,19CY207 - Applied Chemistry,TSSH182 - Muthupandian P, - ,4Z2-1,ODD-JUNIOR,07,CHEMISTRY,UG, - ,29
+249,Monday,M3,10:00,11:00,RB 1F LH 07, - ,19CY208 - Basic Engineering Chemistry,TSSH137 - Anand S, - ,4Y2-1,ODD-JUNIOR,08,CHEMISTRY,UG, - ,38
+250,Monday,M4,11:00,12:00,RB 1F LH 07, - ,19CY208 - Basic Engineering Chemistry,TSSH137 - Anand S, - ,4Y2-1,ODD-JUNIOR,08,CHEMISTRY,UG, - ,38
+251,Friday,F6,13:00,14:00,RB 1F LH 02, - ,19CY208 - Basic Engineering Chemistry,TSSH137 - Anand S, - ,4Y2-1,ODD-JUNIOR,08,CHEMISTRY,UG, - ,38
+252,Friday,F7,14:00,15:00,RB 1F LH 02, - ,19CY208 - Basic Engineering Chemistry,TSSH137 - Anand S, - ,4Y2-1,ODD-JUNIOR,08,CHEMISTRY,UG, - ,38
+253,Wednesday,W6,13:00,14:00,RB 3F LH 05, - ,19CY208 - Basic Engineering Chemistry,TSSH137 - Anand S, - ,4X2-1,ODD-JUNIOR,08,CHEMISTRY,UG, - ,11
+254,Wednesday,W7,14:00,15:00,RB 3F LH 05, - ,19CY208 - Basic Engineering Chemistry,TSSH137 - Anand S, - ,4X2-1,ODD-JUNIOR,08,CHEMISTRY,UG, - ,11
+255,Thursday,TH6,13:00,14:00,RB GF CHEMISTRY LAB 1, - ,19CY208 - Basic Engineering Chemistry,TSSH137 - Anand S, - ,4X2-1,ODD-JUNIOR,08,CHEMISTRY,UG, - ,11
+256,Thursday,TH7,14:00,15:00,RB GF CHEMISTRY LAB 1, - ,19CY208 - Basic Engineering Chemistry,TSSH137 - Anand S, - ,4X2-1,ODD-JUNIOR,08,CHEMISTRY,UG, - ,11
+257,Thursday,TH1,08:00,09:00,RB 1F EP LAB 2, - ,19ME301 - Engineering Graphics,TSME035 - Velmurugan V, - ,4W2-1,ODD-JUNIOR,08,MECH,UG, - ,44
+258,Thursday,TH2,09:00,10:00,RB 1F EP LAB 2, - ,19ME301 - Engineering Graphics,TSME035 - Velmurugan V, - ,4W2-1,ODD-JUNIOR,08,MECH,UG, - ,44
+259,Friday,F3,10:00,11:00,RB 2F LH 05, - ,19ME301 - Engineering Graphics,TSME035 - Velmurugan V, - ,4W2-1,ODD-JUNIOR,08,MECH,UG, - ,44
+260,Friday,F4,11:00,12:00,RB 2F LH 05, - ,19ME301 - Engineering Graphics,TSME035 - Velmurugan V, - ,4W2-1,ODD-JUNIOR,08,MECH,UG, - ,44
+261,Wednesday,W3,10:00,11:00,RB 2F LH 08, - ,19ME303 - Engineering Mechanics for Mechanical Engineers,TSME125 - GOPALARAMASUBRAMANIYAN G, - ,4V2-1,ODD-JUNIOR,08,MECH,UG, - ,61
+262,Wednesday,W4,11:00,12:00,RB 2F LH 08, - ,19ME303 - Engineering Mechanics for Mechanical Engineers,TSME125 - GOPALARAMASUBRAMANIYAN G, - ,4V2-1,ODD-JUNIOR,08,MECH,UG, - ,61
+263,Thursday,TH3,10:00,11:00,RB 3F LH 08, - ,19ME303 - Engineering Mechanics for Mechanical Engineers,TSME125 - GOPALARAMASUBRAMANIYAN G, - ,4V2-1,ODD-JUNIOR,08,MECH,UG, - ,61
+264,Thursday,TH4,11:00,12:00,RB 3F LH 08, - ,19ME303 - Engineering Mechanics for Mechanical Engineers,TSME125 - GOPALARAMASUBRAMANIYAN G, - ,4V2-1,ODD-JUNIOR,08,MECH,UG, - ,61
+265,Tuesday,T8,15:00,16:00,RB 1F LH 06, - ,19CY206 - Principles of Electrochemistry,TSSH189 - Yamini B, - ,4U2-1,ODD-JUNIOR,05,CHEMISTRY,UG, - ,21
+266,Tuesday,T9,16:00,17:00,RB 1F LH 06, - ,19CY206 - Principles of Electrochemistry,TSSH189 - Yamini B, - ,4U2-1,ODD-JUNIOR,05,CHEMISTRY,UG, - ,21
+267,Wednesday,W6,13:00,14:00,RB 3F LH 13, - ,19CY206 - Principles of Electrochemistry,TSSH189 - Yamini B, - ,4U2-1,ODD-JUNIOR,05,CHEMISTRY,UG, - ,21
+268,Wednesday,W7,14:00,15:00,RB 3F LH 13, - ,19CY206 - Principles of Electrochemistry,TSSH189 - Yamini B, - ,4U2-1,ODD-JUNIOR,05,CHEMISTRY,UG, - ,21
+269,Monday,M3,10:00,11:00,RB 3F LH 05, - ,19CY206 - Principles of Electrochemistry,TSSH189 - Yamini B, - ,4B1-1,ODD-JUNIOR,05,CHEMISTRY,UG, - ,40
+270,Monday,M4,11:00,12:00,RB 3F LH 05, - ,19CY206 - Principles of Electrochemistry,TSSH189 - Yamini B, - ,4B1-1,ODD-JUNIOR,05,CHEMISTRY,UG, - ,40
+271,Friday,F3,10:00,11:00,RB 3F LH 19, - ,19CY206 - Principles of Electrochemistry,TSSH189 - Yamini B, - ,4B1-1,ODD-JUNIOR,05,CHEMISTRY,UG, - ,40
+272,Friday,F4,11:00,12:00,RB 3F LH 19, - ,19CY206 - Principles of Electrochemistry,TSSH189 - Yamini B, - ,4B1-1,ODD-JUNIOR,05,CHEMISTRY,UG, - ,40
+273,Tuesday,T6,13:00,14:00,RB 1F LH 03, - ,19CY202 - Chemistry for Biomedical Engineering,TSSH175 - Sasikala M, - ,4S2-1,ODD-JUNIOR,02,CHEMISTRY,UG, - ,25
+274,Tuesday,T7,14:00,15:00,RB 1F LH 03, - ,19CY202 - Chemistry for Biomedical Engineering,TSSH175 - Sasikala M, - ,4S2-1,ODD-JUNIOR,02,CHEMISTRY,UG, - ,25
+275,Wednesday,W6,13:00,14:00,RB 3F LH 16, - ,19CY202 - Chemistry for Biomedical Engineering,TSSH175 - Sasikala M, - ,4S2-1,ODD-JUNIOR,02,CHEMISTRY,UG, - ,25
+276,Wednesday,W7,14:00,15:00,RB 3F LH 16, - ,19CY202 - Chemistry for Biomedical Engineering,TSSH175 - Sasikala M, - ,4S2-1,ODD-JUNIOR,02,CHEMISTRY,UG, - ,25
+277,Thursday,TH1,08:00,09:00,RB 2F LH 02, - ,19PH202 - Fundamentals of Engineering Physics,TSSH207 - Sivakumar T, - ,4W1-1,ODD-JUNIOR,02,PHYSICS,UG, - ,20
+278,Thursday,TH2,09:00,10:00,RB 2F LH 02, - ,19PH202 - Fundamentals of Engineering Physics,TSSH207 - Sivakumar T, - ,4W1-1,ODD-JUNIOR,02,PHYSICS,UG, - ,20
+279,Friday,F1,08:00,09:00,RB 1F PHYSICS LAB 2, - ,19PH202 - Fundamentals of Engineering Physics,TSSH207 - Sivakumar T, - ,4W1-1,ODD-JUNIOR,02,PHYSICS,UG, - ,20
+280,Friday,F2,09:00,10:00,RB 1F PHYSICS LAB 2, - ,19PH202 - Fundamentals of Engineering Physics,TSSH207 - Sivakumar T, - ,4W1-1,ODD-JUNIOR,02,PHYSICS,UG, - ,20
+281,Monday,M6,13:00,14:00,RB 3F LH 18, - ,19PH202 - Fundamentals of Engineering Physics,TSSH139 - Vinoth Kumar P, - ,4O2-2,ODD-JUNIOR,02,PHYSICS,UG, - ,33
+282,Monday,M7,14:00,15:00,RB 3F LH 18, - ,19PH202 - Fundamentals of Engineering Physics,TSSH139 - Vinoth Kumar P, - ,4O2-2,ODD-JUNIOR,02,PHYSICS,UG, - ,33
+283,Thursday,TH8,15:00,16:00,RB 1F PHYSICS LAB 2, - ,19PH202 - Fundamentals of Engineering Physics,TSSH139 - Vinoth Kumar P, - ,4O2-2,ODD-JUNIOR,02,PHYSICS,UG, - ,33
+284,Thursday,TH9,16:00,17:00,RB 1F PHYSICS LAB 2, - ,19PH202 - Fundamentals of Engineering Physics,TSSH139 - Vinoth Kumar P, - ,4O2-2,ODD-JUNIOR,02,PHYSICS,UG, - ,33
+285,Monday,M6,13:00,14:00,RB 3F LH 12, - ,19PH202 - Fundamentals of Engineering Physics,TSSH070 - Saveetha C, - ,4O2-1,ODD-JUNIOR,02,PHYSICS,UG, - ,33
+286,Monday,M7,14:00,15:00,RB 3F LH 12, - ,19PH202 - Fundamentals of Engineering Physics,TSSH070 - Saveetha C, - ,4O2-1,ODD-JUNIOR,02,PHYSICS,UG, - ,33
+287,Thursday,TH8,15:00,16:00,RB 1F PHYSICS LAB 1, - ,19PH202 - Fundamentals of Engineering Physics,TSSH070 - Saveetha C, - ,4O2-1,ODD-JUNIOR,02,PHYSICS,UG, - ,33
+288,Thursday,TH9,16:00,17:00,RB 1F PHYSICS LAB 1, - ,19PH202 - Fundamentals of Engineering Physics,TSSH070 - Saveetha C, - ,4O2-1,ODD-JUNIOR,02,PHYSICS,UG, - ,33
+289,Tuesday,T3,10:00,11:00,RB 2F LH 03, - ,19PH207 - Materials for Electronics,TSSH179 - Silambarasan M, - ,3I1-1,ODD-JUNIOR,05,PHYSICS,UG, - ,61
+290,Tuesday,T4,11:00,12:00,RB 2F LH 03, - ,19PH207 - Materials for Electronics,TSSH179 - Silambarasan M, - ,3I1-1,ODD-JUNIOR,05,PHYSICS,UG, - ,61
+291,Friday,F1,08:00,09:00,ECE 1F LH 01, - ,19PH207 - Materials for Electronics,TSSH179 - Silambarasan M, - ,3I1-1,ODD-JUNIOR,05,PHYSICS,UG, - ,61
+292,Tuesday,T3,10:00,11:00,CSE 4F OW LH 04, - ,19BM412 - Anatomy and Human Physiology,TSMED32 - Helen R, - ,3H1-1,ODD-JUNIOR,02,BME,UG, - ,34
+293,Tuesday,T4,11:00,12:00,CSE 4F OW LH 04, - ,19BM412 - Anatomy and Human Physiology,TSMED32 - Helen R, - ,3H1-1,ODD-JUNIOR,02,BME,UG, - ,34
+294,Friday,F2,09:00,10:00,RB 1F LH 04, - ,19BM412 - Anatomy and Human Physiology,TSMED32 - Helen R, - ,3H1-1,ODD-JUNIOR,02,BME,UG, - ,34
+295,Tuesday,T6,13:00,14:00,ADMIN 4F OW LH 04, - ,19CE305 - Engineering Geology,TSCE80 - Yamini Roja S, - ,3G1-1,ODD-JUNIOR,03,CIVIL,UG, - ,22
+296,Tuesday,T7,14:00,15:00,ADMIN 4F OW LH 04, - ,19CE305 - Engineering Geology,TSCE80 - Yamini Roja S, - ,3G1-1,ODD-JUNIOR,03,CIVIL,UG, - ,22
+297,Wednesday,W6,13:00,14:00,RB 1F LH 01, - ,19CE305 - Engineering Geology,TSCE80 - Yamini Roja S, - ,3G1-1,ODD-JUNIOR,03,CIVIL,UG, - ,22
+298,Monday,M8,15:00,16:00,RB 1F CAD/CAM LAB, - ,19CE417 - Computer Aided Building Drawing,TSCE31 - Madhan Kumar M, - ,4L2-1,ODD-JUNIOR,03,CIVIL,UG, - ,14
+299,Monday,M9,16:00,17:00,RB 1F CAD/CAM LAB, - ,19CE417 - Computer Aided Building Drawing,TSCE31 - Madhan Kumar M, - ,4L2-1,ODD-JUNIOR,03,CIVIL,UG, - ,14
+300,Wednesday,W1,08:00,09:00,RB 2F LH 05, - ,19CE417 - Computer Aided Building Drawing,TSCE31 - Madhan Kumar M, - ,4L2-1,ODD-JUNIOR,03,CIVIL,UG, - ,14
+301,Wednesday,W2,09:00,10:00,RB 2F LH 05, - ,19CE417 - Computer Aided Building Drawing,TSCE31 - Madhan Kumar M, - ,4L2-1,ODD-JUNIOR,03,CIVIL,UG, - ,14
+302,Tuesday,T8,15:00,16:00,RB 1F LH 05, - ,19CY203 - Chemistry for Civil Engineering,TSSH130 - Vivekanand P A, - ,4T2-1,ODD-JUNIOR,03,CHEMISTRY,UG, - ,30
+303,Tuesday,T9,16:00,17:00,RB 1F LH 05, - ,19CY203 - Chemistry for Civil Engineering,TSSH130 - Vivekanand P A, - ,4T2-1,ODD-JUNIOR,03,CHEMISTRY,UG, - ,30
+304,Thursday,TH1,08:00,09:00,RB 1F LH 02, - ,19CY203 - Chemistry for Civil Engineering,TSSH130 - Vivekanand P A, - ,4T2-1,ODD-JUNIOR,03,CHEMISTRY,UG, - ,30
+305,Thursday,TH2,09:00,10:00,RB 1F LH 02, - ,19CY203 - Chemistry for Civil Engineering,TSSH130 - Vivekanand P A, - ,4T2-1,ODD-JUNIOR,03,CHEMISTRY,UG, - ,30
+306,Tuesday,T6,13:00,14:00,ECE 1F LH 02, - ,19CS301 - Problem Solving and Python Programming,TSCY001 - Meenatchi K V, - ,4S2-2,ODD-JUNIOR,21,IT,UG, - ,58
+307,Tuesday,T7,14:00,15:00,ECE 1F LH 02, - ,19CS301 - Problem Solving and Python Programming,TSCY001 - Meenatchi K V, - ,4S2-2,ODD-JUNIOR,21,IT,UG, - ,58
+308,Wednesday,W6,13:00,14:00,ECE 1F LH 01, - ,19CS301 - Problem Solving and Python Programming,TSCY001 - Meenatchi K V, - ,4S2-2,ODD-JUNIOR,21,IT,UG, - ,58
+309,Wednesday,W7,14:00,15:00,ECE 1F LH 01, - ,19CS301 - Problem Solving and Python Programming,TSCY001 - Meenatchi K V, - ,4S2-2,ODD-JUNIOR,21,IT,UG, - ,58
+310,Monday,M6,13:00,14:00,ECE 5F OW LH 06, - ,19CS301 - Problem Solving and Python Programming,TSAI024 - Kiruthika S S, - ,4R2-2,ODD-JUNIOR,21,IT,UG, - ,38
+311,Monday,M7,14:00,15:00,ECE 5F OW LH 06, - ,19CS301 - Problem Solving and Python Programming,TSAI024 - Kiruthika S S, - ,4R2-2,ODD-JUNIOR,21,IT,UG, - ,38
+312,Wednesday,W3,10:00,11:00,EEE 1F LH 01, - ,19CS301 - Problem Solving and Python Programming,TSAI024 - Kiruthika S S, - ,4R2-2,ODD-JUNIOR,21,IT,UG, - ,38
+313,Wednesday,W4,11:00,12:00,EEE 1F LH 01, - ,19CS301 - Problem Solving and Python Programming,TSAI024 - Kiruthika S S, - ,4R2-2,ODD-JUNIOR,21,IT,UG, - ,38
+314,Tuesday,T6,13:00,14:00,CSE 2F LH 01, - ,19CS301 - Problem Solving and Python Programming,TSAI024 - Kiruthika S S, - ,4S2-1,ODD-JUNIOR,21,IT,UG, - ,29
+315,Tuesday,T7,14:00,15:00,CSE 2F LH 01, - ,19CS301 - Problem Solving and Python Programming,TSAI024 - Kiruthika S S, - ,4S2-1,ODD-JUNIOR,21,IT,UG, - ,29
+316,Wednesday,W6,13:00,14:00,EEE 2F LH 01, - ,19CS301 - Problem Solving and Python Programming,TSAI024 - Kiruthika S S, - ,4S2-1,ODD-JUNIOR,21,IT,UG, - ,29
+317,Wednesday,W7,14:00,15:00,EEE 2F LH 01, - ,19CS301 - Problem Solving and Python Programming,TSAI024 - Kiruthika S S, - ,4S2-1,ODD-JUNIOR,21,IT,UG, - ,29
+318,Monday,M6,13:00,14:00,EEE 5F OW AR VR LAB, - ,19CS301 - Problem Solving and Python Programming,TSCS110 - Sasikala K, - ,4R2-1,ODD-JUNIOR,21,IT,UG, - ,40
+319,Monday,M7,14:00,15:00,EEE 5F OW AR VR LAB, - ,19CS301 - Problem Solving and Python Programming,TSCS110 - Sasikala K, - ,4R2-1,ODD-JUNIOR,21,IT,UG, - ,40
+320,Wednesday,W3,10:00,11:00,EEE 4F LH 02, - ,19CS301 - Problem Solving and Python Programming,TSCS110 - Sasikala K, - ,4R2-1,ODD-JUNIOR,21,IT,UG, - ,40
+321,Wednesday,W4,11:00,12:00,EEE 4F LH 02, - ,19CS301 - Problem Solving and Python Programming,TSCS110 - Sasikala K, - ,4R2-1,ODD-JUNIOR,21,IT,UG, - ,40
+322,Tuesday,T3,10:00,11:00,RB 3F LH 18, - ,19PH201 - Basics of Engineering Physics,TSSH139 - Vinoth Kumar P, - ,3F1-1,ODD-JUNIOR,03,PHYSICS,UG, - ,50
+323,Thursday,TH6,13:00,14:00,RB 1F LH 04, - ,19PH201 - Basics of Engineering Physics,TSSH139 - Vinoth Kumar P, - ,3F1-1,ODD-JUNIOR,03,PHYSICS,UG, - ,50
+324,Thursday,TH7,14:00,15:00,RB 1F LH 04, - ,19PH201 - Basics of Engineering Physics,TSSH139 - Vinoth Kumar P, - ,3F1-1,ODD-JUNIOR,03,PHYSICS,UG, - ,50
+325,Wednesday,W3,10:00,11:00,RB 3F LH 02, - ,19CY204 - Chemistry for Technologists I,TSSH196 - DOLLI H, - ,4D2-1,ODD-JUNIOR,21,CHEMISTRY,UG, - ,31
+326,Wednesday,W4,11:00,12:00,RB 3F LH 02, - ,19CY204 - Chemistry for Technologists I,TSSH196 - DOLLI H, - ,4D2-1,ODD-JUNIOR,21,CHEMISTRY,UG, - ,31
+327,Thursday,TH1,08:00,09:00,RB 3F LH 13, - ,19CY204 - Chemistry for Technologists I,TSSH196 - DOLLI H, - ,4D2-1,ODD-JUNIOR,21,CHEMISTRY,UG, - ,31
+328,Thursday,TH2,09:00,10:00,RB 3F LH 13, - ,19CY204 - Chemistry for Technologists I,TSSH196 - DOLLI H, - ,4D2-1,ODD-JUNIOR,21,CHEMISTRY,UG, - ,31
+329,Monday,M8,15:00,16:00,RB 3F LH 04, - ,19CH301 - Principles of Chemical Engineering,TSCH013 - Balachandran s, - ,3E1-1,ODD-JUNIOR,21,CHEM,UG, - ,30
+330,Friday,F3,10:00,11:00,RB 2F LH 07, - ,19CH301 - Principles of Chemical Engineering,TSCH013 - Balachandran s, - ,3E1-1,ODD-JUNIOR,21,CHEM,UG, - ,30
+331,Friday,F4,11:00,12:00,RB 2F LH 07, - ,19CH301 - Principles of Chemical Engineering,TSCH013 - Balachandran s, - ,3E1-1,ODD-JUNIOR,21,CHEM,UG, - ,30
+332,Monday,M1,08:00,09:00,CSE 2F LH 02, - ,19CS302 - Programming in C,TSIOT004 - Jayanthi  G, - ,4Q2-2,ODD-JUNIOR,06,CSE,UG, - ,33
+333,Monday,M2,09:00,10:00,CSE 2F LH 02, - ,19CS302 - Programming in C,TSIOT004 - Jayanthi  G, - ,4Q2-2,ODD-JUNIOR,06,CSE,UG, - ,33
+334,Friday,F8,15:00,16:00,ADMIN 4F LH 02, - ,19CS302 - Programming in C,TSIOT004 - Jayanthi  G, - ,4Q2-2,ODD-JUNIOR,06,CSE,UG, - ,33
+335,Friday,F9,16:00,17:00,ADMIN 4F LH 02, - ,19CS302 - Programming in C,TSIOT004 - Jayanthi  G, - ,4Q2-2,ODD-JUNIOR,06,CSE,UG, - ,33
+336,Monday,M1,08:00,09:00,CSE 2F LH 01, - ,19CS302 - Programming in C,TSML001 - Magitha Nirmala Tennyson, - ,4Q2-1,ODD-JUNIOR,06,CSE,UG, - ,25
+337,Monday,M2,09:00,10:00,CSE 2F LH 01, - ,19CS302 - Programming in C,TSML001 - Magitha Nirmala Tennyson, - ,4Q2-1,ODD-JUNIOR,06,CSE,UG, - ,25
+338,Friday,F8,15:00,16:00,CSE 4F OW LH 04, - ,19CS302 - Programming in C,TSML001 - Magitha Nirmala Tennyson, - ,4Q2-1,ODD-JUNIOR,06,CSE,UG, - ,25
+339,Friday,F9,16:00,17:00,CSE 4F OW LH 04, - ,19CS302 - Programming in C,TSML001 - Magitha Nirmala Tennyson, - ,4Q2-1,ODD-JUNIOR,06,CSE,UG, - ,25
+340,Wednesday,W1,08:00,09:00,RB 2F LH 07, - ,19CS302 - Programming in C,TSML001 - Magitha Nirmala Tennyson, - ,4P2-1,ODD-JUNIOR,06,CSE,UG, - ,18
+341,Wednesday,W2,09:00,10:00,RB 2F LH 07, - ,19CS302 - Programming in C,TSML001 - Magitha Nirmala Tennyson, - ,4P2-1,ODD-JUNIOR,06,CSE,UG, - ,18
+342,Friday,F1,08:00,09:00,CSE 4F LH 01, - ,19CS302 - Programming in C,TSML001 - Magitha Nirmala Tennyson, - ,4P2-1,ODD-JUNIOR,06,CSE,UG, - ,18
+343,Friday,F2,09:00,10:00,CSE 4F LH 01, - ,19CS302 - Programming in C,TSML001 - Magitha Nirmala Tennyson, - ,4P2-1,ODD-JUNIOR,06,CSE,UG, - ,18
+344,Monday,M6,13:00,14:00,EEE 5F OW ML LAB, - ,19CS302 - Programming in C,TSML004 - Silambarasi C, - ,4O2-2,ODD-JUNIOR,06,CSE,UG, - ,29
+345,Monday,M7,14:00,15:00,EEE 5F OW ML LAB, - ,19CS302 - Programming in C,TSML004 - Silambarasi C, - ,4O2-2,ODD-JUNIOR,06,CSE,UG, - ,29
+346,Thursday,TH8,15:00,16:00,CSE 2F LH 02, - ,19CS302 - Programming in C,TSML004 - Silambarasi C, - ,4O2-2,ODD-JUNIOR,06,CSE,UG, - ,29
+347,Thursday,TH9,16:00,17:00,CSE 2F LH 02, - ,19CS302 - Programming in C,TSML004 - Silambarasi C, - ,4O2-2,ODD-JUNIOR,06,CSE,UG, - ,29
+348,Monday,M6,13:00,14:00,CSE 2F LH 02, - ,19CS302 - Programming in C,TSML001 - Magitha Nirmala Tennyson, - ,4O2-1,ODD-JUNIOR,06,CSE,UG, - ,20
+349,Monday,M7,14:00,15:00,CSE 2F LH 02, - ,19CS302 - Programming in C,TSML001 - Magitha Nirmala Tennyson, - ,4O2-1,ODD-JUNIOR,06,CSE,UG, - ,20
+350,Thursday,TH8,15:00,16:00,ADMIN 4F OW LH 04, - ,19CS302 - Programming in C,TSML001 - Magitha Nirmala Tennyson, - ,4O2-1,ODD-JUNIOR,06,CSE,UG, - ,20
+351,Thursday,TH9,16:00,17:00,ADMIN 4F OW LH 04, - ,19CS302 - Programming in C,TSML001 - Magitha Nirmala Tennyson, - ,4O2-1,ODD-JUNIOR,06,CSE,UG, - ,20
+352,Wednesday,W1,08:00,09:00,RB 2F LH 06, - ,19CS302 - Programming in C,TSML004 - Silambarasi C, - ,4P2-2,ODD-JUNIOR,06,CSE,UG, - ,40
+353,Wednesday,W2,09:00,10:00,RB 2F LH 06, - ,19CS302 - Programming in C,TSML004 - Silambarasi C, - ,4P2-2,ODD-JUNIOR,06,CSE,UG, - ,40
+354,Friday,F1,08:00,09:00,EEE 4F OW LH 01, - ,19CS302 - Programming in C,TSML004 - Silambarasi C, - ,4P2-2,ODD-JUNIOR,06,CSE,UG, - ,40
+355,Friday,F2,09:00,10:00,EEE 4F OW LH 01, - ,19CS302 - Programming in C,TSML004 - Silambarasi C, - ,4P2-2,ODD-JUNIOR,06,CSE,UG, - ,40
+356,Wednesday,W8,15:00,16:00,RB 1F PHYSICS LAB 3, - ,19PH215 - Physics of Solid State Materials,TSSH070 - Saveetha C, - ,4N2-1,ODD-JUNIOR,06,PHYSICS,UG, - ,40
+357,Wednesday,W9,16:00,17:00,RB 1F PHYSICS LAB 3, - ,19PH215 - Physics of Solid State Materials,TSSH070 - Saveetha C, - ,4N2-1,ODD-JUNIOR,06,PHYSICS,UG, - ,40
+358,Thursday,TH1,08:00,09:00,RB 1F LH 03, - ,19PH215 - Physics of Solid State Materials,TSSH070 - Saveetha C, - ,4N2-1,ODD-JUNIOR,06,PHYSICS,UG, - ,40
+359,Thursday,TH2,09:00,10:00,RB 1F LH 03, - ,19PH215 - Physics of Solid State Materials,TSSH070 - Saveetha C, - ,4N2-1,ODD-JUNIOR,06,PHYSICS,UG, - ,40
+360,Wednesday,W3,10:00,11:00,RB 2F LH 07, - ,19PH215 - Physics of Solid State Materials,TSSH141 - THENNARASU S, - ,4D2-1,ODD-JUNIOR,06,PHYSICS,UG, - ,40
+361,Wednesday,W4,11:00,12:00,RB 2F LH 07, - ,19PH215 - Physics of Solid State Materials,TSSH141 - THENNARASU S, - ,4D2-1,ODD-JUNIOR,06,PHYSICS,UG, - ,40
+362,Thursday,TH1,08:00,09:00,RB 1F PHYSICS LAB 3, - ,19PH215 - Physics of Solid State Materials,TSSH141 - THENNARASU S, - ,4D2-1,ODD-JUNIOR,06,PHYSICS,UG, - ,40
+363,Thursday,TH2,09:00,10:00,RB 1F PHYSICS LAB 3, - ,19PH215 - Physics of Solid State Materials,TSSH141 - THENNARASU S, - ,4D2-1,ODD-JUNIOR,06,PHYSICS,UG, - ,40
+364,Wednesday,W3,10:00,11:00,RB 1F PHYSICS LAB 3, - ,19PH215 - Physics of Solid State Materials,TSSH126 - Suresh S, - ,4D2-2,ODD-JUNIOR,06,PHYSICS,UG, - ,40
+365,Wednesday,W4,11:00,12:00,RB 1F PHYSICS LAB 3, - ,19PH215 - Physics of Solid State Materials,TSSH126 - Suresh S, - ,4D2-2,ODD-JUNIOR,06,PHYSICS,UG, - ,40
+366,Thursday,TH1,08:00,09:00,RB 2F LH 05, - ,19PH215 - Physics of Solid State Materials,TSSH126 - Suresh S, - ,4D2-2,ODD-JUNIOR,06,PHYSICS,UG, - ,40
+367,Thursday,TH2,09:00,10:00,RB 2F LH 05, - ,19PH215 - Physics of Solid State Materials,TSSH126 - Suresh S, - ,4D2-2,ODD-JUNIOR,06,PHYSICS,UG, - ,40
+368,Monday,M1,08:00,09:00,RB 3F LH 05, - ,19MA202 - Calculus and Laplace Transforms,TSSH233 - VINODHINI N, - ,4M2-2,ODD-JUNIOR,06,Maths,UG, - ,46
+369,Monday,M2,09:00,10:00,RB 3F LH 05, - ,19MA202 - Calculus and Laplace Transforms,TSSH233 - VINODHINI N, - ,4M2-2,ODD-JUNIOR,06,Maths,UG, - ,46
+370,Tuesday,T8,15:00,16:00,RB 3F LH 12, - ,19MA202 - Calculus and Laplace Transforms,TSSH233 - VINODHINI N, - ,4M2-2,ODD-JUNIOR,06,Maths,UG, - ,46
+371,Tuesday,T9,16:00,17:00,RB 3F LH 12, - ,19MA202 - Calculus and Laplace Transforms,TSSH233 - VINODHINI N, - ,4M2-2,ODD-JUNIOR,06,Maths,UG, - ,46
+372,Wednesday,W8,15:00,16:00,RB 1F PHYSICS LAB 1, - ,19PH215 - Physics of Solid State Materials,TSSH205 - Ramki C, - ,4N2-2,ODD-JUNIOR,06,PHYSICS,UG, - ,40
+373,Wednesday,W9,16:00,17:00,RB 1F PHYSICS LAB 1, - ,19PH215 - Physics of Solid State Materials,TSSH205 - Ramki C, - ,4N2-2,ODD-JUNIOR,06,PHYSICS,UG, - ,40
+374,Thursday,TH1,08:00,09:00,RB 3F LH 08, - ,19PH215 - Physics of Solid State Materials,TSSH205 - Ramki C, - ,4N2-2,ODD-JUNIOR,06,PHYSICS,UG, - ,40
+375,Thursday,TH2,09:00,10:00,RB 3F LH 08, - ,19PH215 - Physics of Solid State Materials,TSSH205 - Ramki C, - ,4N2-2,ODD-JUNIOR,06,PHYSICS,UG, - ,40
+376,Monday,M1,08:00,09:00,RB 3F LH 12, - ,19MA202 - Calculus and Laplace Transforms,TSSH230 - Kuppan A, - ,4M2-1,ODD-JUNIOR,06,Maths,UG, - ,59
+377,Monday,M2,09:00,10:00,RB 3F LH 12, - ,19MA202 - Calculus and Laplace Transforms,TSSH230 - Kuppan A, - ,4M2-1,ODD-JUNIOR,06,Maths,UG, - ,59
+378,Tuesday,T8,15:00,16:00,RB 1F LH 04, - ,19MA202 - Calculus and Laplace Transforms,TSSH230 - Kuppan A, - ,4M2-1,ODD-JUNIOR,06,Maths,UG, - ,59
+379,Tuesday,T9,16:00,17:00,RB 1F LH 04, - ,19MA202 - Calculus and Laplace Transforms,TSSH230 - Kuppan A, - ,4M2-1,ODD-JUNIOR,06,Maths,UG, - ,59
+380,Monday,M8,15:00,16:00,RB 3F LH 16, - ,19MA202 - Calculus and Laplace Transforms,TSSH224 - Padmavathi T, - ,4L2-2,ODD-JUNIOR,06,Maths,UG, - ,61
+381,Monday,M9,16:00,17:00,RB 3F LH 16, - ,19MA202 - Calculus and Laplace Transforms,TSSH224 - Padmavathi T, - ,4L2-2,ODD-JUNIOR,06,Maths,UG, - ,61
+382,Wednesday,W1,08:00,09:00,RB 3F LH 01, - ,19MA202 - Calculus and Laplace Transforms,TSSH224 - Padmavathi T, - ,4L2-2,ODD-JUNIOR,06,Maths,UG, - ,61
+383,Wednesday,W2,09:00,10:00,RB 3F LH 01, - ,19MA202 - Calculus and Laplace Transforms,TSSH224 - Padmavathi T, - ,4L2-2,ODD-JUNIOR,06,Maths,UG, - ,61
+384,Monday,M8,15:00,16:00,RB GF LH 01, - ,19MA202 - Calculus and Laplace Transforms,TSSH221 - Janaki K, - ,4L2-1,ODD-JUNIOR,06,Maths,UG, - ,61
+385,Monday,M9,16:00,17:00,RB GF LH 01, - ,19MA202 - Calculus and Laplace Transforms,TSSH221 - Janaki K, - ,4L2-1,ODD-JUNIOR,06,Maths,UG, - ,61
+386,Wednesday,W1,08:00,09:00,ECE 1F LH 01, - ,19MA202 - Calculus and Laplace Transforms,TSSH221 - Janaki K, - ,4L2-1,ODD-JUNIOR,06,Maths,UG, - ,61
+387,Wednesday,W2,09:00,10:00,ECE 1F LH 01, - ,19MA202 - Calculus and Laplace Transforms,TSSH221 - Janaki K, - ,4L2-1,ODD-JUNIOR,06,Maths,UG, - ,61
+388,Tuesday,T6,13:00,14:00,RB 3F LH 01, - ,19MA202 - Calculus and Laplace Transforms,TSSH224 - Padmavathi T, - ,4F2-2,ODD-JUNIOR,06,Maths,UG, - ,58
+389,Tuesday,T7,14:00,15:00,RB 3F LH 01, - ,19MA202 - Calculus and Laplace Transforms,TSSH224 - Padmavathi T, - ,4F2-2,ODD-JUNIOR,06,Maths,UG, - ,58
+390,Friday,F6,13:00,14:00,RB 3F LH 01, - ,19MA202 - Calculus and Laplace Transforms,TSSH224 - Padmavathi T, - ,4F2-2,ODD-JUNIOR,06,Maths,UG, - ,58
+391,Friday,F7,14:00,15:00,RB 3F LH 01, - ,19MA202 - Calculus and Laplace Transforms,TSSH224 - Padmavathi T, - ,4F2-2,ODD-JUNIOR,06,Maths,UG, - ,58
+392,Thursday,TH6,13:00,14:00,RB 3F LH 13, - ,19EN102 - Technical English,TSSH186 - Premraj R, - ,4I2-1,ODD-JUNIOR,06,ENGLISH,UG, - ,61
+393,Thursday,TH7,14:00,15:00,RB 3F LH 13, - ,19EN102 - Technical English,TSSH186 - Premraj R, - ,4I2-1,ODD-JUNIOR,06,ENGLISH,UG, - ,61
+394,Friday,F6,13:00,14:00,RB 3F LH 08, - ,19EN102 - Technical English,TSSH186 - Premraj R, - ,4I2-1,ODD-JUNIOR,06,ENGLISH,UG, - ,61
+395,Friday,F7,14:00,15:00,RB 3F LH 08, - ,19EN102 - Technical English,TSSH186 - Premraj R, - ,4I2-1,ODD-JUNIOR,06,ENGLISH,UG, - ,61
+396,Tuesday,T1,08:00,09:00,RB 1F LH 05, - ,19EN102 - Technical English,TSSH232 - MATHANAVALLI S, - ,4K2-2,ODD-JUNIOR,06,ENGLISH,UG, - ,48
+397,Tuesday,T2,09:00,10:00,RB 1F LH 05, - ,19EN102 - Technical English,TSSH232 - MATHANAVALLI S, - ,4K2-2,ODD-JUNIOR,06,ENGLISH,UG, - ,48
+398,Thursday,TH3,10:00,11:00,ECE 1F LH 01, - ,19EN102 - Technical English,TSSH232 - MATHANAVALLI S, - ,4K2-2,ODD-JUNIOR,06,ENGLISH,UG, - ,48
+399,Thursday,TH4,11:00,12:00,ECE 1F LH 01, - ,19EN102 - Technical English,TSSH232 - MATHANAVALLI S, - ,4K2-2,ODD-JUNIOR,06,ENGLISH,UG, - ,48
+400,Tuesday,T1,08:00,09:00,RB 3F LH 12, - ,19EN102 - Technical English,TSSH186 - Premraj R, - ,4K2-1,ODD-JUNIOR,06,ENGLISH,UG, - ,60
+401,Tuesday,T2,09:00,10:00,RB 3F LH 12, - ,19EN102 - Technical English,TSSH186 - Premraj R, - ,4K2-1,ODD-JUNIOR,06,ENGLISH,UG, - ,60
+402,Thursday,TH3,10:00,11:00,RB 2F LH 08, - ,19EN102 - Technical English,TSSH186 - Premraj R, - ,4K2-1,ODD-JUNIOR,06,ENGLISH,UG, - ,60
+403,Thursday,TH4,11:00,12:00,RB 2F LH 08, - ,19EN102 - Technical English,TSSH186 - Premraj R, - ,4K2-1,ODD-JUNIOR,06,ENGLISH,UG, - ,60
+404,Tuesday,T6,13:00,14:00,RB 3F LH 05, - ,19MA202 - Calculus and Laplace Transforms,TSSH221 - Janaki K, - ,4F2-1,ODD-JUNIOR,06,Maths,UG, - ,61
+405,Tuesday,T7,14:00,15:00,RB 3F LH 05, - ,19MA202 - Calculus and Laplace Transforms,TSSH221 - Janaki K, - ,4F2-1,ODD-JUNIOR,06,Maths,UG, - ,61
+406,Friday,F6,13:00,14:00,RB 1F LH 04, - ,19MA202 - Calculus and Laplace Transforms,TSSH221 - Janaki K, - ,4F2-1,ODD-JUNIOR,06,Maths,UG, - ,61
+407,Friday,F7,14:00,15:00,RB 1F LH 04, - ,19MA202 - Calculus and Laplace Transforms,TSSH221 - Janaki K, - ,4F2-1,ODD-JUNIOR,06,Maths,UG, - ,61
+408,Monday,M8,15:00,16:00,RB 1F EP LAB 2, - ,19ME302 - Engineering Drawing,TSME056 - Vijayarajan V, - ,4J2-1,ODD-JUNIOR,06,MECH,UG, - ,45
+409,Monday,M9,16:00,17:00,RB 1F EP LAB 2, - ,19ME302 - Engineering Drawing,TSME056 - Vijayarajan V, - ,4J2-1,ODD-JUNIOR,06,MECH,UG, - ,45
+410,Tuesday,T3,10:00,11:00,RB 3F LH 10, - ,19ME302 - Engineering Drawing,TSME056 - Vijayarajan V, - ,4J2-1,ODD-JUNIOR,06,MECH,UG, - ,45
+411,Tuesday,T4,11:00,12:00,RB 3F LH 10, - ,19ME302 - Engineering Drawing,TSME056 - Vijayarajan V, - ,4J2-1,ODD-JUNIOR,06,MECH,UG, - ,45
+412,Thursday,TH6,13:00,14:00,RB 1F EP LAB 2, - ,19ME302 - Engineering Drawing,TSME019 - Manimaran G, - ,4I2-1,ODD-JUNIOR,06,MECH,UG, - ,50
+413,Thursday,TH7,14:00,15:00,RB 1F EP LAB 2, - ,19ME302 - Engineering Drawing,TSME019 - Manimaran G, - ,4I2-1,ODD-JUNIOR,06,MECH,UG, - ,50
+414,Friday,F6,13:00,14:00,RB 2F LH 01, - ,19ME302 - Engineering Drawing,TSME019 - Manimaran G, - ,4I2-1,ODD-JUNIOR,06,MECH,UG, - ,50
+415,Friday,F7,14:00,15:00,RB 2F LH 01, - ,19ME302 - Engineering Drawing,TSME019 - Manimaran G, - ,4I2-1,ODD-JUNIOR,06,MECH,UG, - ,50
+416,Thursday,TH6,13:00,14:00,RB 3F LH 19, - ,19ME302 - Engineering Drawing,TSME035 - Velmurugan V, - ,4I2-2,ODD-JUNIOR,06,MECH,UG, - ,50
+417,Thursday,TH7,14:00,15:00,RB 3F LH 19, - ,19ME302 - Engineering Drawing,TSME035 - Velmurugan V, - ,4I2-2,ODD-JUNIOR,06,MECH,UG, - ,50
+418,Friday,F6,13:00,14:00,RB 1F EP LAB 1, - ,19ME302 - Engineering Drawing,TSME035 - Velmurugan V, - ,4I2-2,ODD-JUNIOR,06,MECH,UG, - ,50
+419,Friday,F7,14:00,15:00,RB 1F EP LAB 1, - ,19ME302 - Engineering Drawing,TSME035 - Velmurugan V, - ,4I2-2,ODD-JUNIOR,06,MECH,UG, - ,50
+420,Monday,M8,15:00,16:00,RB 1F EP LAB 1, - ,19ME302 - Engineering Drawing,TSCE71 - VENKATESAN G, - ,4J2-2,ODD-JUNIOR,06,MECH,UG, - ,47
+421,Monday,M9,16:00,17:00,RB 1F EP LAB 1, - ,19ME302 - Engineering Drawing,TSCE71 - VENKATESAN G, - ,4J2-2,ODD-JUNIOR,06,MECH,UG, - ,47
+422,Tuesday,T3,10:00,11:00,RB 1F DH - 1, - ,19ME302 - Engineering Drawing,TSCE71 - VENKATESAN G, - ,4J2-2,ODD-JUNIOR,06,MECH,UG, - ,47
+423,Tuesday,T4,11:00,12:00,RB 1F DH - 1, - ,19ME302 - Engineering Drawing,TSCE71 - VENKATESAN G, - ,4J2-2,ODD-JUNIOR,06,MECH,UG, - ,47
+424,Monday,M8,15:00,16:00,ADMIN 4F LH 01, - ,19EC303 - Digital Principles and System Design,TSEC234 - Latha R, - ,5F1-1,ODD-JUNIOR,06,ECE,UG, - ,35
+425,Wednesday,W1,08:00,09:00,ECE 1F OW DSP LAB-1, - ,19EC303 - Digital Principles and System Design,TSEC234 - Latha R, - ,5F1-1,ODD-JUNIOR,06,ECE,UG, - ,35
+426,Wednesday,W2,09:00,10:00,ECE 1F OW DSP LAB-1, - ,19EC303 - Digital Principles and System Design,TSEC234 - Latha R, - ,5F1-1,ODD-JUNIOR,06,ECE,UG, - ,35
+427,Thursday,TH3,10:00,11:00,ECE 4F LH 01, - ,19EC303 - Digital Principles and System Design,TSEC234 - Latha R, - ,5F1-1,ODD-JUNIOR,06,ECE,UG, - ,35
+428,Thursday,TH4,11:00,12:00,ECE 4F LH 01, - ,19EC303 - Digital Principles and System Design,TSEC234 - Latha R, - ,5F1-1,ODD-JUNIOR,06,ECE,UG, - ,35
+429,Monday,M1,08:00,09:00,CSE 4F OW LH 03, - ,19EC303 - Digital Principles and System Design,TSEC232 - Vinayagam P, - ,5E1-2,ODD-JUNIOR,06,ECE,UG, - ,36
+430,Monday,M2,09:00,10:00,CSE 4F OW LH 03, - ,19EC303 - Digital Principles and System Design,TSEC232 - Vinayagam P, - ,5E1-2,ODD-JUNIOR,06,ECE,UG, - ,36
+431,Tuesday,T7,14:00,15:00,ECE 2F LH 02, - ,19EC303 - Digital Principles and System Design,TSEC232 - Vinayagam P, - ,5E1-2,ODD-JUNIOR,06,ECE,UG, - ,36
+432,Friday,F8,15:00,16:00,ECE 3F LIC LAB, - ,19EC303 - Digital Principles and System Design,TSEC232 - Vinayagam P, - ,5E1-2,ODD-JUNIOR,06,ECE,UG, - ,36
+433,Friday,F9,16:00,17:00,ECE 3F LIC LAB, - ,19EC303 - Digital Principles and System Design,TSEC232 - Vinayagam P, - ,5E1-2,ODD-JUNIOR,06,ECE,UG, - ,36
+434,Monday,M1,08:00,09:00,CSE 3F OW LH 04, - ,19EC303 - Digital Principles and System Design,TSEC236 - Kanagamalliga S, - ,5E1-1,ODD-JUNIOR,06,ECE,UG, - ,36
+435,Monday,M2,09:00,10:00,CSE 3F OW LH 04, - ,19EC303 - Digital Principles and System Design,TSEC236 - Kanagamalliga S, - ,5E1-1,ODD-JUNIOR,06,ECE,UG, - ,36
+436,Tuesday,T7,14:00,15:00,EEE 2F LH 02, - ,19EC303 - Digital Principles and System Design,TSEC236 - Kanagamalliga S, - ,5E1-1,ODD-JUNIOR,06,ECE,UG, - ,36
+437,Friday,F8,15:00,16:00,ECE 1F OW DSP LAB-1, - ,19EC303 - Digital Principles and System Design,TSEC236 - Kanagamalliga S, - ,5E1-1,ODD-JUNIOR,06,ECE,UG, - ,36
+438,Friday,F9,16:00,17:00,ECE 1F OW DSP LAB-1, - ,19EC303 - Digital Principles and System Design,TSEC236 - Kanagamalliga S, - ,5E1-1,ODD-JUNIOR,06,ECE,UG, - ,36
+439,Wednesday,W3,10:00,11:00,CSE 3F OW LH 03, - ,19EC302 - Electronic Devices,TSEC235 - Subashree V, - ,5D1-2,ODD-JUNIOR,06,ECE,UG, - ,39
+440,Wednesday,W4,11:00,12:00,CSE 3F OW LH 03, - ,19EC302 - Electronic Devices,TSEC235 - Subashree V, - ,5D1-2,ODD-JUNIOR,06,ECE,UG, - ,39
+441,Thursday,TH8,15:00,16:00,ECE 4F ED LAB, - ,19EC302 - Electronic Devices,TSEC235 - Subashree V, - ,5D1-2,ODD-JUNIOR,06,ECE,UG, - ,39
+442,Thursday,TH9,16:00,17:00,ECE 4F ED LAB, - ,19EC302 - Electronic Devices,TSEC235 - Subashree V, - ,5D1-2,ODD-JUNIOR,06,ECE,UG, - ,39
+443,Friday,F3,10:00,11:00,CSE 4F OW LH 06, - ,19EC302 - Electronic Devices,TSEC235 - Subashree V, - ,5D1-2,ODD-JUNIOR,06,ECE,UG, - ,39
+444,Monday,M8,15:00,16:00,CSE 4F LH 02, - ,19EC303 - Digital Principles and System Design,TSEC243 - Immaculate joy S, - ,5F1-2,ODD-JUNIOR,06,ECE,UG, - ,36
+445,Wednesday,W1,08:00,09:00,RB 3F LH 12, - ,19EC303 - Digital Principles and System Design,TSEC243 - Immaculate joy S, - ,5F1-2,ODD-JUNIOR,06,ECE,UG, - ,36
+446,Wednesday,W2,09:00,10:00,RB 3F LH 12, - ,19EC303 - Digital Principles and System Design,TSEC243 - Immaculate joy S, - ,5F1-2,ODD-JUNIOR,06,ECE,UG, - ,36
+447,Thursday,TH3,10:00,11:00,ECE 1F OW DSP LAB-1, - ,19EC303 - Digital Principles and System Design,TSEC243 - Immaculate joy S, - ,5F1-2,ODD-JUNIOR,06,ECE,UG, - ,36
+448,Thursday,TH4,11:00,12:00,ECE 1F OW DSP LAB-1, - ,19EC303 - Digital Principles and System Design,TSEC243 - Immaculate joy S, - ,5F1-2,ODD-JUNIOR,06,ECE,UG, - ,36
+449,Wednesday,W3,10:00,11:00,ECE 4F ED LAB, - ,19EC302 - Electronic Devices,TSEC210 - IMRAN HUSSAIN, - ,5D1-1,ODD-JUNIOR,06,ECE,UG, - ,39
+450,Wednesday,W4,11:00,12:00,ECE 4F ED LAB, - ,19EC302 - Electronic Devices,TSEC210 - IMRAN HUSSAIN, - ,5D1-1,ODD-JUNIOR,06,ECE,UG, - ,39
+451,Thursday,TH8,15:00,16:00,EEE 2F LH 01, - ,19EC302 - Electronic Devices,TSEC210 - IMRAN HUSSAIN, - ,5D1-1,ODD-JUNIOR,06,ECE,UG, - ,39
+452,Thursday,TH9,16:00,17:00,EEE 2F LH 01, - ,19EC302 - Electronic Devices,TSEC210 - IMRAN HUSSAIN, - ,5D1-1,ODD-JUNIOR,06,ECE,UG, - ,39
+453,Friday,F3,10:00,11:00,ECE 1F LH 02, - ,19EC302 - Electronic Devices,TSEC210 - IMRAN HUSSAIN, - ,5D1-1,ODD-JUNIOR,06,ECE,UG, - ,39
+454,Tuesday,T8,15:00,16:00,ADMIN 4F LH 02, - ,19EC302 - Electronic Devices,TSEC247 - HEINER AJ, - ,5C1-2,ODD-JUNIOR,06,ECE,UG, - ,39
+455,Wednesday,W6,13:00,14:00,ECE 4F ED LAB, - ,19EC302 - Electronic Devices,TSEC247 - HEINER AJ, - ,5C1-2,ODD-JUNIOR,06,ECE,UG, - ,39
+456,Wednesday,W7,14:00,15:00,ECE 4F ED LAB, - ,19EC302 - Electronic Devices,TSEC247 - HEINER AJ, - ,5C1-2,ODD-JUNIOR,06,ECE,UG, - ,39
+457,Thursday,TH3,10:00,11:00,RB 1F LH 02, - ,19EC302 - Electronic Devices,TSEC247 - HEINER AJ, - ,5C1-2,ODD-JUNIOR,06,ECE,UG, - ,39
+458,Thursday,TH4,11:00,12:00,RB 1F LH 02, - ,19EC302 - Electronic Devices,TSEC247 - HEINER AJ, - ,5C1-2,ODD-JUNIOR,06,ECE,UG, - ,39
+459,Tuesday,T8,15:00,16:00,RB 1F LH 03, - ,19EC302 - Electronic Devices,TSEC210 - IMRAN HUSSAIN, - ,5C1-1,ODD-JUNIOR,06,ECE,UG, - ,40
+460,Wednesday,W6,13:00,14:00,ECE 2F LH 01, - ,19EC302 - Electronic Devices,TSEC210 - IMRAN HUSSAIN, - ,5C1-1,ODD-JUNIOR,06,ECE,UG, - ,40
+461,Wednesday,W7,14:00,15:00,ECE 2F LH 01, - ,19EC302 - Electronic Devices,TSEC210 - IMRAN HUSSAIN, - ,5C1-1,ODD-JUNIOR,06,ECE,UG, - ,40
+462,Thursday,TH3,10:00,11:00,ECE 4F ED LAB, - ,19EC302 - Electronic Devices,TSEC210 - IMRAN HUSSAIN, - ,5C1-1,ODD-JUNIOR,06,ECE,UG, - ,40
+463,Thursday,TH4,11:00,12:00,ECE 4F ED LAB, - ,19EC302 - Electronic Devices,TSEC210 - IMRAN HUSSAIN, - ,5C1-1,ODD-JUNIOR,06,ECE,UG, - ,40
+464,Monday,M4,11:00,12:00,CSE 4F OW LH 04, - ,19EC301 - Electric Circuit Analysis,TSEC233 - Mausam Chouksey, - ,5B1-2,ODD-JUNIOR,06,ECE,UG, - ,33
+465,Wednesday,W1,08:00,09:00,ECE 3F EMB LAB, - ,19EC301 - Electric Circuit Analysis,TSEC233 - Mausam Chouksey, - ,5B1-2,ODD-JUNIOR,06,ECE,UG, - ,33
+466,Wednesday,W2,09:00,10:00,ECE 3F EMB LAB, - ,19EC301 - Electric Circuit Analysis,TSEC233 - Mausam Chouksey, - ,5B1-2,ODD-JUNIOR,06,ECE,UG, - ,33
+467,Thursday,TH3,10:00,11:00,RB 1F LH 01, - ,19EC301 - Electric Circuit Analysis,TSEC233 - Mausam Chouksey, - ,5B1-2,ODD-JUNIOR,06,ECE,UG, - ,33
+468,Thursday,TH4,11:00,12:00,RB 1F LH 01, - ,19EC301 - Electric Circuit Analysis,TSEC233 - Mausam Chouksey, - ,5B1-2,ODD-JUNIOR,06,ECE,UG, - ,33
+469,Monday,M4,11:00,12:00,ECE 1F LH 01, - ,19EC301 - Electric Circuit Analysis,TSEC245 - Sugitha N, - ,5B1-1,ODD-JUNIOR,06,ECE,UG, - ,34
+470,Wednesday,W1,08:00,09:00,RB 3F LH 04, - ,19EC301 - Electric Circuit Analysis,TSEC245 - Sugitha N, - ,5B1-1,ODD-JUNIOR,06,ECE,UG, - ,34
+471,Wednesday,W2,09:00,10:00,RB 3F LH 04, - ,19EC301 - Electric Circuit Analysis,TSEC245 - Sugitha N, - ,5B1-1,ODD-JUNIOR,06,ECE,UG, - ,34
+472,Thursday,TH3,10:00,11:00,ECE 3F EMB LAB, - ,19EC301 - Electric Circuit Analysis,TSEC245 - Sugitha N, - ,5B1-1,ODD-JUNIOR,06,ECE,UG, - ,34
+473,Thursday,TH4,11:00,12:00,ECE 3F EMB LAB, - ,19EC301 - Electric Circuit Analysis,TSEC245 - Sugitha N, - ,5B1-1,ODD-JUNIOR,06,ECE,UG, - ,34
+474,Monday,M6,13:00,14:00,ECE 3F EMB LAB, - ,19EC301 - Electric Circuit Analysis,TSEC244 - Gandhimathinathan A, - ,5A1-2,ODD-JUNIOR,06,ECE,UG, - ,39
+475,Monday,M7,14:00,15:00,ECE 3F EMB LAB, - ,19EC301 - Electric Circuit Analysis,TSEC244 - Gandhimathinathan A, - ,5A1-2,ODD-JUNIOR,06,ECE,UG, - ,39
+476,Tuesday,T3,10:00,11:00,ECE 4F LH 01, - ,19EC301 - Electric Circuit Analysis,TSEC244 - Gandhimathinathan A, - ,5A1-2,ODD-JUNIOR,06,ECE,UG, - ,39
+477,Tuesday,T4,11:00,12:00,ECE 4F LH 01, - ,19EC301 - Electric Circuit Analysis,TSEC244 - Gandhimathinathan A, - ,5A1-2,ODD-JUNIOR,06,ECE,UG, - ,39
+478,Thursday,TH8,15:00,16:00,ECE 2F LH 02, - ,19EC301 - Electric Circuit Analysis,TSEC244 - Gandhimathinathan A, - ,5A1-2,ODD-JUNIOR,06,ECE,UG, - ,39
+479,Monday,M6,13:00,14:00,CSE 2F LH 01, - ,19EC301 - Electric Circuit Analysis,TSEC240 - Sowmiya Manoj M, - ,5A1-1,ODD-JUNIOR,06,ECE,UG, - ,39
+480,Monday,M7,14:00,15:00,CSE 2F LH 01, - ,19EC301 - Electric Circuit Analysis,TSEC240 - Sowmiya Manoj M, - ,5A1-1,ODD-JUNIOR,06,ECE,UG, - ,39
+481,Tuesday,T3,10:00,11:00,ECE 3F EMB LAB, - ,19EC301 - Electric Circuit Analysis,TSEC240 - Sowmiya Manoj M, - ,5A1-1,ODD-JUNIOR,06,ECE,UG, - ,39
+482,Tuesday,T4,11:00,12:00,ECE 3F EMB LAB, - ,19EC301 - Electric Circuit Analysis,TSEC240 - Sowmiya Manoj M, - ,5A1-1,ODD-JUNIOR,06,ECE,UG, - ,39
+483,Thursday,TH8,15:00,16:00,CSE 4F OW LH 06, - ,19EC301 - Electric Circuit Analysis,TSEC240 - Sowmiya Manoj M, - ,5A1-1,ODD-JUNIOR,06,ECE,UG, - ,39
+484,Wednesday,W3,10:00,11:00,ECE 1F LH 01, - ,19PH214 - Physics for Quantum Computing,TSSH205 - Ramki C, - ,3D1-1,ODD-JUNIOR,23,PHYSICS,UG, - ,78
+485,Wednesday,W4,11:00,12:00,ECE 1F LH 01, - ,19PH214 - Physics for Quantum Computing,TSSH205 - Ramki C, - ,3D1-1,ODD-JUNIOR,23,PHYSICS,UG, - ,78
+486,Friday,F8,15:00,16:00,ECE 1F LH 01, - ,19PH214 - Physics for Quantum Computing,TSSH205 - Ramki C, - ,3D1-1,ODD-JUNIOR,23,PHYSICS,UG, - ,78
+487,Monday,M8,15:00,16:00,ECE 1F LH 01, - ,19PH214 - Physics for Quantum Computing,TSSH207 - Sivakumar T, - ,3C1-2,ODD-JUNIOR,23,PHYSICS,UG, - ,74
+488,Monday,M9,16:00,17:00,ECE 1F LH 01, - ,19PH214 - Physics for Quantum Computing,TSSH207 - Sivakumar T, - ,3C1-2,ODD-JUNIOR,23,PHYSICS,UG, - ,74
+489,Friday,F4,11:00,12:00,ECE 1F LH 01, - ,19PH214 - Physics for Quantum Computing,TSSH207 - Sivakumar T, - ,3C1-2,ODD-JUNIOR,23,PHYSICS,UG, - ,74
+490,Tuesday,T8,15:00,16:00,ECE 1F LH 01, - ,19PH214 - Physics for Quantum Computing,TSSH153 - Pugazhvadivu K.S, - ,3B1-2,ODD-JUNIOR,23,PHYSICS,UG, - ,72
+491,Thursday,TH6,13:00,14:00,ECE 1F LH 01, - ,19PH214 - Physics for Quantum Computing,TSSH153 - Pugazhvadivu K.S, - ,3B1-2,ODD-JUNIOR,23,PHYSICS,UG, - ,72
+492,Thursday,TH7,14:00,15:00,ECE 1F LH 01, - ,19PH214 - Physics for Quantum Computing,TSSH153 - Pugazhvadivu K.S, - ,3B1-2,ODD-JUNIOR,23,PHYSICS,UG, - ,72
+493,Tuesday,T8,15:00,16:00,ECE 1F LH 02, - ,19PH214 - Physics for Quantum Computing,TSSH141 - THENNARASU S, - ,3B1-1,ODD-JUNIOR,23,PHYSICS,UG, - ,73
+494,Thursday,TH6,13:00,14:00,ECE 1F LH 02, - ,19PH214 - Physics for Quantum Computing,TSSH141 - THENNARASU S, - ,3B1-1,ODD-JUNIOR,23,PHYSICS,UG, - ,73
+495,Thursday,TH7,14:00,15:00,ECE 1F LH 02, - ,19PH214 - Physics for Quantum Computing,TSSH141 - THENNARASU S, - ,3B1-1,ODD-JUNIOR,23,PHYSICS,UG, - ,73
+496,Monday,M6,13:00,14:00,ECE 1F LH 01, - ,19PH214 - Physics for Quantum Computing,TSSH179 - Silambarasan M, - ,3A1-2,ODD-JUNIOR,23,PHYSICS,UG, - ,68
+497,Monday,M7,14:00,15:00,ECE 1F LH 01, - ,19PH214 - Physics for Quantum Computing,TSSH179 - Silambarasan M, - ,3A1-2,ODD-JUNIOR,23,PHYSICS,UG, - ,68
+498,Friday,F8,15:00,16:00,ECE 1F LH 02, - ,19PH214 - Physics for Quantum Computing,TSSH179 - Silambarasan M, - ,3A1-2,ODD-JUNIOR,23,PHYSICS,UG, - ,68
+499,Monday,M8,15:00,16:00,ECE 1F LH 02, - ,19PH214 - Physics for Quantum Computing,TSSH212 - Ganapathi Raman, - ,3C1-1,ODD-JUNIOR,23,PHYSICS,UG, - ,70
+500,Monday,M9,16:00,17:00,ECE 1F LH 02, - ,19PH214 - Physics for Quantum Computing,TSSH212 - Ganapathi Raman, - ,3C1-1,ODD-JUNIOR,23,PHYSICS,UG, - ,70
+501,Friday,F4,11:00,12:00,ECE 1F LH 02, - ,19PH214 - Physics for Quantum Computing,TSSH212 - Ganapathi Raman, - ,3C1-1,ODD-JUNIOR,23,PHYSICS,UG, - ,70
+502,Monday,M6,13:00,14:00,ECE 1F LH 02, - ,19PH214 - Physics for Quantum Computing,TSSH047 - Priya M, - ,3A1-1,ODD-JUNIOR,23,PHYSICS,UG, - ,66
+503,Monday,M7,14:00,15:00,ECE 1F LH 02, - ,19PH214 - Physics for Quantum Computing,TSSH047 - Priya M, - ,3A1-1,ODD-JUNIOR,23,PHYSICS,UG, - ,66
+504,Friday,F8,15:00,16:00,RB 3F LH 04, - ,19PH214 - Physics for Quantum Computing,TSSH047 - Priya M, - ,3A1-1,ODD-JUNIOR,23,PHYSICS,UG, - ,66
+505,Monday,M1,08:00,09:00,RB 1F LH 03, - ,19CY205 - Principles of Chemistry in Engineering,TSSH184 - Lavanya G, - ,4H2-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,39
+506,Monday,M2,09:00,10:00,RB 1F LH 03, - ,19CY205 - Principles of Chemistry in Engineering,TSSH184 - Lavanya G, - ,4H2-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,39
+507,Wednesday,W1,08:00,09:00,RB 3F LH 10, - ,19CY205 - Principles of Chemistry in Engineering,TSSH184 - Lavanya G, - ,4H2-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,39
+508,Wednesday,W2,09:00,10:00,RB 3F LH 10, - ,19CY205 - Principles of Chemistry in Engineering,TSSH184 - Lavanya G, - ,4H2-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,39
+509,Tuesday,T1,08:00,09:00,RB 3F LH 19, - ,19CY205 - Principles of Chemistry in Engineering,TSSH176 - ANANCIA GRACE A, - ,4G2-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+510,Tuesday,T2,09:00,10:00,RB 3F LH 19, - ,19CY205 - Principles of Chemistry in Engineering,TSSH176 - ANANCIA GRACE A, - ,4G2-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+511,Friday,F1,08:00,09:00,RB 3F LH 17, - ,19CY205 - Principles of Chemistry in Engineering,TSSH176 - ANANCIA GRACE A, - ,4G2-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+512,Friday,F2,09:00,10:00,RB 3F LH 17, - ,19CY205 - Principles of Chemistry in Engineering,TSSH176 - ANANCIA GRACE A, - ,4G2-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+513,Monday,M1,08:00,09:00,RB 3F LH 04, - ,19CY205 - Principles of Chemistry in Engineering,TSSH176 - ANANCIA GRACE A, - ,4H2-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,39
+514,Monday,M2,09:00,10:00,RB 3F LH 04, - ,19CY205 - Principles of Chemistry in Engineering,TSSH176 - ANANCIA GRACE A, - ,4H2-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,39
+515,Wednesday,W1,08:00,09:00,RB 3F LH 20, - ,19CY205 - Principles of Chemistry in Engineering,TSSH176 - ANANCIA GRACE A, - ,4H2-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,39
+516,Wednesday,W2,09:00,10:00,RB 3F LH 20, - ,19CY205 - Principles of Chemistry in Engineering,TSSH176 - ANANCIA GRACE A, - ,4H2-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,39
+517,Tuesday,T1,08:00,09:00,RB GF CHEMISTRY LAB 1, - ,19CY205 - Principles of Chemistry in Engineering,TSSH222 - Bavatharani C, - ,4G2-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+518,Tuesday,T2,09:00,10:00,RB GF CHEMISTRY LAB 1, - ,19CY205 - Principles of Chemistry in Engineering,TSSH222 - Bavatharani C, - ,4G2-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+519,Friday,F1,08:00,09:00,RB 1F LH 06, - ,19CY205 - Principles of Chemistry in Engineering,TSSH222 - Bavatharani C, - ,4G2-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+520,Friday,F2,09:00,10:00,RB 1F LH 06, - ,19CY205 - Principles of Chemistry in Engineering,TSSH222 - Bavatharani C, - ,4G2-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+521,Tuesday,T6,13:00,14:00,RB 1F LH 06, - ,19CY205 - Principles of Chemistry in Engineering,TSSH222 - Bavatharani C, - ,4F2-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,41
+522,Tuesday,T7,14:00,15:00,RB 1F LH 06, - ,19CY205 - Principles of Chemistry in Engineering,TSSH222 - Bavatharani C, - ,4F2-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,41
+523,Friday,F6,13:00,14:00,RB 1F LH 03, - ,19CY205 - Principles of Chemistry in Engineering,TSSH222 - Bavatharani C, - ,4F2-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,41
+524,Friday,F7,14:00,15:00,RB 1F LH 03, - ,19CY205 - Principles of Chemistry in Engineering,TSSH222 - Bavatharani C, - ,4F2-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,41
+525,Tuesday,T6,13:00,14:00,RB 1F LH 07, - ,19CY205 - Principles of Chemistry in Engineering,TSSH215 - SHANTHI S, - ,4F2-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,42
+526,Tuesday,T7,14:00,15:00,RB 1F LH 07, - ,19CY205 - Principles of Chemistry in Engineering,TSSH215 - SHANTHI S, - ,4F2-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,42
+527,Friday,F6,13:00,14:00,RB 2F LH 07, - ,19CY205 - Principles of Chemistry in Engineering,TSSH215 - SHANTHI S, - ,4F2-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,42
+528,Friday,F7,14:00,15:00,RB 2F LH 07, - ,19CY205 - Principles of Chemistry in Engineering,TSSH215 - SHANTHI S, - ,4F2-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,42
+529,Monday,M6,13:00,14:00,RB 2F CHEMISTRY LAB 2, - ,19CY205 - Principles of Chemistry in Engineering,TSSH215 - SHANTHI S, - ,4F1-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+530,Monday,M7,14:00,15:00,RB 2F CHEMISTRY LAB 2, - ,19CY205 - Principles of Chemistry in Engineering,TSSH215 - SHANTHI S, - ,4F1-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+531,Wednesday,W6,13:00,14:00,RB 3F LH 20, - ,19CY205 - Principles of Chemistry in Engineering,TSSH215 - SHANTHI S, - ,4F1-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+532,Wednesday,W7,14:00,15:00,RB 3F LH 20, - ,19CY205 - Principles of Chemistry in Engineering,TSSH215 - SHANTHI S, - ,4F1-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+533,Monday,M6,13:00,14:00,RB 2F LH 05, - ,19CY205 - Principles of Chemistry in Engineering,TSSH211 - Shramila Queenthy S, - ,4F1-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+534,Monday,M7,14:00,15:00,RB 2F LH 05, - ,19CY205 - Principles of Chemistry in Engineering,TSSH211 - Shramila Queenthy S, - ,4F1-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+535,Wednesday,W6,13:00,14:00,RB 3F LH 17, - ,19CY205 - Principles of Chemistry in Engineering,TSSH211 - Shramila Queenthy S, - ,4F1-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+536,Wednesday,W7,14:00,15:00,RB 3F LH 17, - ,19CY205 - Principles of Chemistry in Engineering,TSSH211 - Shramila Queenthy S, - ,4F1-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+537,Monday,M3,10:00,11:00,RB 3F LH 16, - ,19CY205 - Principles of Chemistry in Engineering,TSSH211 - Shramila Queenthy S, - ,4E2-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+538,Monday,M4,11:00,12:00,RB 3F LH 16, - ,19CY205 - Principles of Chemistry in Engineering,TSSH211 - Shramila Queenthy S, - ,4E2-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+539,Tuesday,T6,13:00,14:00,RB 3F LH 19, - ,19CY205 - Principles of Chemistry in Engineering,TSSH211 - Shramila Queenthy S, - ,4E2-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+540,Tuesday,T7,14:00,15:00,RB 3F LH 19, - ,19CY205 - Principles of Chemistry in Engineering,TSSH211 - Shramila Queenthy S, - ,4E2-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+541,Monday,M3,10:00,11:00,RB 3F LH 10, - ,19CY205 - Principles of Chemistry in Engineering,TSSH204 - Thirumavalavan M, - ,4E2-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+542,Monday,M4,11:00,12:00,RB 3F LH 10, - ,19CY205 - Principles of Chemistry in Engineering,TSSH204 - Thirumavalavan M, - ,4E2-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+543,Tuesday,T6,13:00,14:00,RB 2F CHEMISTRY LAB 2, - ,19CY205 - Principles of Chemistry in Engineering,TSSH204 - Thirumavalavan M, - ,4E2-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+544,Tuesday,T7,14:00,15:00,RB 2F CHEMISTRY LAB 2, - ,19CY205 - Principles of Chemistry in Engineering,TSSH204 - Thirumavalavan M, - ,4E2-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,40
+545,Wednesday,W3,10:00,11:00,RB 1F LH 03, - ,19CY205 - Principles of Chemistry in Engineering,TSSH204 - Thirumavalavan M, - ,4D2-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,35
+546,Wednesday,W4,11:00,12:00,RB 1F LH 03, - ,19CY205 - Principles of Chemistry in Engineering,TSSH204 - Thirumavalavan M, - ,4D2-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,35
+547,Thursday,TH1,08:00,09:00,RB 3F LH 15, - ,19CY205 - Principles of Chemistry in Engineering,TSSH204 - Thirumavalavan M, - ,4D2-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,35
+548,Thursday,TH2,09:00,10:00,RB 3F LH 15, - ,19CY205 - Principles of Chemistry in Engineering,TSSH204 - Thirumavalavan M, - ,4D2-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,35
+549,Wednesday,W3,10:00,11:00,RB 1F LH 02, - ,19CY205 - Principles of Chemistry in Engineering,TSSH129 - Mettilda M, - ,4D2-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,38
+550,Wednesday,W4,11:00,12:00,RB 1F LH 02, - ,19CY205 - Principles of Chemistry in Engineering,TSSH129 - Mettilda M, - ,4D2-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,38
+551,Thursday,TH1,08:00,09:00,RB 2F LH 06, - ,19CY205 - Principles of Chemistry in Engineering,TSSH129 - Mettilda M, - ,4D2-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,38
+552,Thursday,TH2,09:00,10:00,RB 2F LH 06, - ,19CY205 - Principles of Chemistry in Engineering,TSSH129 - Mettilda M, - ,4D2-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,38
+553,Tuesday,T1,08:00,09:00,CSE 4F OW LH 03, - ,19CY205 - Principles of Chemistry in Engineering,TSSH130 - Vivekanand P A, - ,4C2-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,35
+554,Tuesday,T2,09:00,10:00,CSE 4F OW LH 03, - ,19CY205 - Principles of Chemistry in Engineering,TSSH130 - Vivekanand P A, - ,4C2-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,35
+555,Wednesday,W8,15:00,16:00,RB 1F LH 03, - ,19CY205 - Principles of Chemistry in Engineering,TSSH130 - Vivekanand P A, - ,4C2-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,35
+556,Wednesday,W9,16:00,17:00,RB 1F LH 03, - ,19CY205 - Principles of Chemistry in Engineering,TSSH130 - Vivekanand P A, - ,4C2-2,ODD-JUNIOR,23,CHEMISTRY,UG, - ,35
+557,Tuesday,T1,08:00,09:00,RB 1F LH 07, - ,19CY205 - Principles of Chemistry in Engineering,TSSH129 - Mettilda M, - ,4C2-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,38
+558,Tuesday,T2,09:00,10:00,RB 1F LH 07, - ,19CY205 - Principles of Chemistry in Engineering,TSSH129 - Mettilda M, - ,4C2-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,38
+559,Wednesday,W8,15:00,16:00,RB 3F LH 13, - ,19CY205 - Principles of Chemistry in Engineering,TSSH129 - Mettilda M, - ,4C2-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,38
+560,Wednesday,W9,16:00,17:00,RB 3F LH 13, - ,19CY205 - Principles of Chemistry in Engineering,TSSH129 - Mettilda M, - ,4C2-1,ODD-JUNIOR,23,CHEMISTRY,UG, - ,38
+561,Thursday,TH3,10:00,11:00,ADMIN 4F OW LH 04, - ,19AI304 - Fundamentals of C Programming,TSML009 - Kumaravelu R, - ,4B2-2,ODD-JUNIOR,23,AI,UG, - ,5
+562,Thursday,TH4,11:00,12:00,ADMIN 4F OW LH 04, - ,19AI304 - Fundamentals of C Programming,TSML009 - Kumaravelu R, - ,4B2-2,ODD-JUNIOR,23,AI,UG, - ,5
+563,Friday,F6,13:00,14:00,CSE 4F LH 02, - ,19AI304 - Fundamentals of C Programming,TSML009 - Kumaravelu R, - ,4B2-2,ODD-JUNIOR,23,AI,UG, - ,5
+564,Friday,F7,14:00,15:00,CSE 4F LH 02, - ,19AI304 - Fundamentals of C Programming,TSML009 - Kumaravelu R, - ,4B2-2,ODD-JUNIOR,23,AI,UG, - ,5
+565,Thursday,TH3,10:00,11:00,EEE 2F LH 02, - ,19AI304 - Fundamentals of C Programming,TSML004 - Silambarasi C, - ,4B2-1,ODD-JUNIOR,23,AI,UG, - ,38
+566,Thursday,TH4,11:00,12:00,EEE 2F LH 02, - ,19AI304 - Fundamentals of C Programming,TSML004 - Silambarasi C, - ,4B2-1,ODD-JUNIOR,23,AI,UG, - ,38
+567,Friday,F6,13:00,14:00,CSE 4F OW LH 04, - ,19AI304 - Fundamentals of C Programming,TSML004 - Silambarasi C, - ,4B2-1,ODD-JUNIOR,23,AI,UG, - ,38
+568,Friday,F7,14:00,15:00,CSE 4F OW LH 04, - ,19AI304 - Fundamentals of C Programming,TSML004 - Silambarasi C, - ,4B2-1,ODD-JUNIOR,23,AI,UG, - ,38
+569,Monday,M1,08:00,09:00,CSE 4F LH 02, - ,19AI304 - Fundamentals of C Programming,TSML004 - Silambarasi C, - ,4A2-2,ODD-JUNIOR,23,AI,UG, - ,42
+570,Monday,M2,09:00,10:00,CSE 4F LH 02, - ,19AI304 - Fundamentals of C Programming,TSML004 - Silambarasi C, - ,4A2-2,ODD-JUNIOR,23,AI,UG, - ,42
+571,Tuesday,T3,10:00,11:00,EEE 5F LH 02, - ,19AI304 - Fundamentals of C Programming,TSML004 - Silambarasi C, - ,4A2-2,ODD-JUNIOR,23,AI,UG, - ,42
+572,Tuesday,T4,11:00,12:00,EEE 5F LH 02, - ,19AI304 - Fundamentals of C Programming,TSML004 - Silambarasi C, - ,4A2-2,ODD-JUNIOR,23,AI,UG, - ,42
+573,Monday,M1,08:00,09:00,CSE 4F LH 01, - ,19AI304 - Fundamentals of C Programming,TSAI008 - Dhinesh Kumar K S, - ,4A2-1,ODD-JUNIOR,23,AI,UG, - ,57
+574,Monday,M2,09:00,10:00,CSE 4F LH 01, - ,19AI304 - Fundamentals of C Programming,TSAI008 - Dhinesh Kumar K S, - ,4A2-1,ODD-JUNIOR,23,AI,UG, - ,57
+575,Tuesday,T3,10:00,11:00,EEE 3F LH 01, - ,19AI304 - Fundamentals of C Programming,TSAI008 - Dhinesh Kumar K S, - ,4A2-1,ODD-JUNIOR,23,AI,UG, - ,57
+576,Tuesday,T4,11:00,12:00,EEE 3F LH 01, - ,19AI304 - Fundamentals of C Programming,TSAI008 - Dhinesh Kumar K S, - ,4A2-1,ODD-JUNIOR,23,AI,UG, - ,57
+577,Wednesday,W6,13:00,14:00,CSE 4F OW LH 04, - ,19AI304 - Fundamentals of C Programming,TSAI008 - Dhinesh Kumar K S, - ,4Z1-1,ODD-JUNIOR,23,AI,UG, - ,34
+578,Wednesday,W7,14:00,15:00,CSE 4F OW LH 04, - ,19AI304 - Fundamentals of C Programming,TSAI008 - Dhinesh Kumar K S, - ,4Z1-1,ODD-JUNIOR,23,AI,UG, - ,34
+579,Thursday,TH1,08:00,09:00,EEE 5F OW ML LAB, - ,19AI304 - Fundamentals of C Programming,TSAI008 - Dhinesh Kumar K S, - ,4Z1-1,ODD-JUNIOR,23,AI,UG, - ,34
+580,Thursday,TH2,09:00,10:00,EEE 5F OW ML LAB, - ,19AI304 - Fundamentals of C Programming,TSAI008 - Dhinesh Kumar K S, - ,4Z1-1,ODD-JUNIOR,23,AI,UG, - ,34
+581,Wednesday,W6,13:00,14:00,CSE 4F LH 02, - ,19AI304 - Fundamentals of C Programming,TSML001 - Magitha Nirmala Tennyson, - ,4Z1-2,ODD-JUNIOR,23,AI,UG, - ,60
+582,Wednesday,W7,14:00,15:00,CSE 4F LH 02, - ,19AI304 - Fundamentals of C Programming,TSML001 - Magitha Nirmala Tennyson, - ,4Z1-2,ODD-JUNIOR,23,AI,UG, - ,60
+583,Thursday,TH1,08:00,09:00,EEE 4F LH 01, - ,19AI304 - Fundamentals of C Programming,TSML001 - Magitha Nirmala Tennyson, - ,4Z1-2,ODD-JUNIOR,23,AI,UG, - ,60
+584,Thursday,TH2,09:00,10:00,EEE 4F LH 01, - ,19AI304 - Fundamentals of C Programming,TSML001 - Magitha Nirmala Tennyson, - ,4Z1-2,ODD-JUNIOR,23,AI,UG, - ,60
+585,Monday,M3,10:00,11:00,CSE 3F LH 01, - ,19AI304 - Fundamentals of C Programming,TSCS065 - Joel Jhon, - ,4Y1-1,ODD-JUNIOR,23,AI,UG, - ,59
+586,Monday,M4,11:00,12:00,CSE 3F LH 01, - ,19AI304 - Fundamentals of C Programming,TSCS065 - Joel Jhon, - ,4Y1-1,ODD-JUNIOR,23,AI,UG, - ,59
+587,Wednesday,W8,15:00,16:00,CSE 4F OW LH 04, - ,19AI304 - Fundamentals of C Programming,TSCS065 - Joel Jhon, - ,4Y1-1,ODD-JUNIOR,23,AI,UG, - ,59
+588,Wednesday,W9,16:00,17:00,CSE 4F OW LH 04, - ,19AI304 - Fundamentals of C Programming,TSCS065 - Joel Jhon, - ,4Y1-1,ODD-JUNIOR,23,AI,UG, - ,59
+589,Tuesday,T1,08:00,09:00,CSE 4F OW LH 04, - ,19AI304 - Fundamentals of C Programming,TSCS065 - Joel Jhon, - ,4X1-1,ODD-JUNIOR,23,AI,UG, - ,49
+590,Tuesday,T2,09:00,10:00,CSE 4F OW LH 04, - ,19AI304 - Fundamentals of C Programming,TSCS065 - Joel Jhon, - ,4X1-1,ODD-JUNIOR,23,AI,UG, - ,49
+591,Wednesday,W3,10:00,11:00,CSE 2F LH 02, - ,19AI304 - Fundamentals of C Programming,TSCS065 - Joel Jhon, - ,4X1-1,ODD-JUNIOR,23,AI,UG, - ,49
+592,Wednesday,W4,11:00,12:00,CSE 2F LH 02, - ,19AI304 - Fundamentals of C Programming,TSCS065 - Joel Jhon, - ,4X1-1,ODD-JUNIOR,23,AI,UG, - ,49
+593,Monday,M6,13:00,14:00,CSE 3F LH 01, - ,19AI414 - Fundamentals of Web Application Development,NEW_CSE1 - NEW_CSE1 NEW_CSE1, - ,6G1-1,ODD-JUNIOR,23,AI,UG, - ,77
+594,Monday,M7,14:00,15:00,CSE 3F LH 01, - ,19AI414 - Fundamentals of Web Application Development,NEW_CSE1 - NEW_CSE1 NEW_CSE1, - ,6G1-1,ODD-JUNIOR,23,AI,UG, - ,77
+595,Tuesday,T6,13:00,14:00,EEE 3F LH 01, - ,19AI414 - Fundamentals of Web Application Development,NEW_CSE1 - NEW_CSE1 NEW_CSE1, - ,6G1-1,ODD-JUNIOR,23,AI,UG, - ,77
+596,Tuesday,T7,14:00,15:00,EEE 3F LH 01, - ,19AI414 - Fundamentals of Web Application Development,NEW_CSE1 - NEW_CSE1 NEW_CSE1, - ,6G1-1,ODD-JUNIOR,23,AI,UG, - ,77
+597,Thursday,TH1,08:00,09:00,EEE 3F LH 02, - ,19AI414 - Fundamentals of Web Application Development,NEW_CSE1 - NEW_CSE1 NEW_CSE1, - ,6G1-1,ODD-JUNIOR,23,AI,UG, - ,77
+598,Thursday,TH2,09:00,10:00,EEE 3F LH 02, - ,19AI414 - Fundamentals of Web Application Development,NEW_CSE1 - NEW_CSE1 NEW_CSE1, - ,6G1-1,ODD-JUNIOR,23,AI,UG, - ,77
+599,Monday,M1,08:00,09:00,EEE 5F OW AR VR LAB, - ,19AI414 - Fundamentals of Web Application Development,NEW_CSE1 - NEW_CSE1 NEW_CSE1, - ,6E1-1,ODD-JUNIOR,23,AI,UG, - ,77
+600,Monday,M2,09:00,10:00,EEE 5F OW AR VR LAB, - ,19AI414 - Fundamentals of Web Application Development,NEW_CSE1 - NEW_CSE1 NEW_CSE1, - ,6E1-1,ODD-JUNIOR,23,AI,UG, - ,77
+601,Wednesday,W6,13:00,14:00,EEE 3F LH 01, - ,19AI414 - Fundamentals of Web Application Development,NEW_CSE1 - NEW_CSE1 NEW_CSE1, - ,6E1-1,ODD-JUNIOR,23,AI,UG, - ,77
+602,Wednesday,W7,14:00,15:00,EEE 3F LH 01, - ,19AI414 - Fundamentals of Web Application Development,NEW_CSE1 - NEW_CSE1 NEW_CSE1, - ,6E1-1,ODD-JUNIOR,23,AI,UG, - ,77
+603,Friday,F6,13:00,14:00,EEE 3F LH 02, - ,19AI414 - Fundamentals of Web Application Development,NEW_CSE1 - NEW_CSE1 NEW_CSE1, - ,6E1-1,ODD-JUNIOR,23,AI,UG, - ,77
+604,Friday,F7,14:00,15:00,EEE 3F LH 02, - ,19AI414 - Fundamentals of Web Application Development,NEW_CSE1 - NEW_CSE1 NEW_CSE1, - ,6E1-1,ODD-JUNIOR,23,AI,UG, - ,77
+605,Wednesday,W3,10:00,11:00,EEE 3F LH 01, - ,19AI414 - Fundamentals of Web Application Development,TSAI005 - Karthi Govindharaju, - ,6D1-1,ODD-JUNIOR,23,AI,UG, - ,81
+606,Wednesday,W4,11:00,12:00,EEE 3F LH 01, - ,19AI414 - Fundamentals of Web Application Development,TSAI005 - Karthi Govindharaju, - ,6D1-1,ODD-JUNIOR,23,AI,UG, - ,81
+607,Thursday,TH1,08:00,09:00,CSE 3F LH 01, - ,19AI414 - Fundamentals of Web Application Development,TSAI005 - Karthi Govindharaju, - ,6D1-1,ODD-JUNIOR,23,AI,UG, - ,81
+608,Thursday,TH2,09:00,10:00,CSE 3F LH 01, - ,19AI414 - Fundamentals of Web Application Development,TSAI005 - Karthi Govindharaju, - ,6D1-1,ODD-JUNIOR,23,AI,UG, - ,81
+609,Friday,F3,10:00,11:00,EEE 3F LH 01, - ,19AI414 - Fundamentals of Web Application Development,TSAI005 - Karthi Govindharaju, - ,6D1-1,ODD-JUNIOR,23,AI,UG, - ,81
+610,Friday,F4,11:00,12:00,EEE 3F LH 01, - ,19AI414 - Fundamentals of Web Application Development,TSAI005 - Karthi Govindharaju, - ,6D1-1,ODD-JUNIOR,23,AI,UG, - ,81
+611,Monday,M6,13:00,14:00,CSE 3F LH 02, - ,19AI414 - Fundamentals of Web Application Development,TSAI013 - Gowri Ganesh N S, - ,6C1-1,ODD-JUNIOR,23,AI,UG, - ,79
+612,Monday,M7,14:00,15:00,CSE 3F LH 02, - ,19AI414 - Fundamentals of Web Application Development,TSAI013 - Gowri Ganesh N S, - ,6C1-1,ODD-JUNIOR,23,AI,UG, - ,79
+613,Tuesday,T3,10:00,11:00,EEE 3F LH 02, - ,19AI414 - Fundamentals of Web Application Development,TSAI013 - Gowri Ganesh N S, - ,6C1-1,ODD-JUNIOR,23,AI,UG, - ,79
+614,Tuesday,T4,11:00,12:00,EEE 3F LH 02, - ,19AI414 - Fundamentals of Web Application Development,TSAI013 - Gowri Ganesh N S, - ,6C1-1,ODD-JUNIOR,23,AI,UG, - ,79
+615,Wednesday,W8,15:00,16:00,EEE 3F LH 01, - ,19AI414 - Fundamentals of Web Application Development,TSAI013 - Gowri Ganesh N S, - ,6C1-1,ODD-JUNIOR,23,AI,UG, - ,79
+616,Wednesday,W9,16:00,17:00,EEE 3F LH 01, - ,19AI414 - Fundamentals of Web Application Development,TSAI013 - Gowri Ganesh N S, - ,6C1-1,ODD-JUNIOR,23,AI,UG, - ,79
+617,Wednesday,W1,08:00,09:00,CSE 3F LH 01, - ,19AI414 - Fundamentals of Web Application Development,TSML005 - Selvakumar R, - ,6B1-1,ODD-JUNIOR,23,AI,UG, - ,82
+618,Wednesday,W2,09:00,10:00,CSE 3F LH 01, - ,19AI414 - Fundamentals of Web Application Development,TSML005 - Selvakumar R, - ,6B1-1,ODD-JUNIOR,23,AI,UG, - ,82
+619,Thursday,TH3,10:00,11:00,CSE 3F LH 01, - ,19AI414 - Fundamentals of Web Application Development,TSML005 - Selvakumar R, - ,6B1-1,ODD-JUNIOR,23,AI,UG, - ,82
+620,Thursday,TH4,11:00,12:00,CSE 3F LH 01, - ,19AI414 - Fundamentals of Web Application Development,TSML005 - Selvakumar R, - ,6B1-1,ODD-JUNIOR,23,AI,UG, - ,82
+621,Friday,F6,13:00,14:00,EEE 3F LH 01, - ,19AI414 - Fundamentals of Web Application Development,TSML005 - Selvakumar R, - ,6B1-1,ODD-JUNIOR,23,AI,UG, - ,82
+622,Friday,F7,14:00,15:00,EEE 3F LH 01, - ,19AI414 - Fundamentals of Web Application Development,TSML005 - Selvakumar R, - ,6B1-1,ODD-JUNIOR,23,AI,UG, - ,82
+623,Thursday,TH1,08:00,09:00,CSE 3F LH 02, - ,19AI302 - Engineering Design and Modelling,TSME030 - Sellakumar S, - ,4W1-1,ODD-JUNIOR,23,AI,UG, - ,58
+624,Thursday,TH2,09:00,10:00,CSE 3F LH 02, - ,19AI302 - Engineering Design and Modelling,TSME030 - Sellakumar S, - ,4W1-1,ODD-JUNIOR,23,AI,UG, - ,58
+625,Friday,F1,08:00,09:00,CSE 3F LH 01, - ,19AI302 - Engineering Design and Modelling,TSME030 - Sellakumar S, - ,4W1-1,ODD-JUNIOR,23,AI,UG, - ,58
+626,Friday,F2,09:00,10:00,CSE 3F LH 01, - ,19AI302 - Engineering Design and Modelling,TSME030 - Sellakumar S, - ,4W1-1,ODD-JUNIOR,23,AI,UG, - ,58
+627,Wednesday,W3,10:00,11:00,EEE 3F LH 02, - ,19AI414 - Fundamentals of Web Application Development,NEW_CSE1 - NEW_CSE1 NEW_CSE1, - ,6F1-1,ODD-JUNIOR,23,AI,UG, - ,81
+628,Wednesday,W4,11:00,12:00,EEE 3F LH 02, - ,19AI414 - Fundamentals of Web Application Development,NEW_CSE1 - NEW_CSE1 NEW_CSE1, - ,6F1-1,ODD-JUNIOR,23,AI,UG, - ,81
+629,Thursday,TH8,15:00,16:00,EEE 3F LH 01, - ,19AI414 - Fundamentals of Web Application Development,NEW_CSE1 - NEW_CSE1 NEW_CSE1, - ,6F1-1,ODD-JUNIOR,23,AI,UG, - ,81
+630,Thursday,TH9,16:00,17:00,EEE 3F LH 01, - ,19AI414 - Fundamentals of Web Application Development,NEW_CSE1 - NEW_CSE1 NEW_CSE1, - ,6F1-1,ODD-JUNIOR,23,AI,UG, - ,81
+631,Friday,F1,08:00,09:00,CSE 3F LH 02, - ,19AI414 - Fundamentals of Web Application Development,NEW_CSE1 - NEW_CSE1 NEW_CSE1, - ,6F1-1,ODD-JUNIOR,23,AI,UG, - ,81
+632,Friday,F2,09:00,10:00,CSE 3F LH 02, - ,19AI414 - Fundamentals of Web Application Development,NEW_CSE1 - NEW_CSE1 NEW_CSE1, - ,6F1-1,ODD-JUNIOR,23,AI,UG, - ,81
+633,Monday,M6,13:00,14:00,EEE 5F LH 02, - ,19AI302 - Engineering Design and Modelling,TSME055 - RADHIKA C, - ,4V1-1,ODD-JUNIOR,23,AI,UG, - ,60
+634,Monday,M7,14:00,15:00,EEE 5F LH 02, - ,19AI302 - Engineering Design and Modelling,TSME055 - RADHIKA C, - ,4V1-1,ODD-JUNIOR,23,AI,UG, - ,60
+635,Friday,F3,10:00,11:00,EEE 3F LH 02, - ,19AI302 - Engineering Design and Modelling,TSME055 - RADHIKA C, - ,4V1-1,ODD-JUNIOR,23,AI,UG, - ,60
+636,Friday,F4,11:00,12:00,EEE 3F LH 02, - ,19AI302 - Engineering Design and Modelling,TSME055 - RADHIKA C, - ,4V1-1,ODD-JUNIOR,23,AI,UG, - ,60
+637,Monday,M1,08:00,09:00,EEE 5F OW ML LAB, - ,19AI302 - Engineering Design and Modelling,TSME055 - RADHIKA C, - ,4U1-1,ODD-JUNIOR,23,AI,UG, - ,60
+638,Monday,M2,09:00,10:00,EEE 5F OW ML LAB, - ,19AI302 - Engineering Design and Modelling,TSME055 - RADHIKA C, - ,4U1-1,ODD-JUNIOR,23,AI,UG, - ,60
+639,Wednesday,W3,10:00,11:00,CSE 3F LH 01, - ,19AI302 - Engineering Design and Modelling,TSME055 - RADHIKA C, - ,4U1-1,ODD-JUNIOR,23,AI,UG, - ,60
+640,Wednesday,W4,11:00,12:00,CSE 3F LH 01, - ,19AI302 - Engineering Design and Modelling,TSME055 - RADHIKA C, - ,4U1-1,ODD-JUNIOR,23,AI,UG, - ,60
+641,Tuesday,T6,13:00,14:00,EEE 3F LH 02, - ,19AI302 - Engineering Design and Modelling,TSME014 - MUTHUKUMAR V, - ,4T1-1,ODD-JUNIOR,23,AI,UG, - ,62
+642,Tuesday,T7,14:00,15:00,EEE 3F LH 02, - ,19AI302 - Engineering Design and Modelling,TSME014 - MUTHUKUMAR V, - ,4T1-1,ODD-JUNIOR,23,AI,UG, - ,62
+643,Thursday,TH1,08:00,09:00,EEE 5F OW AR VR LAB, - ,19AI302 - Engineering Design and Modelling,TSME014 - MUTHUKUMAR V, - ,4T1-1,ODD-JUNIOR,23,AI,UG, - ,62
+644,Thursday,TH2,09:00,10:00,EEE 5F OW AR VR LAB, - ,19AI302 - Engineering Design and Modelling,TSME014 - MUTHUKUMAR V, - ,4T1-1,ODD-JUNIOR,23,AI,UG, - ,62
+645,Wednesday,W6,13:00,14:00,EEE 3F LH 02, - ,19EE404 - Digital Electronics,TSEC259 - Sathish Babu S, - ,4S1-2,ODD-JUNIOR,23,EEE,UG, - ,57
+646,Wednesday,W7,14:00,15:00,EEE 3F LH 02, - ,19EE404 - Digital Electronics,TSEC259 - Sathish Babu S, - ,4S1-2,ODD-JUNIOR,23,EEE,UG, - ,57
+647,Friday,F1,08:00,09:00,CSE 2F LH 01, - ,19EE404 - Digital Electronics,TSEC259 - Sathish Babu S, - ,4S1-2,ODD-JUNIOR,23,EEE,UG, - ,57
+648,Friday,F2,09:00,10:00,CSE 2F LH 01, - ,19EE404 - Digital Electronics,TSEC259 - Sathish Babu S, - ,4S1-2,ODD-JUNIOR,23,EEE,UG, - ,57
+649,Thursday,TH1,08:00,09:00,CSE 4F OW LH 04, - ,19EE404 - Digital Electronics,TSEC259 - Sathish Babu S, - ,4R1-2,ODD-JUNIOR,23,EEE,UG, - ,25
+650,Thursday,TH2,09:00,10:00,CSE 4F OW LH 04, - ,19EE404 - Digital Electronics,TSEC259 - Sathish Babu S, - ,4R1-2,ODD-JUNIOR,23,EEE,UG, - ,25
+651,Friday,F6,13:00,14:00,CSE 2F LH 02, - ,19EE404 - Digital Electronics,TSEC259 - Sathish Babu S, - ,4R1-2,ODD-JUNIOR,23,EEE,UG, - ,25
+652,Friday,F7,14:00,15:00,CSE 2F LH 02, - ,19EE404 - Digital Electronics,TSEC259 - Sathish Babu S, - ,4R1-2,ODD-JUNIOR,23,EEE,UG, - ,25
+653,Thursday,TH1,08:00,09:00,ADMIN 4F OW LH 03, - ,19EE404 - Digital Electronics,TSEE008 - AnishKumar J, - ,4R1-1,ODD-JUNIOR,23,EEE,UG, - ,28
+654,Thursday,TH2,09:00,10:00,ADMIN 4F OW LH 03, - ,19EE404 - Digital Electronics,TSEE008 - AnishKumar J, - ,4R1-1,ODD-JUNIOR,23,EEE,UG, - ,28
+655,Friday,F6,13:00,14:00,ADMIN 5F OW MICROCONTROLLER LAB, - ,19EE404 - Digital Electronics,TSEE008 - AnishKumar J, - ,4R1-1,ODD-JUNIOR,23,EEE,UG, - ,28
+656,Friday,F7,14:00,15:00,ADMIN 5F OW MICROCONTROLLER LAB, - ,19EE404 - Digital Electronics,TSEE008 - AnishKumar J, - ,4R1-1,ODD-JUNIOR,23,EEE,UG, - ,28
+657,Tuesday,T1,08:00,09:00,EEE 3F LH 02, - ,19EE404 - Digital Electronics,TSEC259 - Sathish Babu S, - ,4A1-2,ODD-JUNIOR,23,EEE,UG, - ,61
+658,Tuesday,T2,09:00,10:00,EEE 3F LH 02, - ,19EE404 - Digital Electronics,TSEC259 - Sathish Babu S, - ,4A1-2,ODD-JUNIOR,23,EEE,UG, - ,61
+659,Wednesday,W1,08:00,09:00,CSE 3F LH 02, - ,19EE404 - Digital Electronics,TSEC259 - Sathish Babu S, - ,4A1-2,ODD-JUNIOR,23,EEE,UG, - ,61
+660,Wednesday,W2,09:00,10:00,CSE 3F LH 02, - ,19EE404 - Digital Electronics,TSEC259 - Sathish Babu S, - ,4A1-2,ODD-JUNIOR,23,EEE,UG, - ,61
+661,Tuesday,T1,08:00,09:00,EEE 3F LH 01, - ,19EE404 - Digital Electronics,TSEE008 - AnishKumar J, - ,4A1-1,ODD-JUNIOR,23,EEE,UG, - ,61
+662,Tuesday,T2,09:00,10:00,EEE 3F LH 01, - ,19EE404 - Digital Electronics,TSEE008 - AnishKumar J, - ,4A1-1,ODD-JUNIOR,23,EEE,UG, - ,61
+663,Wednesday,W1,08:00,09:00,ADMIN 4F LH 01, - ,19EE404 - Digital Electronics,TSEE008 - AnishKumar J, - ,4A1-1,ODD-JUNIOR,23,EEE,UG, - ,61
+664,Wednesday,W2,09:00,10:00,ADMIN 4F LH 01, - ,19EE404 - Digital Electronics,TSEE008 - AnishKumar J, - ,4A1-1,ODD-JUNIOR,23,EEE,UG, - ,61
+665,Wednesday,W6,13:00,14:00,CSE 3F LH 01, - ,19EE404 - Digital Electronics,TSEE008 - AnishKumar J, - ,4S1-1,ODD-JUNIOR,23,EEE,UG, - ,61
+666,Wednesday,W7,14:00,15:00,CSE 3F LH 01, - ,19EE404 - Digital Electronics,TSEE008 - AnishKumar J, - ,4S1-1,ODD-JUNIOR,23,EEE,UG, - ,61
+667,Friday,F1,08:00,09:00,ECE 5F OW LH 06, - ,19EE404 - Digital Electronics,TSEE008 - AnishKumar J, - ,4S1-1,ODD-JUNIOR,23,EEE,UG, - ,61
+668,Friday,F2,09:00,10:00,ECE 5F OW LH 06, - ,19EE404 - Digital Electronics,TSEE008 - AnishKumar J, - ,4S1-1,ODD-JUNIOR,23,EEE,UG, - ,61
+669,Monday,M8,15:00,16:00,ADMIN 5F OW MICROCONTROLLER LAB, - ,19EE404 - Digital Electronics,TSEE052 - Sripriya Ranganathan, - ,4Q1-2,ODD-JUNIOR,23,EEE,UG, - ,60
+670,Monday,M9,16:00,17:00,ADMIN 5F OW MICROCONTROLLER LAB, - ,19EE404 - Digital Electronics,TSEE052 - Sripriya Ranganathan, - ,4Q1-2,ODD-JUNIOR,23,EEE,UG, - ,60
+671,Friday,F8,15:00,16:00,CSE 3F LH 02, - ,19EE404 - Digital Electronics,TSEE052 - Sripriya Ranganathan, - ,4Q1-2,ODD-JUNIOR,23,EEE,UG, - ,60
+672,Friday,F9,16:00,17:00,CSE 3F LH 02, - ,19EE404 - Digital Electronics,TSEE052 - Sripriya Ranganathan, - ,4Q1-2,ODD-JUNIOR,23,EEE,UG, - ,60
+673,Monday,M8,15:00,16:00,CSE 3F LH 01, - ,19EE404 - Digital Electronics,TSEE002 - Monica P Suresh, - ,4Q1-1,ODD-JUNIOR,23,EEE,UG, - ,60
+674,Monday,M9,16:00,17:00,CSE 3F LH 01, - ,19EE404 - Digital Electronics,TSEE002 - Monica P Suresh, - ,4Q1-1,ODD-JUNIOR,23,EEE,UG, - ,60
+675,Friday,F8,15:00,16:00,CSE 3F LH 01, - ,19EE404 - Digital Electronics,TSEE002 - Monica P Suresh, - ,4Q1-1,ODD-JUNIOR,23,EEE,UG, - ,60
+676,Friday,F9,16:00,17:00,CSE 3F LH 01, - ,19EE404 - Digital Electronics,TSEE002 - Monica P Suresh, - ,4Q1-1,ODD-JUNIOR,23,EEE,UG, - ,60
+677,Tuesday,T8,15:00,16:00,EEE 4F LH 01, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE017 - Kavitha S, - ,4P1-2,ODD-JUNIOR,23,EEE,UG, - ,17
+678,Tuesday,T9,16:00,17:00,EEE 4F LH 01, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE017 - Kavitha S, - ,4P1-2,ODD-JUNIOR,23,EEE,UG, - ,17
+679,Friday,F8,15:00,16:00,EEE 2F LH 02, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE017 - Kavitha S, - ,4P1-2,ODD-JUNIOR,23,EEE,UG, - ,17
+680,Friday,F9,16:00,17:00,EEE 2F LH 02, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE017 - Kavitha S, - ,4P1-2,ODD-JUNIOR,23,EEE,UG, - ,17
+681,Monday,M6,13:00,14:00,ECE 4F LH 02, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE017 - Kavitha S, - ,4F1-1,ODD-JUNIOR,23,EEE,UG, - ,39
+682,Monday,M7,14:00,15:00,ECE 4F LH 02, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE017 - Kavitha S, - ,4F1-1,ODD-JUNIOR,23,EEE,UG, - ,39
+683,Wednesday,W6,13:00,14:00,ADMIN 4F OW LH 04, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE017 - Kavitha S, - ,4F1-1,ODD-JUNIOR,23,EEE,UG, - ,39
+684,Wednesday,W7,14:00,15:00,ADMIN 4F OW LH 04, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE017 - Kavitha S, - ,4F1-1,ODD-JUNIOR,23,EEE,UG, - ,39
+685,Monday,M3,10:00,11:00,CSE 3F LH 02, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE041 - F. MAX SAVIO ., - ,4O1-2,ODD-JUNIOR,23,EEE,UG, - ,55
+686,Monday,M4,11:00,12:00,CSE 3F LH 02, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE041 - F. MAX SAVIO ., - ,4O1-2,ODD-JUNIOR,23,EEE,UG, - ,55
+687,Tuesday,T1,08:00,09:00,ADMIN 5F OW LH 06, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE041 - F. MAX SAVIO ., - ,4O1-2,ODD-JUNIOR,23,EEE,UG, - ,55
+688,Tuesday,T2,09:00,10:00,ADMIN 5F OW LH 06, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE041 - F. MAX SAVIO ., - ,4O1-2,ODD-JUNIOR,23,EEE,UG, - ,55
+689,Monday,M3,10:00,11:00,CSE 2F LH 02, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE027 - SURESH T.D, - ,4O1-1,ODD-JUNIOR,23,EEE,UG, - ,21
+690,Monday,M4,11:00,12:00,CSE 2F LH 02, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE027 - SURESH T.D, - ,4O1-1,ODD-JUNIOR,23,EEE,UG, - ,21
+691,Tuesday,T1,08:00,09:00,EEE 3F OW LH 01, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE027 - SURESH T.D, - ,4O1-1,ODD-JUNIOR,23,EEE,UG, - ,21
+692,Tuesday,T2,09:00,10:00,EEE 3F OW LH 01, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE027 - SURESH T.D, - ,4O1-1,ODD-JUNIOR,23,EEE,UG, - ,21
+693,Tuesday,T6,13:00,14:00,EEE 2F LH 01, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE045 - Kanchana K, - ,4N1-1,ODD-JUNIOR,23,EEE,UG, - ,49
+694,Tuesday,T7,14:00,15:00,EEE 2F LH 01, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE045 - Kanchana K, - ,4N1-1,ODD-JUNIOR,23,EEE,UG, - ,49
+695,Thursday,TH3,10:00,11:00,EEE 1F LH 01, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE045 - Kanchana K, - ,4N1-1,ODD-JUNIOR,23,EEE,UG, - ,49
+696,Thursday,TH4,11:00,12:00,EEE 1F LH 01, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE045 - Kanchana K, - ,4N1-1,ODD-JUNIOR,23,EEE,UG, - ,49
+697,Tuesday,T8,15:00,16:00,EEE 2F LH 01, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE043 - JOHN DE BRITTO C, - ,4P1-1,ODD-JUNIOR,23,EEE,UG, - ,13
+698,Tuesday,T9,16:00,17:00,EEE 2F LH 01, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE043 - JOHN DE BRITTO C, - ,4P1-1,ODD-JUNIOR,23,EEE,UG, - ,13
+699,Friday,F8,15:00,16:00,ADMIN 4F LH 01, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE043 - JOHN DE BRITTO C, - ,4P1-1,ODD-JUNIOR,23,EEE,UG, - ,13
+700,Friday,F9,16:00,17:00,ADMIN 4F LH 01, - ,"19EE305 - Basic Electrical, Electronics and Measurement Engineering",TSEE043 - JOHN DE BRITTO C, - ,4P1-1,ODD-JUNIOR,23,EEE,UG, - ,13
+701,Tuesday,T3,10:00,11:00,CSE 3F LH 02, - ,19AI301C - Python and Linear Algebra,TSCS186 - Bhuvaneswari  G, - ,8C1-1,ODD-JUNIOR,23,AI,UG, - ,82
+702,Tuesday,T4,11:00,12:00,CSE 3F LH 02, - ,19AI301C - Python and Linear Algebra,TSCS186 - Bhuvaneswari  G, - ,8C1-1,ODD-JUNIOR,23,AI,UG, - ,82
+703,Wednesday,W1,08:00,09:00,EEE 3F LH 01, - ,19AI301C - Python and Linear Algebra,TSCS186 - Bhuvaneswari  G, - ,8C1-1,ODD-JUNIOR,23,AI,UG, - ,82
+704,Wednesday,W2,09:00,10:00,EEE 3F LH 01, - ,19AI301C - Python and Linear Algebra,TSCS186 - Bhuvaneswari  G, - ,8C1-1,ODD-JUNIOR,23,AI,UG, - ,82
+705,Thursday,TH3,10:00,11:00,EEE 3F LH 02, - ,19AI301C - Python and Linear Algebra,TSCS186 - Bhuvaneswari  G, - ,8C1-1,ODD-JUNIOR,23,AI,UG, - ,82
+706,Thursday,TH4,11:00,12:00,EEE 3F LH 02, - ,19AI301C - Python and Linear Algebra,TSCS186 - Bhuvaneswari  G, - ,8C1-1,ODD-JUNIOR,23,AI,UG, - ,82
+707,Friday,F1,08:00,09:00,EEE 3F LH 01, - ,19AI301C - Python and Linear Algebra,TSCS186 - Bhuvaneswari  G, - ,8C1-1,ODD-JUNIOR,23,AI,UG, - ,82
+708,Friday,F2,09:00,10:00,EEE 3F LH 01, - ,19AI301C - Python and Linear Algebra,TSCS186 - Bhuvaneswari  G, - ,8C1-1,ODD-JUNIOR,23,AI,UG, - ,82
+709,Tuesday,T6,13:00,14:00,CSE 3F LH 01, - ,19AI301C - Python and Linear Algebra,TSCS111 - Archana S H, - ,8B1-1,ODD-JUNIOR,23,AI,UG, - ,79
+710,Tuesday,T7,14:00,15:00,CSE 3F LH 01, - ,19AI301C - Python and Linear Algebra,TSCS111 - Archana S H, - ,8B1-1,ODD-JUNIOR,23,AI,UG, - ,79
+711,Wednesday,W1,08:00,09:00,EEE 3F LH 02, - ,19AI301C - Python and Linear Algebra,TSCS111 - Archana S H, - ,8B1-1,ODD-JUNIOR,23,AI,UG, - ,79
+712,Wednesday,W2,09:00,10:00,EEE 3F LH 02, - ,19AI301C - Python and Linear Algebra,TSCS111 - Archana S H, - ,8B1-1,ODD-JUNIOR,23,AI,UG, - ,79
+713,Thursday,TH8,15:00,16:00,EEE 3F LH 02, - ,19AI301C - Python and Linear Algebra,TSCS111 - Archana S H, - ,8B1-1,ODD-JUNIOR,23,AI,UG, - ,79
+714,Thursday,TH9,16:00,17:00,EEE 3F LH 02, - ,19AI301C - Python and Linear Algebra,TSCS111 - Archana S H, - ,8B1-1,ODD-JUNIOR,23,AI,UG, - ,79
+715,Friday,F6,13:00,14:00,CSE 3F LH 01, - ,19AI301C - Python and Linear Algebra,TSCS111 - Archana S H, - ,8B1-1,ODD-JUNIOR,23,AI,UG, - ,79
+716,Friday,F7,14:00,15:00,CSE 3F LH 01, - ,19AI301C - Python and Linear Algebra,TSCS111 - Archana S H, - ,8B1-1,ODD-JUNIOR,23,AI,UG, - ,79
+717,Tuesday,T3,10:00,11:00,CSE 3F LH 01, - ,19AI301C - Python and Linear Algebra,TSEE013 - Ulagammai M, - ,8A1-1,ODD-JUNIOR,23,AI,UG, - ,81
+718,Tuesday,T4,11:00,12:00,CSE 3F LH 01, - ,19AI301C - Python and Linear Algebra,TSEE013 - Ulagammai M, - ,8A1-1,ODD-JUNIOR,23,AI,UG, - ,81
+719,Wednesday,W8,15:00,16:00,EEE 3F LH 02, - ,19AI301C - Python and Linear Algebra,TSEE013 - Ulagammai M, - ,8A1-1,ODD-JUNIOR,23,AI,UG, - ,81
+720,Wednesday,W9,16:00,17:00,EEE 3F LH 02, - ,19AI301C - Python and Linear Algebra,TSEE013 - Ulagammai M, - ,8A1-1,ODD-JUNIOR,23,AI,UG, - ,81
+721,Thursday,TH8,15:00,16:00,CSE 3F LH 02, - ,19AI301C - Python and Linear Algebra,TSEE013 - Ulagammai M, - ,8A1-1,ODD-JUNIOR,23,AI,UG, - ,81
+722,Thursday,TH9,16:00,17:00,CSE 3F LH 02, - ,19AI301C - Python and Linear Algebra,TSEE013 - Ulagammai M, - ,8A1-1,ODD-JUNIOR,23,AI,UG, - ,81
+723,Friday,F1,08:00,09:00,EEE 3F LH 02, - ,19AI301C - Python and Linear Algebra,TSEE013 - Ulagammai M, - ,8A1-1,ODD-JUNIOR,23,AI,UG, - ,81
+724,Friday,F2,09:00,10:00,EEE 3F LH 02, - ,19AI301C - Python and Linear Algebra,TSEE013 - Ulagammai M, - ,8A1-1,ODD-JUNIOR,23,AI,UG, - ,81
+725,Monday,M3,10:00,11:00,EEE 2F LH 02, - ,19EN101 - Communicative English,TSSH231 - IMMANUEL G, - ,4M1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,59
+726,Monday,M4,11:00,12:00,EEE 2F LH 02, - ,19EN101 - Communicative English,TSSH231 - IMMANUEL G, - ,4M1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,59
+727,Thursday,TH6,13:00,14:00,RB 2F LH 01, - ,19EN101 - Communicative English,TSSH231 - IMMANUEL G, - ,4M1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,59
+728,Thursday,TH7,14:00,15:00,RB 2F LH 01, - ,19EN101 - Communicative English,TSSH231 - IMMANUEL G, - ,4M1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,59
+729,Monday,M3,10:00,11:00,EEE 4F LH 01, - ,19EN101 - Communicative English,TSSH219 - KIRAN KUMAR J, - ,4M1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,59
+730,Monday,M4,11:00,12:00,EEE 4F LH 01, - ,19EN101 - Communicative English,TSSH219 - KIRAN KUMAR J, - ,4M1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,59
+731,Thursday,TH6,13:00,14:00,RB 1F LH 06, - ,19EN101 - Communicative English,TSSH219 - KIRAN KUMAR J, - ,4M1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,59
+732,Thursday,TH7,14:00,15:00,RB 1F LH 06, - ,19EN101 - Communicative English,TSSH219 - KIRAN KUMAR J, - ,4M1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,59
+733,Tuesday,T6,13:00,14:00,RB 3F LH 12, - ,19EN101 - Communicative English,TSSH027 - Hemalatha V, - ,4L1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,54
+734,Tuesday,T7,14:00,15:00,RB 3F LH 12, - ,19EN101 - Communicative English,TSSH027 - Hemalatha V, - ,4L1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,54
+735,Thursday,TH6,13:00,14:00,RB 1F LH 01, - ,19EN101 - Communicative English,TSSH027 - Hemalatha V, - ,4L1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,54
+736,Thursday,TH7,14:00,15:00,RB 1F LH 01, - ,19EN101 - Communicative English,TSSH027 - Hemalatha V, - ,4L1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,54
+737,Tuesday,T1,08:00,09:00,RB 3F LH 01, - ,19EN101 - Communicative English,TSSH208 - subhashini R, - ,4K1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,55
+738,Tuesday,T2,09:00,10:00,RB 3F LH 01, - ,19EN101 - Communicative English,TSSH208 - subhashini R, - ,4K1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,55
+739,Friday,F8,15:00,16:00,RB 3F LH 16, - ,19EN101 - Communicative English,TSSH208 - subhashini R, - ,4K1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,55
+740,Friday,F9,16:00,17:00,RB 3F LH 16, - ,19EN101 - Communicative English,TSSH208 - subhashini R, - ,4K1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,55
+741,Tuesday,T1,08:00,09:00,RB 3F LH 16, - ,19EN101 - Communicative English,TSSH027 - Hemalatha V, - ,4K1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,55
+742,Tuesday,T2,09:00,10:00,RB 3F LH 16, - ,19EN101 - Communicative English,TSSH027 - Hemalatha V, - ,4K1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,55
+743,Friday,F8,15:00,16:00,RB 2F LH 05, - ,19EN101 - Communicative English,TSSH027 - Hemalatha V, - ,4K1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,55
+744,Friday,F9,16:00,17:00,RB 2F LH 05, - ,19EN101 - Communicative English,TSSH027 - Hemalatha V, - ,4K1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,55
+745,Monday,M6,13:00,14:00,RB 3F LH 03, - ,19EN101 - Communicative English,TSSH044 - Pariventhan K, - ,4J1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,53
+746,Monday,M7,14:00,15:00,RB 3F LH 03, - ,19EN101 - Communicative English,TSSH044 - Pariventhan K, - ,4J1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,53
+747,Friday,F1,08:00,09:00,RB 2F LH 04, - ,19EN101 - Communicative English,TSSH044 - Pariventhan K, - ,4J1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,53
+748,Friday,F2,09:00,10:00,RB 2F LH 04, - ,19EN101 - Communicative English,TSSH044 - Pariventhan K, - ,4J1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,53
+749,Tuesday,T6,13:00,14:00,RB 3F LH 13, - ,19EN101 - Communicative English,TSSH208 - subhashini R, - ,4L1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,53
+750,Tuesday,T7,14:00,15:00,RB 3F LH 13, - ,19EN101 - Communicative English,TSSH208 - subhashini R, - ,4L1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,53
+751,Thursday,TH6,13:00,14:00,RB 3F LH 16, - ,19EN101 - Communicative English,TSSH208 - subhashini R, - ,4L1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,53
+752,Thursday,TH7,14:00,15:00,RB 3F LH 16, - ,19EN101 - Communicative English,TSSH208 - subhashini R, - ,4L1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,53
+753,Monday,M6,13:00,14:00,RB 2F LH 01, - ,19EN101 - Communicative English,TSSH025 - Sunitha Deva Kumari D, - ,4J1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,52
+754,Monday,M7,14:00,15:00,RB 2F LH 01, - ,19EN101 - Communicative English,TSSH025 - Sunitha Deva Kumari D, - ,4J1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,52
+755,Friday,F1,08:00,09:00,ADMIN 5F OW LH 06, - ,19EN101 - Communicative English,TSSH025 - Sunitha Deva Kumari D, - ,4J1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,52
+756,Friday,F2,09:00,10:00,ADMIN 5F OW LH 06, - ,19EN101 - Communicative English,TSSH025 - Sunitha Deva Kumari D, - ,4J1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,52
+757,Monday,M1,08:00,09:00,RB 2F LH 03, - ,19EN101 - Communicative English,TSSH044 - Pariventhan K, - ,4I1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,56
+758,Monday,M2,09:00,10:00,RB 2F LH 03, - ,19EN101 - Communicative English,TSSH044 - Pariventhan K, - ,4I1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,56
+759,Tuesday,T1,08:00,09:00,ECE 4F LH 01, - ,19EN101 - Communicative English,TSSH044 - Pariventhan K, - ,4I1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,56
+760,Tuesday,T2,09:00,10:00,ECE 4F LH 01, - ,19EN101 - Communicative English,TSSH044 - Pariventhan K, - ,4I1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,56
+761,Monday,M1,08:00,09:00,RB 3F LH 13, - ,19EN101 - Communicative English,TSSH025 - Sunitha Deva Kumari D, - ,4I1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,52
+762,Monday,M2,09:00,10:00,RB 3F LH 13, - ,19EN101 - Communicative English,TSSH025 - Sunitha Deva Kumari D, - ,4I1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,52
+763,Tuesday,T1,08:00,09:00,ECE 4F LH 02, - ,19EN101 - Communicative English,TSSH025 - Sunitha Deva Kumari D, - ,4I1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,52
+764,Tuesday,T2,09:00,10:00,ECE 4F LH 02, - ,19EN101 - Communicative English,TSSH025 - Sunitha Deva Kumari D, - ,4I1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,52
+765,Tuesday,T1,08:00,09:00,EEE 4F OW LH 01, - ,19EN101 - Communicative English,TSSH206 - Freeda rajakumari R, - ,4H1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,49
+766,Tuesday,T2,09:00,10:00,EEE 4F OW LH 01, - ,19EN101 - Communicative English,TSSH206 - Freeda rajakumari R, - ,4H1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,49
+767,Thursday,TH6,13:00,14:00,ADMIN 4F LH 01, - ,19EN101 - Communicative English,TSSH206 - Freeda rajakumari R, - ,4H1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,49
+768,Thursday,TH7,14:00,15:00,ADMIN 4F LH 01, - ,19EN101 - Communicative English,TSSH206 - Freeda rajakumari R, - ,4H1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,49
+769,Tuesday,T1,08:00,09:00,RB 1F LH 02, - ,19EN101 - Communicative English,TSSH158 - ARUNA DEVI K, - ,4H1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,50
+770,Tuesday,T2,09:00,10:00,RB 1F LH 02, - ,19EN101 - Communicative English,TSSH158 - ARUNA DEVI K, - ,4H1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,50
+771,Thursday,TH6,13:00,14:00,ECE 2F LH 02, - ,19EN101 - Communicative English,TSSH158 - ARUNA DEVI K, - ,4H1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,50
+772,Thursday,TH7,14:00,15:00,ECE 2F LH 02, - ,19EN101 - Communicative English,TSSH158 - ARUNA DEVI K, - ,4H1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,50
+773,Thursday,TH3,10:00,11:00,RB 3F LH 04, - ,19EN101 - Communicative English,TSSH206 - Freeda rajakumari R, - ,4G1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,53
+774,Thursday,TH4,11:00,12:00,RB 3F LH 04, - ,19EN101 - Communicative English,TSSH206 - Freeda rajakumari R, - ,4G1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,53
+775,Friday,F3,10:00,11:00,RB 3F LH 13, - ,19EN101 - Communicative English,TSSH206 - Freeda rajakumari R, - ,4G1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,53
+776,Friday,F4,11:00,12:00,RB 3F LH 13, - ,19EN101 - Communicative English,TSSH206 - Freeda rajakumari R, - ,4G1-2,ODD-JUNIOR,23,ENGLISH,UG, - ,53
+777,Thursday,TH3,10:00,11:00,RB 2F LH 07, - ,19EN101 - Communicative English,TSSH158 - ARUNA DEVI K, - ,4G1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,51
+778,Thursday,TH4,11:00,12:00,RB 2F LH 07, - ,19EN101 - Communicative English,TSSH158 - ARUNA DEVI K, - ,4G1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,51
+779,Friday,F3,10:00,11:00,RB 3F LH 15, - ,19EN101 - Communicative English,TSSH158 - ARUNA DEVI K, - ,4G1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,51
+780,Friday,F4,11:00,12:00,RB 3F LH 15, - ,19EN101 - Communicative English,TSSH158 - ARUNA DEVI K, - ,4G1-1,ODD-JUNIOR,23,ENGLISH,UG, - ,51
+781,Tuesday,T3,10:00,11:00,CSE 3F OW LH 04, - ,19EY701 - Soft Skills,NEW_TRG3 - NEW_TRG3 ., - ,2K1-2,ODD-JUNIOR,25,TRAINING,UG, - ,51
+782,Tuesday,T4,11:00,12:00,CSE 3F OW LH 04, - ,19EY701 - Soft Skills,NEW_TRG3 - NEW_TRG3 ., - ,2K1-2,ODD-JUNIOR,25,TRAINING,UG, - ,51
+783,Tuesday,T3,10:00,11:00,RB 1F LH 07, - ,19EY701 - Soft Skills,NEW_TRG1 - NEW_TRG1 NEW_TRG1, - ,2K1-1,ODD-JUNIOR,25,TRAINING,UG, - ,47
+784,Tuesday,T4,11:00,12:00,RB 1F LH 07, - ,19EY701 - Soft Skills,NEW_TRG1 - NEW_TRG1 NEW_TRG1, - ,2K1-1,ODD-JUNIOR,25,TRAINING,UG, - ,47
+785,Thursday,TH6,13:00,14:00,EEE 4F OW LH 01, - ,19EY701 - Soft Skills,NEW_TRG3 - NEW_TRG3 ., - ,2J1-2,ODD-JUNIOR,25,TRAINING,UG, - ,46
+786,Thursday,TH7,14:00,15:00,EEE 4F OW LH 01, - ,19EY701 - Soft Skills,NEW_TRG3 - NEW_TRG3 ., - ,2J1-2,ODD-JUNIOR,25,TRAINING,UG, - ,46
+787,Thursday,TH6,13:00,14:00,RB 1F LH 02, - ,19EY701 - Soft Skills,NEW_TRG1 - NEW_TRG1 NEW_TRG1, - ,2J1-1,ODD-JUNIOR,25,TRAINING,UG, - ,46
+788,Thursday,TH7,14:00,15:00,RB 1F LH 02, - ,19EY701 - Soft Skills,NEW_TRG1 - NEW_TRG1 NEW_TRG1, - ,2J1-1,ODD-JUNIOR,25,TRAINING,UG, - ,46
+789,Tuesday,T8,15:00,16:00,CSE 4F OW LH 04, - ,19EY701 - Soft Skills,NEW_TRG3 - NEW_TRG3 ., - ,2D1-4,ODD-JUNIOR,25,TRAINING,UG, - ,46
+790,Tuesday,T9,16:00,17:00,CSE 4F OW LH 04, - ,19EY701 - Soft Skills,NEW_TRG3 - NEW_TRG3 ., - ,2D1-4,ODD-JUNIOR,25,TRAINING,UG, - ,46
+791,Tuesday,T8,15:00,16:00,EEE 4F LH 02, - ,19EY701 - Soft Skills,NEW_TRG1 - NEW_TRG1 NEW_TRG1, - ,2D1-3,ODD-JUNIOR,25,TRAINING,UG, - ,24
+792,Tuesday,T9,16:00,17:00,EEE 4F LH 02, - ,19EY701 - Soft Skills,NEW_TRG1 - NEW_TRG1 NEW_TRG1, - ,2D1-3,ODD-JUNIOR,25,TRAINING,UG, - ,24
+793,Friday,F8,15:00,16:00,CSE 3F OW LH 05, - ,19EY701 - Soft Skills,NEW_TRG3 - NEW_TRG3 ., - ,2I1-2,ODD-JUNIOR,25,TRAINING,UG, - ,41
+794,Friday,F9,16:00,17:00,CSE 3F OW LH 05, - ,19EY701 - Soft Skills,NEW_TRG3 - NEW_TRG3 ., - ,2I1-2,ODD-JUNIOR,25,TRAINING,UG, - ,41
+795,Thursday,TH1,08:00,09:00,CSE 3F OW LH 05, - ,19EY701 - Soft Skills,NEW_TRG3 - NEW_TRG3 ., - ,2C1-4,ODD-JUNIOR,25,TRAINING,UG, - ,20
+796,Thursday,TH2,09:00,10:00,CSE 3F OW LH 05, - ,19EY701 - Soft Skills,NEW_TRG3 - NEW_TRG3 ., - ,2C1-4,ODD-JUNIOR,25,TRAINING,UG, - ,20
+797,Thursday,TH1,08:00,09:00,CSE 3F OW LH 03, - ,19EY701 - Soft Skills,NEW_TRG1 - NEW_TRG1 NEW_TRG1, - ,2C1-3,ODD-JUNIOR,25,TRAINING,UG, - ,39
+798,Thursday,TH2,09:00,10:00,CSE 3F OW LH 03, - ,19EY701 - Soft Skills,NEW_TRG1 - NEW_TRG1 NEW_TRG1, - ,2C1-3,ODD-JUNIOR,25,TRAINING,UG, - ,39
+799,Wednesday,W8,15:00,16:00,CSE 3F OW LH 04, - ,19EY701 - Soft Skills,NEW_TRG1 - NEW_TRG1 NEW_TRG1, - ,2B1-4,ODD-JUNIOR,25,TRAINING,UG, - ,6
+800,Wednesday,W9,16:00,17:00,CSE 3F OW LH 04, - ,19EY701 - Soft Skills,NEW_TRG1 - NEW_TRG1 NEW_TRG1, - ,2B1-4,ODD-JUNIOR,25,TRAINING,UG, - ,6
+801,Friday,F8,15:00,16:00,CSE 3F OW LH 03, - ,19EY701 - Soft Skills,NEW_TRG1 - NEW_TRG1 NEW_TRG1, - ,2I1-1,ODD-JUNIOR,25,TRAINING,UG, - ,43
+802,Friday,F9,16:00,17:00,CSE 3F OW LH 03, - ,19EY701 - Soft Skills,NEW_TRG1 - NEW_TRG1 NEW_TRG1, - ,2I1-1,ODD-JUNIOR,25,TRAINING,UG, - ,43
+803,Monday,M3,10:00,11:00,EEE 2F LH 01, - ,19EY701 - Soft Skills,NEW_TRG1 - NEW_TRG1 NEW_TRG1, - ,2H1-2,ODD-JUNIOR,25,TRAINING,UG, - ,48
+804,Monday,M4,11:00,12:00,EEE 2F LH 01, - ,19EY701 - Soft Skills,NEW_TRG1 - NEW_TRG1 NEW_TRG1, - ,2H1-2,ODD-JUNIOR,25,TRAINING,UG, - ,48
+805,Monday,M6,13:00,14:00,EEE 2F LH 01, - ,19EY701 - Soft Skills,NEW_TRG1 - NEW_TRG1 NEW_TRG1, - ,2G1-2,ODD-JUNIOR,25,TRAINING,UG, - ,45
+806,Monday,M7,14:00,15:00,EEE 2F LH 01, - ,19EY701 - Soft Skills,NEW_TRG1 - NEW_TRG1 NEW_TRG1, - ,2G1-2,ODD-JUNIOR,25,TRAINING,UG, - ,45
+807,Monday,M3,10:00,11:00,ADMIN 4F LH 01, - ,19EY701 - Soft Skills,SECTRG42 - Jacob Sid Mathew, - ,2H1-1,ODD-JUNIOR,25,TRAINING,UG, - ,47
+808,Monday,M4,11:00,12:00,ADMIN 4F LH 01, - ,19EY701 - Soft Skills,SECTRG42 - Jacob Sid Mathew, - ,2H1-1,ODD-JUNIOR,25,TRAINING,UG, - ,47
+809,Monday,M6,13:00,14:00,ADMIN 5F OW LH 06, - ,19EY701 - Soft Skills,NEW_TRG4 - NEW_TRG4 NEW_TRG4, - ,2G1-1,ODD-JUNIOR,25,TRAINING,UG, - ,37
+810,Monday,M7,14:00,15:00,ADMIN 5F OW LH 06, - ,19EY701 - Soft Skills,NEW_TRG4 - NEW_TRG4 NEW_TRG4, - ,2G1-1,ODD-JUNIOR,25,TRAINING,UG, - ,37
+811,Wednesday,W8,15:00,16:00,CSE 3F OW LH 05, - ,19EY701 - Soft Skills,NEW_TRG4 - NEW_TRG4 NEW_TRG4, - ,2B1-3,ODD-JUNIOR,25,TRAINING,UG, - ,31
+812,Wednesday,W9,16:00,17:00,CSE 3F OW LH 05, - ,19EY701 - Soft Skills,NEW_TRG4 - NEW_TRG4 NEW_TRG4, - ,2B1-3,ODD-JUNIOR,25,TRAINING,UG, - ,31
+813,Wednesday,W1,08:00,09:00,RB 1F LH 06, - ,19EY701 - Soft Skills,TSSH214 - Saranya V, - ,2F1-2,ODD-JUNIOR,25,TRAINING,UG, - ,44
+814,Wednesday,W2,09:00,10:00,RB 1F LH 06, - ,19EY701 - Soft Skills,TSSH214 - Saranya V, - ,2F1-2,ODD-JUNIOR,25,TRAINING,UG, - ,44
+815,Wednesday,W1,08:00,09:00,CSE 3F OW LH 03, - ,19EY701 - Soft Skills,NEW_TRG2 - NEW_TRG2 ., - ,2F1-1,ODD-JUNIOR,25,TRAINING,UG, - ,45
+816,Wednesday,W2,09:00,10:00,CSE 3F OW LH 03, - ,19EY701 - Soft Skills,NEW_TRG2 - NEW_TRG2 ., - ,2F1-1,ODD-JUNIOR,25,TRAINING,UG, - ,45
+817,Thursday,TH3,10:00,11:00,RB 3F LH 10, - ,19EY701 - Soft Skills,SECTRG40 - JAYPREETHA V R, - ,2E1-2,ODD-JUNIOR,25,TRAINING,UG, - ,44
+818,Thursday,TH4,11:00,12:00,RB 3F LH 10, - ,19EY701 - Soft Skills,SECTRG40 - JAYPREETHA V R, - ,2E1-2,ODD-JUNIOR,25,TRAINING,UG, - ,44
+819,Thursday,TH3,10:00,11:00,RB 3F LH 17, - ,19EY701 - Soft Skills,SECTRG38 - Rajesh Emmanuel, - ,2E1-1,ODD-JUNIOR,25,TRAINING,UG, - ,43
+820,Thursday,TH4,11:00,12:00,RB 3F LH 17, - ,19EY701 - Soft Skills,SECTRG38 - Rajesh Emmanuel, - ,2E1-1,ODD-JUNIOR,25,TRAINING,UG, - ,43
+821,Tuesday,T8,15:00,16:00,ECE 2F LH 01, - ,19EY701 - Soft Skills,SECTRG38 - Rajesh Emmanuel, - ,2D1-2,ODD-JUNIOR,25,TRAINING,UG, - ,45
+822,Tuesday,T9,16:00,17:00,ECE 2F LH 01, - ,19EY701 - Soft Skills,SECTRG38 - Rajesh Emmanuel, - ,2D1-2,ODD-JUNIOR,25,TRAINING,UG, - ,45
+823,Thursday,TH1,08:00,09:00,EEE 2F LH 01, - ,19EY701 - Soft Skills,TSSH209 - Pandiyan R, - ,2C1-2,ODD-JUNIOR,25,TRAINING,UG, - ,45
+824,Thursday,TH2,09:00,10:00,EEE 2F LH 01, - ,19EY701 - Soft Skills,TSSH209 - Pandiyan R, - ,2C1-2,ODD-JUNIOR,25,TRAINING,UG, - ,45
+825,Tuesday,T8,15:00,16:00,RB GF LH 01, - ,19EY701 - Soft Skills,TSSH209 - Pandiyan R, - ,2D1-1,ODD-JUNIOR,25,TRAINING,UG, - ,45
+826,Tuesday,T9,16:00,17:00,RB GF LH 01, - ,19EY701 - Soft Skills,TSSH209 - Pandiyan R, - ,2D1-1,ODD-JUNIOR,25,TRAINING,UG, - ,45
+827,Wednesday,W8,15:00,16:00,CSE 3F OW LH 03, - ,19EY701 - Soft Skills,SECTRG39 - David Raja V, - ,2B1-2,ODD-JUNIOR,25,TRAINING,UG, - ,46
+828,Wednesday,W9,16:00,17:00,CSE 3F OW LH 03, - ,19EY701 - Soft Skills,SECTRG39 - David Raja V, - ,2B1-2,ODD-JUNIOR,25,TRAINING,UG, - ,46
+829,Thursday,TH1,08:00,09:00,CSE 3F OW LH 04, - ,19EY701 - Soft Skills,SECTRG39 - David Raja V, - ,2C1-1,ODD-JUNIOR,25,TRAINING,UG, - ,44
+830,Thursday,TH2,09:00,10:00,CSE 3F OW LH 04, - ,19EY701 - Soft Skills,SECTRG39 - David Raja V, - ,2C1-1,ODD-JUNIOR,25,TRAINING,UG, - ,44
+831,Friday,F6,13:00,14:00,CSE 3F OW LH 04, - ,19EY701 - Soft Skills,TSBA047 - Sneha Priya p, - ,2A1-1,ODD-JUNIOR,25,TRAINING,UG, - ,47
+832,Friday,F7,14:00,15:00,CSE 3F OW LH 04, - ,19EY701 - Soft Skills,TSBA047 - Sneha Priya p, - ,2A1-1,ODD-JUNIOR,25,TRAINING,UG, - ,47
+833,Friday,F6,13:00,14:00,CSE 3F OW LH 05, - ,19EY701 - Soft Skills,SECTRG39 - David Raja V, - ,2A1-2,ODD-JUNIOR,25,TRAINING,UG, - ,46
+834,Friday,F7,14:00,15:00,CSE 3F OW LH 05, - ,19EY701 - Soft Skills,SECTRG39 - David Raja V, - ,2A1-2,ODD-JUNIOR,25,TRAINING,UG, - ,46
+835,Wednesday,W8,15:00,16:00,EEE 2F LH 01, - ,19EY701 - Soft Skills,TSBA047 - Sneha Priya p, - ,2B1-1,ODD-JUNIOR,25,TRAINING,UG, - ,47
+836,Wednesday,W9,16:00,17:00,EEE 2F LH 01, - ,19EY701 - Soft Skills,TSBA047 - Sneha Priya p, - ,2B1-1,ODD-JUNIOR,25,TRAINING,UG, - ,47
+837,Monday,M6,13:00,14:00,RB 2F LH 03, - ,19PH203 - Engineering Physics,TSSH126 - Suresh S, - ,4F1-1,ODD-JUNIOR,25,PHYSICS,UG, - ,26
+838,Monday,M7,14:00,15:00,RB 2F LH 03, - ,19PH203 - Engineering Physics,TSSH126 - Suresh S, - ,4F1-1,ODD-JUNIOR,25,PHYSICS,UG, - ,26
+839,Wednesday,W6,13:00,14:00,RB 1F PHYSICS LAB 2, - ,19PH203 - Engineering Physics,TSSH126 - Suresh S, - ,4F1-1,ODD-JUNIOR,25,PHYSICS,UG, - ,26
+840,Wednesday,W7,14:00,15:00,RB 1F PHYSICS LAB 2, - ,19PH203 - Engineering Physics,TSSH126 - Suresh S, - ,4F1-1,ODD-JUNIOR,25,PHYSICS,UG, - ,26
+841,Monday,M1,08:00,09:00,RB 3F LH 01, - ,19MA201 - Calculus and Matrix Algebra,TSSH228 - Premila S C, - ,4D1-2,ODD-JUNIOR,25,Maths,UG, - ,58
+842,Monday,M2,09:00,10:00,RB 3F LH 01, - ,19MA201 - Calculus and Matrix Algebra,TSSH228 - Premila S C, - ,4D1-2,ODD-JUNIOR,25,Maths,UG, - ,58
+843,Thursday,TH3,10:00,11:00,RB 3F LH 12, - ,19MA201 - Calculus and Matrix Algebra,TSSH228 - Premila S C, - ,4D1-2,ODD-JUNIOR,25,Maths,UG, - ,58
+844,Thursday,TH4,11:00,12:00,RB 3F LH 12, - ,19MA201 - Calculus and Matrix Algebra,TSSH228 - Premila S C, - ,4D1-2,ODD-JUNIOR,25,Maths,UG, - ,58
+845,Thursday,TH8,15:00,16:00,RB 3F LH 01, - ,19MA201 - Calculus and Matrix Algebra,TSSH230 - Kuppan A, - ,4E1-1,ODD-JUNIOR,25,Maths,UG, - ,60
+846,Thursday,TH9,16:00,17:00,RB 3F LH 01, - ,19MA201 - Calculus and Matrix Algebra,TSSH230 - Kuppan A, - ,4E1-1,ODD-JUNIOR,25,Maths,UG, - ,60
+847,Friday,F1,08:00,09:00,EEE 4F LH 02, - ,19MA201 - Calculus and Matrix Algebra,TSSH230 - Kuppan A, - ,4E1-1,ODD-JUNIOR,25,Maths,UG, - ,60
+848,Friday,F2,09:00,10:00,EEE 4F LH 02, - ,19MA201 - Calculus and Matrix Algebra,TSSH230 - Kuppan A, - ,4E1-1,ODD-JUNIOR,25,Maths,UG, - ,60
+849,Monday,M1,08:00,09:00,RB 1F LH 05, - ,19MA201 - Calculus and Matrix Algebra,TSSH203 - Rajaraman R, - ,4D1-1,ODD-JUNIOR,25,Maths,UG, - ,56
+850,Monday,M2,09:00,10:00,RB 1F LH 05, - ,19MA201 - Calculus and Matrix Algebra,TSSH203 - Rajaraman R, - ,4D1-1,ODD-JUNIOR,25,Maths,UG, - ,56
+851,Thursday,TH3,10:00,11:00,RB 3F LH 13, - ,19MA201 - Calculus and Matrix Algebra,TSSH203 - Rajaraman R, - ,4D1-1,ODD-JUNIOR,25,Maths,UG, - ,56
+852,Thursday,TH4,11:00,12:00,RB 3F LH 13, - ,19MA201 - Calculus and Matrix Algebra,TSSH203 - Rajaraman R, - ,4D1-1,ODD-JUNIOR,25,Maths,UG, - ,56
+853,Monday,M6,13:00,14:00,RB 3F LH 01, - ,19MA201 - Calculus and Matrix Algebra,TSSH223 - Sravya P R, - ,4C1-2,ODD-JUNIOR,25,Maths,UG, - ,59
+854,Monday,M7,14:00,15:00,RB 3F LH 01, - ,19MA201 - Calculus and Matrix Algebra,TSSH223 - Sravya P R, - ,4C1-2,ODD-JUNIOR,25,Maths,UG, - ,59
+855,Tuesday,T3,10:00,11:00,RB 2F LH 05, - ,19MA201 - Calculus and Matrix Algebra,TSSH223 - Sravya P R, - ,4C1-2,ODD-JUNIOR,25,Maths,UG, - ,59
+856,Tuesday,T4,11:00,12:00,RB 2F LH 05, - ,19MA201 - Calculus and Matrix Algebra,TSSH223 - Sravya P R, - ,4C1-2,ODD-JUNIOR,25,Maths,UG, - ,59
+857,Thursday,TH8,15:00,16:00,RB 3F LH 08, - ,19MA201 - Calculus and Matrix Algebra,TSSH233 - VINODHINI N, - ,4E1-2,ODD-JUNIOR,25,Maths,UG, - ,39
+858,Thursday,TH9,16:00,17:00,RB 3F LH 08, - ,19MA201 - Calculus and Matrix Algebra,TSSH233 - VINODHINI N, - ,4E1-2,ODD-JUNIOR,25,Maths,UG, - ,39
+859,Friday,F1,08:00,09:00,RB 3F LH 13, - ,19MA201 - Calculus and Matrix Algebra,TSSH233 - VINODHINI N, - ,4E1-2,ODD-JUNIOR,25,Maths,UG, - ,39
+860,Friday,F2,09:00,10:00,RB 3F LH 13, - ,19MA201 - Calculus and Matrix Algebra,TSSH233 - VINODHINI N, - ,4E1-2,ODD-JUNIOR,25,Maths,UG, - ,39
+861,Monday,M6,13:00,14:00,RB 2F LH 04, - ,19MA201 - Calculus and Matrix Algebra,TSSH203 - Rajaraman R, - ,4C1-1,ODD-JUNIOR,25,Maths,UG, - ,60
+862,Monday,M7,14:00,15:00,RB 2F LH 04, - ,19MA201 - Calculus and Matrix Algebra,TSSH203 - Rajaraman R, - ,4C1-1,ODD-JUNIOR,25,Maths,UG, - ,60
+863,Tuesday,T3,10:00,11:00,RB 3F LH 12, - ,19MA201 - Calculus and Matrix Algebra,TSSH203 - Rajaraman R, - ,4C1-1,ODD-JUNIOR,25,Maths,UG, - ,60
+864,Tuesday,T4,11:00,12:00,RB 3F LH 12, - ,19MA201 - Calculus and Matrix Algebra,TSSH203 - Rajaraman R, - ,4C1-1,ODD-JUNIOR,25,Maths,UG, - ,60
+865,Monday,M3,10:00,11:00,RB 3F LH 08, - ,19CY201 - Engineering Chemistry,TSSH215 - SHANTHI S, - ,4B1-1,ODD-JUNIOR,25,CHEMISTRY,UG, - ,26
+866,Monday,M4,11:00,12:00,RB 3F LH 08, - ,19CY201 - Engineering Chemistry,TSSH215 - SHANTHI S, - ,4B1-1,ODD-JUNIOR,25,CHEMISTRY,UG, - ,26
+867,Friday,F3,10:00,11:00,RB 3F LH 20, - ,19CY201 - Engineering Chemistry,TSSH215 - SHANTHI S, - ,4B1-1,ODD-JUNIOR,25,CHEMISTRY,UG, - ,26
+868,Friday,F4,11:00,12:00,RB 3F LH 20, - ,19CY201 - Engineering Chemistry,TSSH215 - SHANTHI S, - ,4B1-1,ODD-JUNIOR,25,CHEMISTRY,UG, - ,26
+869,Tuesday,T1,08:00,09:00,RB 3F LH 10, - ,19AG202 - Principles of Soil Science,TSAE030 - Kumar S, - ,4A1-1,ODD-JUNIOR,25,AGRI,UG, - ,26
+870,Tuesday,T2,09:00,10:00,RB 3F LH 10, - ,19AG202 - Principles of Soil Science,TSAE030 - Kumar S, - ,4A1-1,ODD-JUNIOR,25,AGRI,UG, - ,26
+871,Wednesday,W1,08:00,09:00,RB 2F LH 01, - ,19AG202 - Principles of Soil Science,TSAE030 - Kumar S, - ,4A1-1,ODD-JUNIOR,25,AGRI,UG, - ,26
+872,Wednesday,W2,09:00,10:00,RB 2F LH 01, - ,19AG202 - Principles of Soil Science,TSAE030 - Kumar S, - ,4A1-1,ODD-JUNIOR,25,AGRI,UG, - ,26
+873,Monday,M1,08:00,09:00,RB 1F EP LAB 1, - ,19CE301 - Engineering Drawing and Modeling,TSAE016 - Ragesh K.T, - ,6A1-1,ODD-JUNIOR,25,CIVIL,UG, - ,37
+874,Monday,M2,09:00,10:00,RB 1F EP LAB 1, - ,19CE301 - Engineering Drawing and Modeling,TSAE016 - Ragesh K.T, - ,6A1-1,ODD-JUNIOR,25,CIVIL,UG, - ,37
+875,Wednesday,W3,10:00,11:00,ECE 2F LH 02, - ,19CE301 - Engineering Drawing and Modeling,TSAE016 - Ragesh K.T, - ,6A1-1,ODD-JUNIOR,25,CIVIL,UG, - ,37
+876,Wednesday,W4,11:00,12:00,ECE 2F LH 02, - ,19CE301 - Engineering Drawing and Modeling,TSAE016 - Ragesh K.T, - ,6A1-1,ODD-JUNIOR,25,CIVIL,UG, - ,37
+877,Friday,F6,13:00,14:00,RB 1F DH - 2, - ,19CE301 - Engineering Drawing and Modeling,TSAE016 - Ragesh K.T, - ,6A1-1,ODD-JUNIOR,25,CIVIL,UG, - ,37
+878,Friday,F7,14:00,15:00,RB 1F DH - 2, - ,19CE301 - Engineering Drawing and Modeling,TSAE016 - Ragesh K.T, - ,6A1-1,ODD-JUNIOR,25,CIVIL,UG, - ,37
+879,Monday,M3,10:00,11:00,EEE 3F LH 01, - ,19EN105 - Public Speaking,TSSH161 - ANNE DORTHY, - ,4M1-3,ODD-JUNIOR,23,ENGLISH,UG, - ,22
+880,Monday,M4,11:00,12:00,EEE 3F LH 01, - ,19EN105 - Public Speaking,TSSH161 - ANNE DORTHY, - ,4M1-3,ODD-JUNIOR,23,ENGLISH,UG, - ,22
+881,Thursday,TH6,13:00,14:00,EEE 3F LH 01, - ,19EN105 - Public Speaking,TSSH161 - ANNE DORTHY, - ,4M1-3,ODD-JUNIOR,23,ENGLISH,UG, - ,22
+882,Thursday,TH7,14:00,15:00,EEE 3F LH 01, - ,19EN105 - Public Speaking,TSSH161 - ANNE DORTHY, - ,4M1-3,ODD-JUNIOR,23,ENGLISH,UG, - ,22
+883,Thursday,TH3,10:00,11:00,EEE 3F LH 01, - ,19EN105 - Public Speaking,TSSH025 - Sunitha Deva Kumari D, - ,4G1-3,ODD-JUNIOR,23,ENGLISH,UG, - ,18
+884,Thursday,TH4,11:00,12:00,EEE 3F LH 01, - ,19EN105 - Public Speaking,TSSH025 - Sunitha Deva Kumari D, - ,4G1-3,ODD-JUNIOR,23,ENGLISH,UG, - ,18
+885,Friday,F3,10:00,11:00,CSE 3F LH 01, - ,19EN105 - Public Speaking,TSSH025 - Sunitha Deva Kumari D, - ,4G1-3,ODD-JUNIOR,23,ENGLISH,UG, - ,18
+886,Friday,F4,11:00,12:00,CSE 3F LH 01, - ,19EN105 - Public Speaking,TSSH025 - Sunitha Deva Kumari D, - ,4G1-3,ODD-JUNIOR,23,ENGLISH,UG, - ,18
+887,Tuesday,T6,13:00,14:00,ECE 1F LH 01, - ,19MA208 - Calculus and Matrices,TSSH008 - Jayamani V N, - ,4F1-1,ODD-JUNIOR,25,Maths,UG, - ,26
+888,Tuesday,T7,14:00,15:00,ECE 1F LH 01, - ,19MA208 - Calculus and Matrices,TSSH008 - Jayamani V N, - ,4F1-1,ODD-JUNIOR,25,Maths,UG, - ,26
+889,Thursday,TH8,15:00,16:00,ECE 1F LH 01, - ,19MA208 - Calculus and Matrices,TSSH008 - Jayamani V N, - ,4F1-1,ODD-JUNIOR,25,Maths,UG, - ,26
+890,Thursday,TH9,16:00,17:00,ECE 1F LH 01, - ,19MA208 - Calculus and Matrices,TSSH008 - Jayamani V N, - ,4F1-1,ODD-JUNIOR,25,Maths,UG, - ,26
+891,Thursday,THM1,07:00,07:20,ONLINE, - ,22HS101 - தமிழர் மரபு/ Heritage of Tamils,TSME019 - Manimaran G, - ,Tamil,ODD-JUNIOR,25,AGRI,UG, - ,1556
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
