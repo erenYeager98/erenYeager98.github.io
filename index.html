@@ -1,1 +1,111 @@
-<iframe width="350" height="430" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/5fce84bc-f8ea-41f0-ad78-e80a75427166"></iframe>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Valentine ❤️</title>
+</head>
+<body>
+<!-- audio -->
+    <audio id="music" src="assets/song.mp3" autoplay></audio>
+
+    <div class="container">
+        <div id="step1" class="step active">
+            <img src="assets/1.gif" alt="Image 1">
+            <h2>Will you be my Valentine?</h2>
+            <button class="primary" id="playAudio1" onclick="showFinal()">Yes</button>
+            <button class="secondary" id="playAudio" onclick="nextStep(2)">No</button>
+        </div>
+        <div id="step2" class="step">
+            <img src="assets/2.gif" alt="Image 2">
+            <h2>Will you be my Valentine?</h2>
+            <button class="primary" onclick="showFinal()">Yes</button>
+            <button class="secondary" onclick="nextStep(3)">Are you sure</button>
+        </div>
+        <div id="step3" class="step">
+            <img src="assets/3.gif" alt="Image 3">
+            <h2>Will you be my Valentine?</h2>
+            <button class="primary" onclick="showFinal()">Yes</button>
+            <button class="secondary" onclick="nextStep(4)">Pookie please</button>
+        </div>
+        <div id="step4" class="step">
+            <img src="assets/4.gif" alt="Image 4">
+            <h2>Will you be my Valentine?</h2>
+            <button class="primary" onclick="showFinal()">Yes</button>
+            <button class="secondary" onclick="nextStep(5)">Don't do this to me</button>
+        </div>
+        <div id="step5" class="step">
+            <img src="assets/5.gif" alt="Image 5">
+            <h2>Will you be my Valentine?</h2>
+            <button class="primary" onclick="showFinal()">Yes</button>
+            <button class="secondary" onclick="nextStep(6)">You're breaking my heart</button>
+        </div>
+        <div id="step6" class="step">
+            <img src="assets/6.gif" alt="Image 6">
+            <h2>Will you be my Valentine?</h2>
+            <button class="primary" onclick="showFinal()">Yes</button>
+            <button class="secondary" onclick="press()">I'm gonna cry..</button>
+        </div>
+        <!-- <div id="step7" class="step">
+            <img src="" alt="Image 7">
+            <h2></h2>
+            <button class="primary" onclick="showFinal()">Yes</button>
+            <button class="secondary" onclick="nextStep(8)">No</button>
+        </div> -->
+        <div id="final" class="final">
+            <img src="assets/final.gif" alt="" srcset="">
+            <h2>Yayyyy! I love you too Babe❤️</h2>
+            <p>Let's get married 💍 </p>
+        </div>
+    </div>
+
+    <script>
+        function nextStep(step) {
+            let current = document.querySelector(".active");
+            if (current) current.classList.remove("active");
+            let next = document.getElementById("step" + step);
+            if (next) next.classList.add("active");
+        }
+
+        function showFinal() {
+            document.querySelectorAll(".step").forEach(div => div.style.display = "none");
+            document.getElementById("final").style.display = "block";
+        }
+
+        function press(){
+            alert("Pookie... plsss")
+        }
+
+        // audio playing
+        document.getElementById("playAudio").addEventListener("click", function () {
+            let audio = document.getElementById("music");
+
+            // Try playing the audio
+            let playPromise = audio.play();
+
+            if (playPromise !== undefined) {
+                playPromise.then(() => {
+                    console.log("Audio is playing.");
+                }).catch(error => {
+                    console.log("Error playing audio:", error);
+                });
+            }
+        });
+        document.getElementById("playAudio1").addEventListener("click", function () {
+            let audio = document.getElementById("music");
+
+            // Try playing the audio
+            let playPromise = audio.play();
+
+            if (playPromise !== undefined) {
+                playPromise.then(() => {
+                    console.log("Audio is playing.");
+                }).catch(error => {
+                    console.log("Error playing audio:", error);
+                });
+            }
+        });
+    </script>
+</body>
+</html>

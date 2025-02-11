@@ -1,2 +1,1 @@
-# erenYeager98.github.io
-What could you expect? This is just a static website.
+I don't have pookie guys, Share with your friends

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multi-Step Divs</title>
+    <style>
+        .container { text-align: center; margin-top: 50px; }
+        .step { display: none; }
+        .final { display: none; }
+        .active { display: block; }
+        button { margin: 10px; padding: 10px; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="step1" class="step active">
+            <img src="https://via.placeholder.com/150" alt="Image 1">
+            <h2>Step 1</h2>
+            <button onclick="showFinal()">Yes</button>
+            <button onclick="nextStep(2)">No</button>
+        </div>
+        <div id="step2" class="step">
+            <img src="https://via.placeholder.com/150" alt="Image 2">
+            <h2>Step 2</h2>
+            <button onclick="showFinal()">Yes</button>
+            <button onclick="nextStep(3)">No</button>
+        </div>
+        <div id="step3" class="step">
+            <img src="https://via.placeholder.com/150" alt="Image 3">
+            <h2>Step 3</h2>
+            <button onclick="showFinal()">Yes</button>
+            <button onclick="nextStep(4)">No</button>
+        </div>
+        <div id="step4" class="step">
+            <img src="https://via.placeholder.com/150" alt="Image 4">
+            <h2>Step 4</h2>
+            <button onclick="showFinal()">Yes</button>
+            <button onclick="nextStep(5)">No</button>
+        </div>
+        <div id="step5" class="step">
+            <img src="https://via.placeholder.com/150" alt="Image 5">
+            <h2>Step 5</h2>
+            <button onclick="showFinal()">Yes</button>
+            <button onclick="nextStep(6)">No</button>
+        </div>
+        <div id="step6" class="step">
+            <img src="https://via.placeholder.com/150" alt="Image 6">
+            <h2>Step 6</h2>
+            <button onclick="showFinal()">Yes</button>
+            <button onclick="nextStep(7)">No</button>
+        </div>
+        <div id="step7" class="step">
+            <img src="https://via.placeholder.com/150" alt="Image 7">
+            <h2>Step 7</h2>
+            <button onclick="showFinal()">Yes</button>
+            <button onclick="nextStep(8)">No</button>
+        </div>
+        <div id="final" class="final">
+            <h2>Final Step</h2>
+            <p>Congratulations! You have reached the final step.</p>
+        </div>
+    </div>
+
+    <script>
+        function nextStep(step) {
+            let current = document.querySelector(".active");
+            if (current) current.classList.remove("active");
+            let next = document.getElementById("step" + step);
+            if (next) next.classList.add("active");
+        }
+
+        function showFinal() {
+            document.querySelectorAll(".step").forEach(div => div.style.display = "none");
+            document.getElementById("final").style.display = "block";
+        }
+    </script>
+</body>
+</html>
